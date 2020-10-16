@@ -1,0 +1,93 @@
+Moses - A beam search decoder for phrase-based statistical machine translation models
+Copyright (C) 2006 University of Edinburgh
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+
+***********************************************************************
+
+Built on Aug 25 2017 at 20:52:36
+
+WHO'S FAULT IS THIS GODDAM SOFTWARE:
+Nicola Bertoldi	   contact: 911   I'll answer question on: scripts & other stuff
+Wade Shen	   contact: via morse code   buying another laptop
+Hieu Hoang	   contact: http://www.hoang.co.uk/hieu/   phd student at Edinburgh Uni. Original Moses developer   I'll answer question on: general queries/ flames on Moses.
+Alexandra Constantin   eu sunt varza
+Richard Zens	   contact: richard at aachen dot de   I'll answer question on: ambiguous source input, confusion networks, confusing source code
+Marcello Federico	   contact: federico at itc at it   Researcher at ITC-irst, Trento, Italy   I'll answer question on: IRST language model
+Philipp Koehn	   contact: only between 2 and 4am   I'll answer question on: Nothing fazes this dude
+Chris Callison-Burch	   contact: anytime, anywhere   international playboy
+Evan Herbst	   contact: Small college in upstate New York
+Brooke Cowan	   contact: brooke@csail.mit.edu   if you're going to san francisco, be sure to wear a flower in your hair
+Ondrej Bojar   czech this out!
+Christine Moran	   contact: weird building at MIT
+Chris Dyer	   contact: can't. i'll be out driving my mustang   driving my mustang
+
+
+Usage:
+
+Main Options:
+  -f [ --config ]                       location of the configuration file
+  -i [ --input-file ]                   location of the input file to be 
+                                        translated
+  -v [ --verbose ]                      verbosity level of the logging
+  --version                             show version of Moses and libraries 
+                                        used
+  --show-weights                        print feature weights and exit
+  --time-out                            seconds after which is interrupted 
+                                        (-1=no time-out, default is -1)
+  --segment-time-out                    seconds for single segment after which 
+                                        is interrupted (-1=no time-out, default
+                                        is -1)
+
+Moses Server Options:
+  --server                              Run moses as a translation server.
+  --daemon                              Run moses as a translation server in 
+                                        the background.
+  --server-port                         Port for moses server
+  --server-log                          Log destination for moses server
+  --serial                              Run server in serial mode, processing 
+                                        only one request at a time.
+  --server-maxconn                      Max. No of simultaneous HTTP 
+                                        transactions allowed by the server.
+  --server-maxconn-backlog              Max. No. of requests the OS will queue 
+                                        if the server is busy.
+  --server-keepalive-maxconn            Max. No. of requests the server will 
+                                        accept on a singDefined parameters (per moses.ini or switch):
+	config: working/mkb.test.filtered/moses.ini 
+	distortion-limit: 6 
+	feature: UnknownWordPenalty WordPenalty PhrasePenalty PhraseDictionaryMemory name=TranslationModel0 num-features=4 path=/mnt/c/Users/chait/sem5/nlp/ensemble-mt/working/mkb.test.filtered/phrase-table.0-0.1.1.gz input-factor=0 output-factor=0 LexicalReordering name=LexicalReordering0 num-features=6 type=wbe-msd-bidirectional-fe-allff input-factor=0 output-factor=0 path=/mnt/c/Users/chait/sem5/nlp/ensemble-mt/working/mkb.test.filtered/reordering-table.wbe-msd-bidirectional-fe.0-0.1 Distortion KENLM name=LM0 factor=0 path=/home/es4/sem5/nlp/ensemble-mt/lm/mkb.blm.en order=3 
+	input-factors: 0 
+	mapping: 0 T 0 
+	weight: UnknownWordPenalty0= 1 WordPenalty0= -1 PhrasePenalty0= 0.2 TranslationModel0= 0.2 0.2 0.2 0.2 LexicalReordering0= 0.3 0.3 0.3 0.3 0.3 0.3 Distortion0= 0.3 LM0= 0.5 
+line=UnknownWordPenalty
+FeatureFunction: UnknownWordPenalty0 start: 0 end: 0
+line=WordPenalty
+FeatureFunction: WordPenalty0 start: 1 end: 1
+line=PhrasePenalty
+FeatureFunction: PhrasePenalty0 start: 2 end: 2
+line=PhraseDictionaryMemory name=TranslationModel0 num-features=4 path=/mnt/c/Users/chait/sem5/nlp/ensemble-mt/working/mkb.test.filtered/phrase-table.0-0.1.1.gz input-factor=0 output-factor=0
+FeatureFunction: TranslationModel0 start: 3 end: 6
+line=LexicalReordering name=LexicalReordering0 num-features=6 type=wbe-msd-bidirectional-fe-allff input-factor=0 output-factor=0 path=/mnt/c/Users/chait/sem5/nlp/ensemble-mt/working/mkb.test.filtered/reordering-table.wbe-msd-bidirectional-fe.0-0.1
+Initializing Lexical Reordering Feature..
+FeatureFunction: LexicalReordering0 start: 7 end: 12
+line=Distortion
+FeatureFunction: Distortion0 start: 13 end: 13
+line=KENLM name=LM0 factor=0 path=/home/es4/sem5/nlp/ensemble-mt/lm/mkb.blm.en order=3
+FeatureFunction: LM0 start: 14 end: 14
+Loading UnknownWordPenalty0
+Loading WordPenalty0
+Loading PhrasePenalty0
+Loading LexicalReordering0
+Loading table into memory...
