@@ -1,0 +1,5000 @@
+Streaming output truncated to the last 5000 lines.
+PRED 4582: "आप प्याली के नीचे होना चाहिए."
+PRED SCORE: -5.0880
+
+[2020-10-27 12:12:07,224 INFO] 
+SENT 4583: ['"-', 'I', 'did', 'not', 'ask', 'permission."']
+PRED 4583: "- मैं नहीं मांगती."
+PRED SCORE: -2.1528
+
+[2020-10-27 12:12:07,224 INFO] 
+SENT 4584: ['"Good', 'one."']
+PRED 4584: "-अच्छी कहानी है।"
+PRED SCORE: -0.1950
+
+[2020-10-27 12:12:07,224 INFO] 
+SENT 4585: ['"How', 'to', 'love', 'a', 'girl', 'in', '30', 'minutes!"']
+PRED 4585: "कैसे एक बालिका घंटे में एक लड़की को प्यार करती है?"
+PRED SCORE: -2.9448
+
+[2020-10-27 12:12:07,225 INFO] 
+SENT 4586: ['"I\'d', 'have', 'attacked', 'the', 'ship"']
+PRED 4586: "मैं जहाज पर हमला किया है"
+PRED SCORE: -0.0106
+
+[2020-10-27 12:12:07,225 INFO] 
+SENT 4587: ['"Come', 'on."']
+PRED 4587: चलो.
+PRED SCORE: -0.7355
+
+[2020-10-27 12:12:07,225 INFO] 
+SENT 4588: ['"To', 'them,', 'time', 'might', 'be', 'another', 'physical', 'dimension."']
+PRED 4588: "उन्हें एक और कार्यवाही की तरह हो सकता है."
+PRED SCORE: -2.9696
+
+[2020-10-27 12:12:07,225 INFO] 
+SENT 4589: ['"""Tyres', 'screech', 'to', 'a', 'crescendo"""']
+PRED 4589: """टायर्स एक तेज करने के लिए फटा आवाज़"""
+PRED SCORE: -0.0130
+
+[2020-10-27 12:12:07,225 INFO] 
+SENT 4590: ['"But', "we've", 'got', 'to', 'figure', 'something', 'out', 'or', 'the', 'people', 'on', 'Earth', 'are', 'gonna', 'die."']
+PRED 4590: "लेकिन हम कुछ भी प्राप्त कर रहे हैं या पृथ्वी पर कुछ भी करने वाले हैं."
+PRED SCORE: -2.3895
+
+[2020-10-27 12:12:08,665 INFO] 
+SENT 4591: ['"This', 'landsman,', 'believes', 'an', 'old', "sailor's", 'myth."']
+PRED 4591: "यह पैरामस, एक पुराना नाविक की दुकान?"
+PRED SCORE: -4.1302
+
+[2020-10-27 12:12:08,665 INFO] 
+SENT 4592: ['"Which', 'I', 'why', 'show', 'up', 'today."']
+PRED 4592: "मैं आज रात को दिखाने के लिए क्यों समझते हैं."
+PRED SCORE: -3.6628
+
+[2020-10-27 12:12:08,665 INFO] 
+SENT 4593: ['"They', 'found', 'the', 'cemetery."']
+PRED 4593: "बैंक पाया . / मैं"
+PRED SCORE: -3.4160
+
+[2020-10-27 12:12:08,665 INFO] 
+SENT 4594: ['"Sean,', "don't", 'do', 'that."']
+PRED 4594: "ऐसा मत करो."
+PRED SCORE: -1.1693
+
+[2020-10-27 12:12:08,665 INFO] 
+SENT 4595: ['"It\'s', 'the', 'only', 'link', 'to', 'who', 'I', 'am.', 'Who', 'my', 'father', 'was."']
+PRED 4595: "यह केवल एकमात्र ज़रिया है जो मेरे पिता जिसके पिता था."
+PRED SCORE: -3.7187
+
+[2020-10-27 12:12:08,666 INFO] 
+SENT 4596: ['"She\'s', 'a', 'tiny', 'little', 'girl."']
+PRED 4596: "वह एक छोटी सी लड़की है."
+PRED SCORE: -1.6925
+
+[2020-10-27 12:12:08,666 INFO] 
+SENT 4597: ['"Do', 'you', 'understand', 'that?"']
+PRED 4597: "समझते हो?"
+PRED SCORE: -0.3762
+
+[2020-10-27 12:12:08,666 INFO] 
+SENT 4598: ['"M\'s', 'gonna', 'need', 'your', 'help."']
+PRED 4598: "Arove आराम की जरूरत वाला है."
+PRED SCORE: -2.7090
+
+[2020-10-27 12:12:08,666 INFO] 
+SENT 4599: ['"Balu,', 'stop', 'it', 'here!"']
+PRED 4599: "Y-तुम यहाँ इसे रोके!"
+PRED SCORE: -2.7048
+
+[2020-10-27 12:12:08,666 INFO] 
+SENT 4600: ['Brother-in-law!']
+PRED 4600: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:08,666 INFO] 
+SENT 4601: ['"Ladies', 'and', 'gentlemen,', "I'm", 'Burt', 'Wonderstone."']
+PRED 4601: "देवियों और सज्जनों, मैं बर्ट Wonderstone हूँ."
+PRED SCORE: -0.3343
+
+[2020-10-27 12:12:08,666 INFO] 
+SENT 4602: ['Mmm.']
+PRED 4602: मम्म.
+PRED SCORE: -0.9944
+
+[2020-10-27 12:12:08,666 INFO] 
+SENT 4603: ['"Do', 'what', 'you', 'gotta', 'do."']
+PRED 4603: "तुम्हें क्या करना होगा."
+PRED SCORE: -1.5704
+
+[2020-10-27 12:12:08,666 INFO] 
+SENT 4604: ['"The', 'world', 'needs', 'to', 'know', 'what', 'happened', 'in', 'that', 'desert."']
+PRED 4604: "दुनिया को पता की जरूरत है क्या ऐसा हुआ है कि क्या ?"
+PRED SCORE: -4.0549
+
+[2020-10-27 12:12:08,666 INFO] 
+SENT 4605: ['"People', 'think', '""I', "can't", 'glue', 'or', 'lock', 'on,', 'I', "don't", 'want', 'to', 'be', 'arrested."""']
+PRED 4605: "लोग सोचते हैं कि ""मैं साँस नहीं होती, या मैं मोटापे के लिए प्रोफेसर नहीं करना चाहती।"
+PRED SCORE: -9.2160
+
+[2020-10-27 12:12:08,666 INFO] 
+SENT 4606: ['"Then', 'I', 'got', 'older', 'and', 'more', 'powerful."']
+PRED 4606: "तब मैं एक था... और अधिक शक्तिशाली और अधिक शक्तिशाली है।"
+PRED SCORE: -3.3198
+
+[2020-10-27 12:12:08,667 INFO] 
+SENT 4607: ['"I', 'must', 'be', 'losing', 'it."']
+PRED 4607: "मैं उसे खो देना चाहिए।"
+PRED SCORE: -1.1477
+
+[2020-10-27 12:12:08,667 INFO] 
+SENT 4608: ['"-', 'No,', 'I', 'have', 'not"']
+PRED 4608: "- नहीं, मैं अतिशयोक्ति रहा हूं..."
+PRED SCORE: -2.8596
+
+[2020-10-27 12:12:08,667 INFO] 
+SENT 4609: ['"Do', 'not', 'touch', 'me."']
+PRED 4609: "मुझे छुआ तक नहीं!"
+PRED SCORE: -0.0035
+
+[2020-10-27 12:12:08,667 INFO] 
+SENT 4610: ['"They', 'are', 'cowards,', 'traitors', 'and', 'failures!"']
+PRED 4610: "वे व्यापक-रूप हैं और तदनुसार लगाते हैं जाके ."
+PRED SCORE: -6.4914
+
+[2020-10-27 12:12:08,667 INFO] 
+SENT 4611: ['"You', 'did', 'promise!"']
+PRED 4611: "आप वादा किया था?"
+PRED SCORE: -1.4224
+
+[2020-10-27 12:12:08,667 INFO] 
+SENT 4612: ['"No', 'Afghans', 'expect', 'to', 'return', 'home', 'safely."']
+PRED 4612: "कोई विफल."
+PRED SCORE: -1.2118
+
+[2020-10-27 12:12:08,667 INFO] 
+SENT 4613: ['Brice...']
+PRED 4613: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:08,667 INFO] 
+SENT 4614: ['"For', 'her,', 'it', 'was', 'all-consuming."']
+PRED 4614: "उसे सज़ा स्थगित किया गया."
+PRED SCORE: -4.9034
+
+[2020-10-27 12:12:08,667 INFO] 
+SENT 4615: ['"I-I', "don't", 'know."']
+PRED 4615: "मैं-मैं नहीं लगता।"
+PRED SCORE: -1.7180
+
+[2020-10-27 12:12:08,667 INFO] 
+SENT 4616: ['"You', 'got', 'a', 'fucking', 'warrant?"']
+PRED 4616: "आप एक कमबख्त वारंट मिला?"
+PRED SCORE: -1.7731
+
+[2020-10-27 12:12:08,668 INFO] 
+SENT 4617: ['"This', 'is', 'the', 'last', 'time."']
+PRED 4617: "यह पिछले समय है."
+PRED SCORE: -0.0248
+
+[2020-10-27 12:12:08,668 INFO] 
+SENT 4618: ['"Change', 'only."']
+PRED 4618: "ही केवल .."
+PRED SCORE: -2.6956
+
+[2020-10-27 12:12:08,668 INFO] 
+SENT 4619: ['"Now', 'give', 'me', 'money', 'or', 'I', 'shoot', 'him..."']
+PRED 4619: "अब मुझे पैसे या उसे गोली मार देना होगा?"
+PRED SCORE: -2.4034
+
+[2020-10-27 12:12:08,668 INFO] 
+SENT 4620: ['"(MEN', 'SHOUTING)"']
+PRED 4620: (पुरुषोंचिल्ला)
+PRED SCORE: -0.0032
+
+[2020-10-27 12:12:10,036 INFO] 
+SENT 4621: ['"Yank', 'up', 'to', 'go', 'up."']
+PRED 4621: "हाब्स ऊपर जाने के लिए ."
+PRED SCORE: -1.4538
+
+[2020-10-27 12:12:10,036 INFO] 
+SENT 4622: ['"No,', 'I', "don't", 'expect', 'you', 'to."']
+PRED 4622: "नहीं, मैं आप की उम्मीद नहीं है."
+PRED SCORE: -0.5198
+
+[2020-10-27 12:12:10,036 INFO] 
+SENT 4623: ['"-', 'Yeah,', 'a', 'couple', 'times."']
+PRED 4623: "- हाँ, एक बार ."
+PRED SCORE: -0.9562
+
+[2020-10-27 12:12:10,036 INFO] 
+SENT 4624: ['Well,']
+PRED 4624: "ठीक है, ठीक है."
+PRED SCORE: -0.5105
+
+[2020-10-27 12:12:10,036 INFO] 
+SENT 4625: ['Yes.']
+PRED 4625: हाँ.
+PRED SCORE: -0.8722
+
+[2020-10-27 12:12:10,036 INFO] 
+SENT 4626: ['Hey!']
+PRED 4626: अरे!
+PRED SCORE: -0.3156
+
+[2020-10-27 12:12:10,036 INFO] 
+SENT 4627: ['Yes!']
+PRED 4627: हाँ!
+PRED SCORE: -0.0779
+
+[2020-10-27 12:12:10,036 INFO] 
+SENT 4628: ['Forward!']
+PRED 4628: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:10,037 INFO] 
+SENT 4629: ['"What', 'if', 'they', 'need', 'our', 'help?"']
+PRED 4629: "अगर वे हमारे मदद की ज़रूरत है?"
+PRED SCORE: -1.4250
+
+[2020-10-27 12:12:10,037 INFO] 
+SENT 4630: ['"IT\'S', 'ALL', 'RIGHT,', "ISN'T", 'IT,', 'TO', 'CALL', 'YOU', 'ROY', 'NOW?"']
+PRED 4630: "यह सब ठीक है, यह आप शिक्षण के लिए रास्ता कहते हैं।"
+PRED SCORE: -3.7992
+
+[2020-10-27 12:12:10,037 INFO] 
+SENT 4631: ['Stop!']
+PRED 4631: "बंद करो!"
+PRED SCORE: -0.7245
+
+[2020-10-27 12:12:10,037 INFO] 
+SENT 4632: ['"And', 'my', 'cheeks', 'blossomed', 'like', 'flowers..."']
+PRED 4632: "और मेरे शरारती बदसूरत,
+PRED SCORE: -4.2466
+
+[2020-10-27 12:12:10,037 INFO] 
+SENT 4633: ['"You', 'are', 'both', 'out', 'of', 'alignment."']
+PRED 4633: "आप संरेखण से दोनों बाहर हैं."
+PRED SCORE: -0.0433
+
+[2020-10-27 12:12:10,037 INFO] 
+SENT 4634: ['"WELL,', 'WHO', 'RINGS', 'THEMSELVES', 'UP?"']
+PRED 4634: "ठीक है िक ब्राउन।"
+PRED SCORE: -4.8908
+
+[2020-10-27 12:12:10,037 INFO] 
+SENT 4635: ['"And', 'this', 'is', 'the', 'point', 'where', 'he', 'goes', 'completely', 'crazy."']
+PRED 4635: "और यह है कि वह कहाँ चला जाता है, जहां मतलब है."
+PRED SCORE: -2.0785
+
+[2020-10-27 12:12:10,037 INFO] 
+SENT 4636: ['"And', 'success', 'I', 'find', 'to', 'be', 'as', 'corrupt', 'as', 'failure."']
+PRED 4636: "और मैं आपको प्रेमिकाएं रूप से निपटने के लिए होना चाहिए।"
+PRED SCORE: -7.4927
+
+[2020-10-27 12:12:10,037 INFO] 
+SENT 4637: ['"It\'s', 'fire."']
+PRED 4637: "कोई भी गोली मारता है।"
+PRED SCORE: -2.0868
+
+[2020-10-27 12:12:10,037 INFO] 
+SENT 4638: ['"Even', 'the', 'most', 'damaged', 'heart."']
+PRED 4638: "यहाँ तक ​​कि यातना गायब हो गया है।"
+PRED SCORE: -1.7992
+
+[2020-10-27 12:12:10,037 INFO] 
+SENT 4639: ['"I', 'remember."']
+PRED 4639: "मुझे याद है."
+PRED SCORE: -0.3998
+
+[2020-10-27 12:12:10,038 INFO] 
+SENT 4640: ['GOOD.']
+PRED 4640: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:10,038 INFO] 
+SENT 4641: ['COOPER:']
+PRED 4641: COOPER:
+PRED SCORE: -0.0000
+
+[2020-10-27 12:12:10,038 INFO] 
+SENT 4642: ['"How', "it's", 'gonna', 'feel', 'when', 'I', 'strap', 'this', 'straight', 'to', 'your', 'tongue."']
+PRED 4642: "यह मैं अपनी जीभ से धक्का... ... मैं यह सीधे महसूस करने वाला है."
+PRED SCORE: -6.0420
+
+[2020-10-27 12:12:10,038 INFO] 
+SENT 4643: ['"This', 'is', 'the', 'first', 'time."']
+PRED 4643: "यह पहली बार है."
+PRED SCORE: -0.1041
+
+[2020-10-27 12:12:10,038 INFO] 
+SENT 4644: ['"Hey,', 'have', 'you', 'already', 'made', 'dinner?"']
+PRED 4644: "अरे, तुम पहले से ही पहुंच चुके हैं."
+PRED SCORE: -2.6702
+
+[2020-10-27 12:12:10,038 INFO] 
+SENT 4645: ['ELIZABETH:']
+PRED 4645: एलिजाबेथ:
+PRED SCORE: -0.0633
+
+[2020-10-27 12:12:10,038 INFO] 
+SENT 4646: ['"I', "don't", 'know', 'if', 'I', 'need', 'all', 'of', 'that."']
+PRED 4646: "मुझे नहीं पता था कि अगर मैं सब करने की जरूरत है।"
+PRED SCORE: -3.3356
+
+[2020-10-27 12:12:10,038 INFO] 
+SENT 4647: ['"We', 'got', 'some', 'important', 'people', 'waiting', 'for', 'us."']
+PRED 4647: "हमारे पास कुछ महत्वपूर्ण लोग हमारे लिए इंतजार करते हैं।"
+PRED SCORE: -0.8823
+
+[2020-10-27 12:12:10,038 INFO] 
+SENT 4648: ['(SHOUTING)']
+PRED 4648: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:10,038 INFO] 
+SENT 4649: ['Alaska.']
+PRED 4649: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:10,038 INFO] 
+SENT 4650: ['"There\'s', 'a', 'poker', 'game', 'with', 'the', 'Chief', 'of', 'Staff', 'there."']
+PRED 4650: "वहाँ गोदामों की बहुमत में एक पोकर खेल के साथ."
+PRED SCORE: -4.2397
+
+[2020-10-27 12:12:11,884 INFO] 
+SENT 4651: ['"Burt,', 'how', 'are', 'you?"']
+PRED 4651: "बर्ट, आप कैसे हैं?"
+PRED SCORE: -0.0028
+
+[2020-10-27 12:12:11,884 INFO] 
+SENT 4652: ['"They\'re', 'having', 'a', 'religious', 'ceremony', 'next', 'month."']
+PRED 4652: "वे सात हजार महीने खा रहे हैं।"
+PRED SCORE: -3.2740
+
+[2020-10-27 12:12:11,885 INFO] 
+SENT 4653: ['"What', 'happened,', 'John?"']
+PRED 4653: "क्या हुआ, जॉन?"
+PRED SCORE: -1.2598
+
+[2020-10-27 12:12:11,885 INFO] 
+SENT 4654: ['"She\'s', 'in', 'the', 'middle,', 'yet', "she's", 'on', 'the', 'outside."']
+PRED 4654: "वो अभी तक वह बाहर हो गया है."
+PRED SCORE: -3.5368
+
+[2020-10-27 12:12:11,885 INFO] 
+SENT 4655: ['"I', 'can', 'not', 'believe', 'you', 'said', 'that."']
+PRED 4655: "मैं आप विश्वास नहीं कर सकता."
+PRED SCORE: -2.3569
+
+[2020-10-27 12:12:11,885 INFO] 
+SENT 4656: ['"I', 'need', 'it"']
+PRED 4656: "मुझे इसकी ज़रूरत है।"
+PRED SCORE: -0.5141
+
+[2020-10-27 12:12:11,885 INFO] 
+SENT 4657: ['"But', 'this', 'time', "it's", 'been', 'days', 'and', 'she', "hasn't", 'returned', 'yet."']
+PRED 4657: "लेकिन इस समय यह दिन गया है और वह अभी तक वापस नहीं किया गया है."
+PRED SCORE: -2.4505
+
+[2020-10-27 12:12:11,885 INFO] 
+SENT 4658: ['"We\'\x80\x99re', 'talking', 'about', 'a', 'being', 'whose', 'very', 'existence', 'challenges', 'our', 'own', 'sense', 'of', 'priority', 'in', 'the', 'universe."']
+PRED 4658: "Félix धार के बारे में बात कर रहा है की कोशिश ... ... की सरकार को अपनी त्वचा की नोक को चुनौती दी जाती है।"""
+PRED SCORE: -16.5780
+
+[2020-10-27 12:12:11,885 INFO] 
+SENT 4659: ['"How', 'important', 'this', 'moment', 'is', 'to', 'me."']
+PRED 4659: "यह कितना महत्वपूर्ण है मुझे के लिए महत्वपूर्ण है."
+PRED SCORE: -2.6634
+
+[2020-10-27 12:12:11,885 INFO] 
+SENT 4660: ['Erik?']
+PRED 4660: एरिक?
+PRED SCORE: -0.0046
+
+[2020-10-27 12:12:11,885 INFO] 
+SENT 4661: ['"It\'s', 'Letty,', "isn't", 'it?"']
+PRED 4661: "यह आठवां है न?"
+PRED SCORE: -0.7282
+
+[2020-10-27 12:12:11,885 INFO] 
+SENT 4662: ['Hmm?']
+PRED 4662: हम्म?
+PRED SCORE: -0.0094
+
+[2020-10-27 12:12:11,886 INFO] 
+SENT 4663: ['"First', 'car', 'better', 'be', 'a', 'Charger,', 'Jack."']
+PRED 4663: "सबसे पहले बेहतर एक अचेत हो सकता है, जैक."
+PRED SCORE: -4.7268
+
+[2020-10-27 12:12:11,886 INFO] 
+SENT 4664: ['"Get', 'him!"']
+PRED 4664: "उससे मिलो!"
+PRED SCORE: -0.8255
+
+[2020-10-27 12:12:11,886 INFO] 
+SENT 4665: ['"And', 'where', 'are', 'they', 'now?"']
+PRED 4665: "और जहां वे अब हैं?"
+PRED SCORE: -0.3348
+
+[2020-10-27 12:12:11,886 INFO] 
+SENT 4666: ['"And', 'he', 'saved', 'my', 'life,', 'sir."']
+PRED 4666: "और वह मेरी जान बचाई है, सर."
+PRED SCORE: -0.8907
+
+[2020-10-27 12:12:11,886 INFO] 
+SENT 4667: ['"It\'s', 'a', 'beautiful', 'place."']
+PRED 4667: "यह एक खूबसूरत जगह है।"
+PRED SCORE: -0.5169
+
+[2020-10-27 12:12:11,886 INFO] 
+SENT 4668: ['"We', 'saw', 'things', "we'd", 'never', 'dreamed', 'and', 'could', 'hardly', 'describe.', 'We', 'saw', 'birds', 'that', 'could', 'talk', 'and', 'men', 'that', 'couldn\'t."']
+PRED 4668: देखा."
+PRED SCORE: -3.0629
+
+[2020-10-27 12:12:11,886 INFO] 
+SENT 4669: ['"Don\'t', 'be', 'shy,', 'Lavender."']
+PRED 4669: "शर्म मत बनिए है."
+PRED SCORE: -3.7592
+
+[2020-10-27 12:12:11,886 INFO] 
+SENT 4670: ['"Well,', 'I', 'mean,', 'how', 'could', 'I', 'resist?"']
+PRED 4670: "खैर, मेरा दिल"""
+PRED SCORE: -2.6595
+
+[2020-10-27 12:12:11,886 INFO] 
+SENT 4671: ['"He', 'has', 'no', 'rights."']
+PRED 4671: "वह कोई लगाव नहीं है."
+PRED SCORE: -0.5146
+
+[2020-10-27 12:12:11,886 INFO] 
+SENT 4672: ['Priya!']
+PRED 4672: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:11,886 INFO] 
+SENT 4673: ['"Remember,', 'remember,', 'remember,', 'Remember', 'my', 'name,', 'babe!"']
+PRED 4673: "याद रखें, याद रखना, मेरी नाम की हिम्मत."
+PRED SCORE: -3.7268
+
+[2020-10-27 12:12:11,887 INFO] 
+SENT 4674: ['"What', 'are', 'you', 'using', 'to', 'clean?"']
+PRED 4674: क्याआपअर्जेन्टीनाकेलिएलाया?
+PRED SCORE: -2.3935
+
+[2020-10-27 12:12:11,887 INFO] 
+SENT 4675: ['"This', 'is', 'our', 'Colorado', 'Lounge."']
+PRED 4675: "यह हमारा बगीचा बॉलरूम है."
+PRED SCORE: -1.8922
+
+[2020-10-27 12:12:11,887 INFO] 
+SENT 4676: ['"Probably', 'stolen', 'by', 'the', 'Pirate', 'Bonet."']
+PRED 4676: "शायद डच के दौरे का भला करे."
+PRED SCORE: -6.4146
+
+[2020-10-27 12:12:11,887 INFO] 
+SENT 4677: ['"The', 'trident', 'and', 'rule', 'the', 'sea."']
+PRED 4677: "हमें यहूदी और समुद्र को मजबूत."
+PRED SCORE: -3.8063
+
+[2020-10-27 12:12:11,887 INFO] 
+SENT 4678: ['"-', "It's", 'Miller', 'time."']
+PRED 4678: "- यह टिकाऊ समय है."
+PRED SCORE: -2.5067
+
+[2020-10-27 12:12:11,887 INFO] 
+SENT 4679: ['"I', 'promised', 'you', 'wonderful', 'time', 'in', 'Goa,', 'right?"']
+PRED 4679: "मैंने तुमसे वादा किया था सूर्यास्त में इस विचार में?"
+PRED SCORE: -8.1116
+
+[2020-10-27 12:12:11,887 INFO] 
+SENT 4680: ['"I', 'need', 'you."']
+PRED 4680: "- शुक्रिया."
+PRED SCORE: -0.1363
+
+[2020-10-27 12:12:13,609 INFO] 
+SENT 4681: ['"We\'re', 'killing', 'a', 'god.', 'Let', 'her', 'do', 'it', 'for', 'us."']
+PRED 4681: "हम एक रक्षक मार रहे हैं, उसे हमारे लिए यह करते हैं."
+PRED SCORE: -2.3475
+
+[2020-10-27 12:12:13,610 INFO] 
+SENT 4682: ['"Can', 'you', 'come', 'and', 'get', 'him?"']
+PRED 4682: "आप मिल सकता है और उसे मिल सकता है?"
+PRED SCORE: -1.5182
+
+[2020-10-27 12:12:13,610 INFO] 
+SENT 4683: ['"Stupid', 'chartreuse."']
+PRED 4683: "गंदगी को रोल."
+PRED SCORE: -3.6636
+
+[2020-10-27 12:12:13,610 INFO] 
+SENT 4684: ['"I', 'will', 'show', 'you', 'the', 'true', 'power', 'of', 'chi,', 'brother."']
+PRED 4684: "मैं तुम्हें शुभकामनाएं भाई की शक्ति दिखाता हूं, भाई."
+PRED SCORE: -3.6749
+
+[2020-10-27 12:12:13,610 INFO] 
+SENT 4685: ['"(', 'OMINOUS', 'MUSIC', ')"']
+PRED 4685: "(अशुभ संगीत)"
+PRED SCORE: -0.0108
+
+[2020-10-27 12:12:13,610 INFO] 
+SENT 4686: ['"-', 'Will', 'it', 'stop?"']
+PRED 4686: "- यह ऊन होगा?"
+PRED SCORE: -1.8778
+
+[2020-10-27 12:12:13,610 INFO] 
+SENT 4687: ['"-', 'Kill', 'me"']
+PRED 4687: "मुझे मार डालो।"
+PRED SCORE: -0.0375
+
+[2020-10-27 12:12:13,610 INFO] 
+SENT 4688: ['"Where', 'are', 'you?"']
+PRED 4688: "तुम कहाँ हो?"
+PRED SCORE: -0.3748
+
+[2020-10-27 12:12:13,610 INFO] 
+SENT 4689: ['Neoptolemus.']
+PRED 4689: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:13,610 INFO] 
+SENT 4690: ['"It\'s', 'a', 'little', 'on', 'the', 'experimental', 'side,"']
+PRED 4690: "यह टांके की एक छोटी उंगली है।"
+PRED SCORE: -4.4940
+
+[2020-10-27 12:12:13,610 INFO] 
+SENT 4691: ['"They', 'chose', 'you', 'to', 'protect', 'them."']
+PRED 4691: "वे उन्हें रक्षा करने के लिए आपके द्वारा चुने गए।"
+PRED SCORE: -0.5593
+
+[2020-10-27 12:12:13,610 INFO] 
+SENT 4692: ['"It', 'keeps', 'me', 'young."']
+PRED 4692: "यह मेरे दोस्त रहता है."
+PRED SCORE: -0.4935
+
+[2020-10-27 12:12:13,611 INFO] 
+SENT 4693: ['"You', 'love', 'my', 'panties."']
+PRED 4693: "आप मेरे भाला प्यार करते हैं."
+PRED SCORE: -1.7881
+
+[2020-10-27 12:12:13,611 INFO] 
+SENT 4694: ['"May', 'want', 'to', 'upgrade', 'from', 'carrier', 'pigeons', 'or', 'whatever', 'early', 'man', 'uses."']
+PRED 4694: "क्या Wonderstone सीनेटर से हीरा या जो कुछ भी पढ़ना चाहते हैं""?"
+PRED SCORE: -10.1490
+
+[2020-10-27 12:12:13,611 INFO] 
+SENT 4695: ['"I\'m', 'scared', 'if', 'I', 'do', 'this,', "you're", 'gonna', 'pick', 'a', 'fight."']
+PRED 4695: "मुझे डर है अगर मैं यह कर रहा हूँ, तुम एक लड़ाई लेने वाले हो."
+PRED SCORE: -2.0694
+
+[2020-10-27 12:12:13,611 INFO] 
+SENT 4696: ['"that', 'was', 'a', 'gift', 'from', 'Queen', 'Elizabeth', 'll."']
+PRED 4696: "कि रानी और स्टैप्लटन कृत्यों से एक उपहार था."
+PRED SCORE: -5.6878
+
+[2020-10-27 12:12:13,611 INFO] 
+SENT 4697: ['"I', 'can', 'not', 'risk', 'revealed."']
+PRED 4697: "मैं सैनटिनो नहीं कर सकता हूं."
+PRED SCORE: -4.0143
+
+[2020-10-27 12:12:13,611 INFO] 
+SENT 4698: ['"But', 'to', 'have', 'feelings', 'yes."']
+PRED 4698: "लेकिन यदि आप हाँ."
+PRED SCORE: -1.0353
+
+[2020-10-27 12:12:13,611 INFO] 
+SENT 4699: ['"If', 'you', 'threaten', 'the', 'lecturer', 'to', 'throw', 'acid', 'on', 'his', 'face', 'and', 'cheat.."']
+PRED 4699: "अगर तुमने गांठ की गांठ काटकर ... और दार्शनिकों को छोड़कर"
+PRED SCORE: -10.3314
+
+[2020-10-27 12:12:13,611 INFO] 
+SENT 4700: ['"Do', 'you', 'get', 'picked', 'on', 'a', 'lot', 'in', 'school?"']
+PRED 4700: "क्या आप स्कूल में एक बहुत से कवर लिया?"
+PRED SCORE: -2.1497
+
+[2020-10-27 12:12:13,611 INFO] 
+SENT 4701: ['"But', 'like', 'you', 'said', 'in', 'the', 'shuttle,', 'there', 'is', 'no', 'up', 'or', 'down', 'in', 'space."']
+PRED 4701: "लेकिन जैसे ही रीनो में सख्त नहीं कहा ... ... वहाँ या आकाश में नीचे है."
+PRED SCORE: -12.3198
+
+[2020-10-27 12:12:13,611 INFO] 
+SENT 4702: ['"-', "Who's", 'speaking,', 'please?"']
+PRED 4702: "- कौन जाने, प्लीज़?"
+PRED SCORE: -1.7592
+
+[2020-10-27 12:12:13,611 INFO] 
+SENT 4703: ['"They', 'loved', 'it."']
+PRED 4703: "उन्होंने कहा कि यह प्यार किया।"
+PRED SCORE: -2.0104
+
+[2020-10-27 12:12:13,612 INFO] 
+SENT 4704: ['"Wake', 'up,', 'little', 'halflings!"']
+PRED 4704: "जागो, छोटे से छोटू!"
+PRED SCORE: -0.3927
+
+[2020-10-27 12:12:13,612 INFO] 
+SENT 4705: ['"Because', "I'm", 'a', 'brilliant', 'driver."']
+PRED 4705: "क्योंकि मैं एक शानदार चालक हैं."
+PRED SCORE: -0.8295
+
+[2020-10-27 12:12:13,612 INFO] 
+SENT 4706: ['"Thank', 'you."']
+PRED 4706: धन्यवाद.
+PRED SCORE: -0.3491
+
+[2020-10-27 12:12:13,612 INFO] 
+SENT 4707: ['"And', 'then', 'we', 'had', 'Theo."']
+PRED 4707: "और फिर हम सोनार था."
+PRED SCORE: -2.2731
+
+[2020-10-27 12:12:13,612 INFO] 
+SENT 4708: ['"See', 'you', 'later,', 'little', 'prick."']
+PRED 4708: "तुम बाद में मिलते हैं, छोटे बच्चे."
+PRED SCORE: -2.1226
+
+[2020-10-27 12:12:13,612 INFO] 
+SENT 4709: ['"-', 'No,', 'no,', "that's", 'cool."']
+PRED 4709: "- नहीं, नहीं, कि अच्छा है."
+PRED SCORE: -0.3348
+
+[2020-10-27 12:12:13,612 INFO] 
+SENT 4710: ['"-', 'And', 'you', 'are?"']
+PRED 4710: "- और आप हैं?"
+PRED SCORE: -0.0190
+
+[2020-10-27 12:12:14,878 INFO] 
+SENT 4711: ['(SIGHS)']
+PRED 4711: (आह)
+PRED SCORE: -0.0027
+
+[2020-10-27 12:12:14,879 INFO] 
+SENT 4712: ['Oh.']
+PRED 4712: ओह.
+PRED SCORE: -0.2422
+
+[2020-10-27 12:12:14,879 INFO] 
+SENT 4713: ['"If', 'only', 'you', 'were', 'not', 'a', 'pale', 'reflection', 'of', 'my', "mother's", 'heart."']
+PRED 4713: "केवल तुम एक खेतिहर हो, मेरे मां के दिल नहीं थे।"
+PRED SCORE: -5.4064
+
+[2020-10-27 12:12:14,879 INFO] 
+SENT 4714: ['"[', 'CROWD', 'CHEERING', ']"']
+PRED 4714: [उत्साहीभीड़]
+PRED SCORE: -0.0160
+
+[2020-10-27 12:12:14,879 INFO] 
+SENT 4715: ['"Get', 'out', 'of', 'the', 'car."']
+PRED 4715: "बाहर कार से बाहर जाओ."
+PRED SCORE: -1.5575
+
+[2020-10-27 12:12:14,879 INFO] 
+SENT 4716: ['SCOTT:']
+PRED 4716: स्कॉट:
+PRED SCORE: -0.0064
+
+[2020-10-27 12:12:14,879 INFO] 
+SENT 4717: ['"Come', 'on', 'down."']
+PRED 4717: "नीचे आओ."
+PRED SCORE: -1.5717
+
+[2020-10-27 12:12:14,879 INFO] 
+SENT 4718: ['"I', 'was', 'completely', 'sucked', 'in."']
+PRED 4718: "मैं पूरी तरह से चला गया था।"
+PRED SCORE: -0.2163
+
+[2020-10-27 12:12:14,879 INFO] 
+SENT 4719: ['"-', 'Saru..."']
+PRED 4719: "- Saru ..."
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:14,879 INFO] 
+SENT 4720: ['"Where', 'is', 'he?"']
+PRED 4720: "वह कहाँ है?"
+PRED SCORE: -0.7342
+
+[2020-10-27 12:12:14,879 INFO] 
+SENT 4721: ['"-', 'You', 'may', 'pass."']
+PRED 4721: "- तुम पार कर सकते हैं."
+PRED SCORE: -0.1530
+
+[2020-10-27 12:12:14,880 INFO] 
+SENT 4722: ['"-', 'You', "didn't", 'tell', 'anyone?"']
+PRED 4722: "- तुम किसी को नहीं बताया?"
+PRED SCORE: -0.9395
+
+[2020-10-27 12:12:14,880 INFO] 
+SENT 4723: ['"After', 'this,', 'I', 'can', 'stay', 'awake', 'day', 'and', 'night."']
+PRED 4723: "इसके बाद मैं जाग सकता हूं, दिन और रात के बाद"
+PRED SCORE: -3.9577
+
+[2020-10-27 12:12:14,880 INFO] 
+SENT 4724: ['"I\'m', 'looking', 'for', 'an', 'old', 'man', 'who', 'was', 'here!"']
+PRED 4724: "मैं एक बूढ़े आदमी जो यहाँ था तलाश कर रहा हूँ!"
+PRED SCORE: -3.4473
+
+[2020-10-27 12:12:14,880 INFO] 
+SENT 4725: ['Boom.']
+PRED 4725: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:14,880 INFO] 
+SENT 4726: ['"Don\'t', 'shave', 'the', 'chin."']
+PRED 4726: "Don't give up मत करो."
+PRED SCORE: -4.2620
+
+[2020-10-27 12:12:14,880 INFO] 
+SENT 4727: ['"I', "can't", 'stomach', 'it.', 'Like', 'you', 'and', 'horse', 'meat."']
+PRED 4727: "मैं नीचे और तुम्हारे दरवाज़े सब कुछ और कपड़े नहीं ले जा सकते हैं."
+PRED SCORE: -7.4953
+
+[2020-10-27 12:12:14,880 INFO] 
+SENT 4728: ['"The', 'son', 'of', 'the', 'living', 'God?"']
+PRED 4728: "पृथ्वी के पुत्र दिग्गज थे"
+PRED SCORE: -4.1850
+
+[2020-10-27 12:12:14,880 INFO] 
+SENT 4729: ['10.']
+PRED 4729: 10.
+PRED SCORE: -0.0138
+
+[2020-10-27 12:12:14,880 INFO] 
+SENT 4730: ['"I', 'want', 'to', 'be', 'very', 'clear,"']
+PRED 4730: "मैं बहुत अव्यवसायिक चाहती हूं."
+PRED SCORE: -3.2515
+
+[2020-10-27 12:12:14,880 INFO] 
+SENT 4731: ['"Why', 'are', 'there', 'humans', 'here?"']
+PRED 4731: "यहाँ क्यों रहे हो?"
+PRED SCORE: -0.7779
+
+[2020-10-27 12:12:14,880 INFO] 
+SENT 4732: ['"captured', 'by', 'a', 'brave', 'young', 'girl.."']
+PRED 4732: "परिषद एक बहादुर नौजवान द्वारा .."
+PRED SCORE: -2.2188
+
+[2020-10-27 12:12:14,881 INFO] 
+SENT 4733: ['"Abra,', 'abracabadbra"']
+PRED 4733: "Abra, abracabadbra"
+PRED SCORE: -0.0006
+
+[2020-10-27 12:12:14,881 INFO] 
+SENT 4734: ['"Where', 'to?"']
+PRED 4734: "कहाँ जाना है?"
+PRED SCORE: -0.0137
+
+[2020-10-27 12:12:14,881 INFO] 
+SENT 4735: ['"Pull', 'the', 'trigger', 'the', 'moment', 'you', 'bite', 'the', 'capsule."']
+PRED 4735: "खुले टाइम खींचो, आप निशान काट दें."
+PRED SCORE: -3.5219
+
+[2020-10-27 12:12:14,881 INFO] 
+SENT 4736: ['"Everyone,', 'gather', 'around!"']
+PRED 4736: "क्रॉस Eboshi हड़ताल."
+PRED SCORE: -3.8892
+
+[2020-10-27 12:12:14,881 INFO] 
+SENT 4737: ['"I', 'wonder', 'when', "you'll", 'understand', 'the', 'value', 'of', 'time."']
+PRED 4737: "मैं सिर्फ समय के मूल्य समझ पाती."
+PRED SCORE: -2.4760
+
+[2020-10-27 12:12:14,881 INFO] 
+SENT 4738: ['"10', 'is', 'too', 'young', 'to', 'see', 'such', 'things."']
+PRED 4738: "10 दिन से इस तरह से देखने के लिए."
+PRED SCORE: -2.6282
+
+[2020-10-27 12:12:14,881 INFO] 
+SENT 4739: ['"Charlie', 'Hanson."']
+PRED 4739: "वुल्फ लाख."
+PRED SCORE: -2.7240
+
+[2020-10-27 12:12:14,881 INFO] 
+SENT 4740: ['Wonderful.']
+PRED 4740: आश्चर्यजनक।
+PRED SCORE: -0.2215
+
+[2020-10-27 12:12:16,687 INFO] 
+SENT 4741: ['(YELLS)']
+PRED 4741: (चिल्लाता)
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:16,688 INFO] 
+SENT 4742: ['"Your', 'host', 'invites', 'you', 'both', 'to', 'rest,', 'relax,', 'and', 'join', 'him', 'for', 'drinks', 'at', '4:00."']
+PRED 4742: "अपने बट को आराम करने के लिए और आप आराम से बचने के लिए आप 1960 पर उसके लिए ग्राहकों में शामिल हो जाए."
+PRED SCORE: -14.2400
+
+[2020-10-27 12:12:16,688 INFO] 
+SENT 4743: ['"[man', 'speaking', 'native', 'language]', 'woman', 'speaking', 'native', 'language:"']
+PRED 4743: "[पुरुष अपनी मातृभाषा में बोल रहा है] महिला अपनी मातृभाषा में बोल रहा है: तो आओ चलें."
+PRED SCORE: -0.8720
+
+[2020-10-27 12:12:16,688 INFO] 
+SENT 4744: ['"You\'ve', 'crossed', 'the', 'limit,', 'Ranadev."']
+PRED 4744: "आप हवाई, बोलीविया, पार कर पार है."
+PRED SCORE: -3.5576
+
+[2020-10-27 12:12:16,688 INFO] 
+SENT 4745: ['Yes!']
+PRED 4745: हाँ!
+PRED SCORE: -0.0779
+
+[2020-10-27 12:12:16,688 INFO] 
+SENT 4746: ['"One', 'night,', 'right?"']
+PRED 4746: "एक रात, ठीक?"
+PRED SCORE: -0.4202
+
+[2020-10-27 12:12:16,688 INFO] 
+SENT 4747: ['"There', 'will', 'always', 'be', 'someone', 'to', 'stop', 'you."']
+PRED 4747: "वहाँ हमेशा रोकने के लिए कोई हो जाएगा।"
+PRED SCORE: -1.0070
+
+[2020-10-27 12:12:16,688 INFO] 
+SENT 4748: ['"-', 'Hello."']
+PRED 4748: -हेलो।
+PRED SCORE: -0.0651
+
+[2020-10-27 12:12:16,688 INFO] 
+SENT 4749: ['"You', 'know,', 'I', 'save', 'your', 'life,', 'I', 'get', 'your', 'wound', 'fixed."']
+PRED 4749: "तुम्हें पता है, मैं अपने जीवन बचाने के लिए अपने जीवन तय हो जाते हैं."
+PRED SCORE: -1.7441
+
+[2020-10-27 12:12:16,688 INFO] 
+SENT 4750: ['"I', 'felt', 'certain', 'I', 'could', 'find', 'the', 'words."']
+PRED 4750: "मुझे लगता है कि मैं शब्द मिल सकता है कुछ कहा."
+PRED SCORE: -2.2757
+
+[2020-10-27 12:12:16,688 INFO] 
+SENT 4751: ['"(CHEERING)', 'I', 'wanted', 'the', 'whole', 'team', 'there', 'to', 'witness', 'my', 'finest', 'hour."']
+PRED 4751: "Droid, मैं चाहता था के लिए मेरे सबसे प्रिय टीम के लिए पूरा टीम है."
+PRED SCORE: -8.6372
+
+[2020-10-27 12:12:16,688 INFO] 
+SENT 4752: ['"Excuse', 'me."']
+PRED 4752: "क्षमा कीजिय।"
+PRED SCORE: -1.1049
+
+[2020-10-27 12:12:16,689 INFO] 
+SENT 4753: ['"Get', 'out,', 'raven."']
+PRED 4753: "बाहर जाओ, रेवेन जाओ."
+PRED SCORE: -0.7665
+
+[2020-10-27 12:12:16,689 INFO] 
+SENT 4754: ['"Don\'t', 'you', 'know', 'its', 'forbidden', 'to', 'steal', 'the', 'milk?"']
+PRED 4754: "आप अपने को पहचान करने से अपने द्वारा पता नहीं है I"
+PRED SCORE: -4.6063
+
+[2020-10-27 12:12:16,689 INFO] 
+SENT 4755: ['"You\'re', 'wondering', 'what', 'do', 'these', 'tears', 'in', 'these', 'eyes', "tellin'", 'you?"']
+PRED 4755: "आप इन आँखों कह 'में ये आँसू कह 'में ये आँसू है ?"
+PRED SCORE: -2.4388
+
+[2020-10-27 12:12:16,689 INFO] 
+SENT 4756: ['"It\'s', 'a', 'giraffe."']
+PRED 4756: "छोटी झाड़फूंक है"
+PRED SCORE: -2.0775
+
+[2020-10-27 12:12:16,689 INFO] 
+SENT 4757: ['"Look', 'here,', 'the', 'lady', 'is', 'first,', 'and', 'then', 'me."']
+PRED 4757: "ये देखो, महिला पहला है, महिला पहला है, और फिर मुझे है।"
+PRED SCORE: -1.5982
+
+[2020-10-27 12:12:16,689 INFO] 
+SENT 4758: ['"And', 'that', 'blouse', "she's", 'wearing?"']
+PRED 4758: "और कि बर्फ़ीली वह कचरा डाल रहा है."
+PRED SCORE: -2.9492
+
+[2020-10-27 12:12:16,689 INFO] 
+SENT 4759: ['"Just', 'a', 'little', 'more', 'confusing', 'and', "you'll", 'be', 'the', 'next', 'Oogway."']
+PRED 4759: "सिर्फ और अधिक तुम्हें अगले सामान हो जाएगा."
+PRED SCORE: -4.3729
+
+[2020-10-27 12:12:16,689 INFO] 
+SENT 4760: ['"THE', 'NEXT', 'MAN', 'IN', 'THE', 'CHAIN."']
+PRED 4760: "जेब में कागज़ वाली -"
+PRED SCORE: -5.2926
+
+[2020-10-27 12:12:16,689 INFO] 
+SENT 4761: ['"We\'ll', 'join', 'our', 'Houses."']
+PRED 4761: "हम अपने हॉस्टल में शामिल हो जाएगा."
+PRED SCORE: -3.1700
+
+[2020-10-27 12:12:16,689 INFO] 
+SENT 4762: ['Wow.']
+PRED 4762: वाह.
+PRED SCORE: -0.0667
+
+[2020-10-27 12:12:16,689 INFO] 
+SENT 4763: ['"He\'s', 'going', 'to', 'be', 'okay."']
+PRED 4763: "वह ठीक होने जा रहा है."
+PRED SCORE: -0.1022
+
+[2020-10-27 12:12:16,690 INFO] 
+SENT 4764: ['Candlelight.']
+PRED 4764: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:16,690 INFO] 
+SENT 4765: ['"Our', 'people', 'can', 'co', 'exist."']
+PRED 4765: "हमारी लोग मौजूद हैं पर कार्य कर सकते हैं ."
+PRED SCORE: -3.1988
+
+[2020-10-27 12:12:16,690 INFO] 
+SENT 4766: ['"You\'re', 'Dr.', 'Savita."']
+PRED 4766: "आप डॉ स्टेसन हैं।"
+PRED SCORE: -3.2692
+
+[2020-10-27 12:12:16,690 INFO] 
+SENT 4767: ['"NdeR', 'M@nkÖÖ', '™', '©', 'P@rM!"']
+PRED 4767: "©@ पीआर एम nderएम@ nkÖÖ "
+PRED SCORE: -1.1246
+
+[2020-10-27 12:12:16,690 INFO] 
+SENT 4768: ['"Not', 'rocks,', 'stars."']
+PRED 4768: "संभव नहीं हेलिकॉप्टर."
+PRED SCORE: -2.0427
+
+[2020-10-27 12:12:16,690 INFO] 
+SENT 4769: ['"You', 'know,', 'the', 'beach?"']
+PRED 4769: "आपको पता है न..."
+PRED SCORE: -0.6326
+
+[2020-10-27 12:12:16,690 INFO] 
+SENT 4770: ['"They', 'believe', 'the', 'Kaiju', 'are', 'sent', 'from', 'heaven."']
+PRED 4770: "वे Kaiju भूमि से भेजा जाता है."
+PRED SCORE: -2.2548
+
+[2020-10-27 12:12:18,451 INFO] 
+SENT 4771: ['"We', 'have', 'kidnapped', 'him."']
+PRED 4771: "हम उसे जोड़ती है."
+PRED SCORE: -2.5202
+
+[2020-10-27 12:12:18,451 INFO] 
+SENT 4772: ['Second?']
+PRED 4772: दूसरा?
+PRED SCORE: -0.0158
+
+[2020-10-27 12:12:18,451 INFO] 
+SENT 4773: ['Hector.']
+PRED 4773: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:18,451 INFO] 
+SENT 4774: ['"I\'m', 'calling', 'it', 'a', 'night."']
+PRED 4774: "मैं इसे एक रात बुला रहा हूँ।"
+PRED SCORE: -0.3736
+
+[2020-10-27 12:12:18,451 INFO] 
+SENT 4775: ['"Alexander,', 'I', 'know', 'you', 'think', 'me', 'a', 'stiff', 'old', 'sod', 'but', 'whatever', 'our', 'differences,', 'know', 'this', 'day', 'your', 'father', 'would', 'be', 'very', 'proud', 'of', 'you."']
+PRED 4775: "सिकंदर, मुझे पता है कि तुम मुझे एक निमंत्रण, बूढ़े भाई"
+PRED SCORE: -5.4137
+
+[2020-10-27 12:12:18,451 INFO] 
+SENT 4776: ['"Let\'s', 'put', 'on', 'a', 'show."']
+PRED 4776: "मैं एक शो पर डाल दिया."
+PRED SCORE: -3.1625
+
+[2020-10-27 12:12:18,451 INFO] 
+SENT 4777: ['"Which', 'currently', 'is', 'among', 'our', 'inventory."']
+PRED 4777: "कौन शहर, अपने महीने के बीच में है।"
+PRED SCORE: -2.1959
+
+[2020-10-27 12:12:18,452 INFO] 
+SENT 4778: ['"You', 'heard', 'me."']
+PRED 4778: "तुमने सुना."
+PRED SCORE: -0.8052
+
+[2020-10-27 12:12:18,452 INFO] 
+SENT 4779: ['Daddy!']
+PRED 4779: पिताजी!
+PRED SCORE: -0.3813
+
+[2020-10-27 12:12:18,452 INFO] 
+SENT 4780: ['"What', 'is', 'it?"']
+PRED 4780: "यह क्या है?"
+PRED SCORE: -0.1806
+
+[2020-10-27 12:12:18,452 INFO] 
+SENT 4781: ['"Girl,', 'get', 'up."']
+PRED 4781: "हाब्स ऊपर."
+PRED SCORE: -4.8676
+
+[2020-10-27 12:12:18,452 INFO] 
+SENT 4782: ['"I\'ll', 'love', 'you', 'much', 'more', 'than', 'you', 'think...', "I'm", 'there', 'for', 'you', 'always,', 'my', 'love..."']
+PRED 4782: "मैं तुमसे ज्यादा प्यार करता हूँ आप के लिए वहाँ तुम है और अधिक तुम पर मैं वहाँ अपने प्यार करता हूँ."
+PRED SCORE: -11.5776
+
+[2020-10-27 12:12:18,452 INFO] 
+SENT 4783: ['"Okkoto!', 'Give', 'me', 'the', 'girl!', 'Where', 'is', 'San?"']
+PRED 4783: "Droid, मुझे बीस जहां है."
+PRED SCORE: -6.1658
+
+[2020-10-27 12:12:18,452 INFO] 
+SENT 4784: ['"I', 'got', 'some', 'money."']
+PRED 4784: "मैं कुछ पैसे मिला."
+PRED SCORE: -0.0955
+
+[2020-10-27 12:12:18,452 INFO] 
+SENT 4785: ['"I\'ve', 'never', 'tried."']
+PRED 4785: "मैं कभी नहीं की है."
+PRED SCORE: -0.6187
+
+[2020-10-27 12:12:18,452 INFO] 
+SENT 4786: ['"No,', 'this', "wasn't", 'a', 'personal', 'decision."']
+PRED 4786: "नहीं, यह एक व्यक्तिगत निर्णय नहीं था."
+PRED SCORE: -0.0831
+
+[2020-10-27 12:12:18,452 INFO] 
+SENT 4787: ['"I', 'have', 'two..."']
+PRED 4787: "मेरे पास दो है!"
+PRED SCORE: -0.1021
+
+[2020-10-27 12:12:18,452 INFO] 
+SENT 4788: ['"She\'s', 'taken', "Elijah's", 'power."']
+PRED 4788: "वह लंबी संभावना की ताकत ले गई है।"
+PRED SCORE: -3.3969
+
+[2020-10-27 12:12:18,453 INFO] 
+SENT 4789: ['"It\'s', 'OK."']
+PRED 4789: "- ठीक है."
+PRED SCORE: -0.8523
+
+[2020-10-27 12:12:18,453 INFO] 
+SENT 4790: ['"-', "I'll", 'send', 'you', 'a', 'postcard."']
+PRED 4790: "- मैं तुम्हें एक चिल्लाई भेज देंगे."
+PRED SCORE: -1.6965
+
+[2020-10-27 12:12:18,453 INFO] 
+SENT 4791: ['"Hammer', 'down!"']
+PRED 4791: "नीचे मारो !"
+PRED SCORE: -0.0012
+
+[2020-10-27 12:12:18,453 INFO] 
+SENT 4792: ['"I\'m', 'Victoria,', 'this', 'is', 'Jack."']
+PRED 4792: "मैं इस जैक को अवशोषित कर रहा हूँ."
+PRED SCORE: -2.9645
+
+[2020-10-27 12:12:18,453 INFO] 
+SENT 4793: ['"We', 'give', 'up."']
+PRED 4793: "हम छोड़ दे."
+PRED SCORE: -0.4033
+
+[2020-10-27 12:12:18,453 INFO] 
+SENT 4794: ['"It\'s', 'you', 'who', 'must', 'decide', 'whether', 'to', 'stay', 'or', 'go."']
+PRED 4794: "आप क्या करना होगा या जाना होगा या जाने के लिए क्या करना चाहिए।"
+PRED SCORE: -7.0166
+
+[2020-10-27 12:12:18,453 INFO] 
+SENT 4795: ['"The', 'missing', 'star."']
+PRED 4795: "Do something moves."
+PRED SCORE: -3.8919
+
+[2020-10-27 12:12:18,453 INFO] 
+SENT 4796: ['"All', 'right,', "let's", 'go.', "Let's", 'move,', 'move!"']
+PRED 4796: "ठीक है, चलो चाल, चाल, चाल!"
+PRED SCORE: -0.0987
+
+[2020-10-27 12:12:18,453 INFO] 
+SENT 4797: ['Silence!']
+PRED 4797: चुप!
+PRED SCORE: -0.0075
+
+[2020-10-27 12:12:18,453 INFO] 
+SENT 4798: ['(LAUGHING)']
+PRED 4798: "(हंसते हुए)"
+PRED SCORE: -0.3532
+
+[2020-10-27 12:12:18,453 INFO] 
+SENT 4799: ['"A', 'wind-turbine', 'factory', 'was', 'closed', 'down,', 'because', 'there', 'was', 'no', 'demand', 'for', 'wind', 'turbines,', 'and', 'over', '400', 'workers', 'lost', 'their', 'jobs."']
+PRED 4799: "एक सभ्यता राजा, वहाँ रहने का कोई भी फायदा नहीं था, क्योंकि 400 कार्यकर्ताओं को अपना काम खो दिया और... अपना सबूत खो दिया."
+PRED SCORE: -11.5320
+
+[2020-10-27 12:12:18,453 INFO] 
+SENT 4800: ['"""O\'...oh...my', 'sweet', 'delusion', 'Are', 'you', 'my', 'flame', 'of', 'passion?"""']
+PRED 4800: "Arove शक्ति, ""कैसे आप जुनून की मेरे लौ हैं?"
+PRED SCORE: -8.8891
+
+[2020-10-27 12:12:19,714 INFO] 
+SENT 4801: ['"She\'s', 'still', 'my', 'mother."']
+PRED 4801: "वह अभी भी मेरी माँ है।"
+PRED SCORE: -0.0333
+
+[2020-10-27 12:12:19,714 INFO] 
+SENT 4802: ['No!']
+PRED 4802: नहीं!
+PRED SCORE: -0.0261
+
+[2020-10-27 12:12:19,714 INFO] 
+SENT 4803: ['"What', 'if', 'someone', 'gets', 'hurt?"']
+PRED 4803: "क्या किसी को भी नहीं हो सकता है?"
+PRED SCORE: -2.3539
+
+[2020-10-27 12:12:19,714 INFO] 
+SENT 4804: ['"a', 'pair', 'of', 'thieves."']
+PRED 4804: "मेरे चोरों के बयान की."
+PRED SCORE: -3.2556
+
+[2020-10-27 12:12:19,714 INFO] 
+SENT 4805: ['"I', 'have', 'my', 'own', 'home."']
+PRED 4805: "मैं अपने खुद के घर है."
+PRED SCORE: -0.3809
+
+[2020-10-27 12:12:19,714 INFO] 
+SENT 4806: ['"I\'m', 'not', 'the', 'sum', 'of', 'my', 'parts."']
+PRED 4806: "मैं अपने हिस्से की कुछ नहीं है."
+PRED SCORE: -3.0781
+
+[2020-10-27 12:12:19,715 INFO] 
+SENT 4807: ['We?']
+PRED 4807: हमें?
+PRED SCORE: -0.0012
+
+[2020-10-27 12:12:19,715 INFO] 
+SENT 4808: ['No!']
+PRED 4808: नहीं!
+PRED SCORE: -0.0261
+
+[2020-10-27 12:12:19,715 INFO] 
+SENT 4809: ['"Of', 'course,', "you're", 'serving', 'her', 'now,', "aren't", 'you?"']
+PRED 4809: "बेशक, तुम उनसे अब कर रहे हैं, तुम नहीं कर रहे हैं?"
+PRED SCORE: -2.5643
+
+[2020-10-27 12:12:19,715 INFO] 
+SENT 4810: ['"Ender', 'Wiggin,', 'you', 'are', 'assigned', 'to', 'Salamander', 'army,', 'Commander', 'Bonzo', 'Madrid,', 'effective', 'immediately."']
+PRED 4810: "एंडर... ... आप रूसियों को तुरंत हासिल कर रहे हैं, दोपहरमेंपश्चिमीबननेके"
+PRED SCORE: -8.7408
+
+[2020-10-27 12:12:19,715 INFO] 
+SENT 4811: ['"I', 'am', 'so', 'sorry', 'Richard."']
+PRED 4811: "मैं बहुत शर्मिंदा सैर कर रहा हूँ."
+PRED SCORE: -1.2362
+
+[2020-10-27 12:12:19,715 INFO] 
+SENT 4812: ['"-', 'Are', 'you', 'going', 'with', 'them?"']
+PRED 4812: "- आप उन लोगों के साथ जा रहे हैं?"
+PRED SCORE: -1.0564
+
+[2020-10-27 12:12:19,715 INFO] 
+SENT 4813: ['"We\'ll', 'let', 'the', 'ladies', 'have', 'some', 'nice."']
+PRED 4813: "हम मुद्दों को कुछ अच्छा कर देंगे."
+PRED SCORE: -2.5869
+
+[2020-10-27 12:12:19,715 INFO] 
+SENT 4814: ['"Ram,', "what's", 'wrong', 'with', 'you', 'today?"']
+PRED 4814: "राम, तुम आज साथ क्या गलत है?"
+PRED SCORE: -1.3089
+
+[2020-10-27 12:12:19,715 INFO] 
+SENT 4815: ['"-', "I'll", 'play."']
+PRED 4815: "- मैं भाग जाऊंगा."
+PRED SCORE: -0.7988
+
+[2020-10-27 12:12:19,715 INFO] 
+SENT 4816: ['"You\'re', 'supposed', 'to', 'catch', 'it."']
+PRED 4816: "आप इसे पकड़ने वाले हैं."
+PRED SCORE: -0.0628
+
+[2020-10-27 12:12:19,715 INFO] 
+SENT 4817: ['"I', 'considered', 'her', 'as', 'a', 'mother."']
+PRED 4817: "मैं एक माँ के रूप में उसे पहचान दिया."
+PRED SCORE: -1.7073
+
+[2020-10-27 12:12:19,716 INFO] 
+SENT 4818: ['"Of', 'course."']
+PRED 4818: बेशक।
+PRED SCORE: -0.3940
+
+[2020-10-27 12:12:19,716 INFO] 
+SENT 4819: ['"It', 'changes', 'everything."']
+PRED 4819: "यह सबकुछ बदल गया."
+PRED SCORE: -0.2579
+
+[2020-10-27 12:12:19,716 INFO] 
+SENT 4820: ['Yeah!']
+PRED 4820: हाँ!
+PRED SCORE: -0.1788
+
+[2020-10-27 12:12:19,716 INFO] 
+SENT 4821: ['Alexander.']
+PRED 4821: सिकंदर.
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:19,716 INFO] 
+SENT 4822: ['"Half', 'a', 'mile?"']
+PRED 4822: "आधा एक भाग्यशाली"
+PRED SCORE: -2.0204
+
+[2020-10-27 12:12:19,716 INFO] 
+SENT 4823: ['"(SOLDIERS', 'SHOUTING', 'IN', 'KOREAN)"']
+PRED 4823: (सैनिकोंकोरियाईमेंचिल्ला)
+PRED SCORE: -0.0182
+
+[2020-10-27 12:12:19,716 INFO] 
+SENT 4824: ['BURT:']
+PRED 4824: बर्ट:
+PRED SCORE: -0.0000
+
+[2020-10-27 12:12:19,716 INFO] 
+SENT 4825: ['"Ellen,', 'Billy,', 'you', 'can', 'go."']
+PRED 4825: "हाब्स (आवाज आप जा सकते हैं."
+PRED SCORE: -4.1735
+
+[2020-10-27 12:12:19,716 INFO] 
+SENT 4826: ['Aah!']
+PRED 4826: आह!
+PRED SCORE: -0.0000
+
+[2020-10-27 12:12:19,716 INFO] 
+SENT 4827: ['"So', 'tell', 'me,', 'sweet', 'sister,', 'how', 'do', 'we', 'go', 'home?"']
+PRED 4827: "तो मुझे बताओ, प्यारी बहन कैसे हम घर जाते हैं?"
+PRED SCORE: -0.9303
+
+[2020-10-27 12:12:19,716 INFO] 
+SENT 4828: ['Anyone?']
+PRED 4828: "कोई है?"
+PRED SCORE: -0.0003
+
+[2020-10-27 12:12:19,716 INFO] 
+SENT 4829: ['"Hold', 'him', 'boys!"']
+PRED 4829: "मारो साले को !"
+PRED SCORE: -1.0561
+
+[2020-10-27 12:12:19,717 INFO] 
+SENT 4830: ['"Someone', 'take', 'her!"']
+PRED 4830: "कोई उसे ले लो!"
+PRED SCORE: -0.4399
+
+[2020-10-27 12:12:21,140 INFO] 
+SENT 4831: ['"©', 'P@rM!', 'NdeR', 'M@nkÖÖ', '™"']
+PRED 4831: "©@ पीआर एम nderएम@ nkÖÖ "
+PRED SCORE: -0.4741
+
+[2020-10-27 12:12:21,140 INFO] 
+SENT 4832: ['"Remember', 'when', 'he', 'lost', 'his', 'leg?"']
+PRED 4832: "वह पैर खो दिया जब याद रखें."
+PRED SCORE: -0.5927
+
+[2020-10-27 12:12:21,140 INFO] 
+SENT 4833: ['"You', "don't", 'have', 'to', 'do', 'this."']
+PRED 4833: "तुम यह करना नहीं है."
+PRED SCORE: -0.9123
+
+[2020-10-27 12:12:21,140 INFO] 
+SENT 4834: ['"Yes,', 'writer,', 'philosopher,', 'scientist', '."']
+PRED 4834: "हाँ,वहतुम... (हंसतेहुए)"
+PRED SCORE: -4.9558
+
+[2020-10-27 12:12:21,140 INFO] 
+SENT 4835: ['"You', 'know,', 'that', 'was', 'a', 'great', 'speech,"']
+PRED 4835: "आप एक महान पदोन्नति था कि पता है."
+PRED SCORE: -2.1936
+
+[2020-10-27 12:12:21,140 INFO] 
+SENT 4836: ['"Lonely', 'at', 'the', 'top"']
+PRED 4836: EMTपर:
+PRED SCORE: -2.4496
+
+[2020-10-27 12:12:21,140 INFO] 
+SENT 4837: ['"I', 'never', 'lie."']
+PRED 4837: "मैं कभी झूठ नहीं सुना।"
+PRED SCORE: -0.4412
+
+[2020-10-27 12:12:21,140 INFO] 
+SENT 4838: ['"Trouble,', 'leave', 'me', 'alone"']
+PRED 4838: "मुझे अकेला छोड़ दो, मुसीबत"
+PRED SCORE: -0.5059
+
+[2020-10-27 12:12:21,140 INFO] 
+SENT 4839: ['Tactical.']
+PRED 4839: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:21,141 INFO] 
+SENT 4840: ['"You', 'know', 'what', 'it', 'is."']
+PRED 4840: "आप यह क्या है पता है."
+PRED SCORE: -0.6136
+
+[2020-10-27 12:12:21,141 INFO] 
+SENT 4841: ['"-', '-', 'Fuck!', '-"']
+PRED 4841: "- - भाड़ में जाओ!"
+PRED SCORE: -1.5315
+
+[2020-10-27 12:12:21,141 INFO] 
+SENT 4842: ['"When', 'you', 'were', 'a', 'baby,', 'I', 'use', 'to', 'lay', 'by', 'your', 'Cradle."']
+PRED 4842: "जब आप एक बच्ची से थे"
+PRED SCORE: -3.8310
+
+[2020-10-27 12:12:21,141 INFO] 
+SENT 4843: ['"You', 'have', 'made', 'a', 'wise', 'decision"']
+PRED 4843: "आप एक गुलाम विचारधारा वाले हैं!"
+PRED SCORE: -4.6369
+
+[2020-10-27 12:12:21,141 INFO] 
+SENT 4844: ['"When', 'we', 'are', 'done', 'you', 'will', 'be', 'a', 'ninja,', 'huh?"']
+PRED 4844: "जब हम एक मधुमेह हो जाएगा कि, है ना?"
+PRED SCORE: -4.0565
+
+[2020-10-27 12:12:21,141 INFO] 
+SENT 4845: ['"-', 'What', 'are', 'you', 'talking', 'about?"']
+PRED 4845: "- आप के बारे में बात कर रहे हैं?"
+PRED SCORE: -0.6724
+
+[2020-10-27 12:12:21,141 INFO] 
+SENT 4846: ['"Get', 'up."']
+PRED 4846: उठो.
+PRED SCORE: -0.0165
+
+[2020-10-27 12:12:21,141 INFO] 
+SENT 4847: ['"Everything\'s', 'been', 'arranged', 'now."']
+PRED 4847: "सब कुछ की व्यवस्था कर रहा है."
+PRED SCORE: -0.7198
+
+[2020-10-27 12:12:21,141 INFO] 
+SENT 4848: ['"If', 'you', "don't", 'squeeze', 'out', '60', 'buckets', 'of', 'juice,', 'we', "won't", 'get', 'food."']
+PRED 4848: "अगर तुम को प्राप्त नहीं करते हैं... / मैं 60भव्य,भुगतान/मैं"
+PRED SCORE: -5.3937
+
+[2020-10-27 12:12:21,141 INFO] 
+SENT 4849: ['Okay?']
+PRED 4849: "ठीक है?"
+PRED SCORE: -0.1155
+
+[2020-10-27 12:12:21,141 INFO] 
+SENT 4850: ["I'm..."]
+PRED 4850: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:21,142 INFO] 
+SENT 4851: ['"I', 'was', 'your', 'ghost."']
+PRED 4851: "- मैं आपके भूत का था।"
+PRED SCORE: -2.1936
+
+[2020-10-27 12:12:21,142 INFO] 
+SENT 4852: ['"Come', 'on,', "let's", 'go."']
+PRED 4852: "चलो, चलो चलते हैं."
+PRED SCORE: -0.0056
+
+[2020-10-27 12:12:21,142 INFO] 
+SENT 4853: ['"Don\'t', 'use', 'that', 'tone', 'with', 'me!"']
+PRED 4853: "मेरे साथ कि गाँठ का प्रयोग मत करो!"
+PRED SCORE: -3.8140
+
+[2020-10-27 12:12:21,142 INFO] 
+SENT 4854: ['"You\'re', 'forgetting', 'me."']
+PRED 4854: "तुम मुझे भूल रहे हैं."
+PRED SCORE: -0.1533
+
+[2020-10-27 12:12:21,142 INFO] 
+SENT 4855: ['"(""SHARON""', 'VOICE:)', 'Hello,', 'Vincent."']
+PRED 4855: "-इतना मुलायम रोयाँ।"
+PRED SCORE: -3.6481
+
+[2020-10-27 12:12:21,142 INFO] 
+SENT 4856: ['"Do', 'you', 'want', 'to', 'see', 'me', 'dead', 'now?"']
+PRED 4856: "आप अब मुझे मृत देखना चाहते हैं?"
+PRED SCORE: -1.1926
+
+[2020-10-27 12:12:21,142 INFO] 
+SENT 4857: ['"-', 'Marry', 'me.', '-', 'I', 'do', 'not."']
+PRED 4857: "- फेजेलीन, मुझे नहीं पता."
+PRED SCORE: -3.1353
+
+[2020-10-27 12:12:21,142 INFO] 
+SENT 4858: ['"Neural', 'bridge', 'exercise', 'invalid."']
+PRED 4858: "तंत्रिका आसूचना èopora."
+PRED SCORE: -3.8224
+
+[2020-10-27 12:12:21,142 INFO] 
+SENT 4859: ['"You\'re', 'in', 'no', 'position."']
+PRED 4859: "तुम स्थिति में हो।"
+PRED SCORE: -0.1614
+
+[2020-10-27 12:12:21,142 INFO] 
+SENT 4860: ['"Where', 'did', 'you', 'buy', 'this', 'ring?"']
+PRED 4860: "आप इस वास को प्रशिक्षित किया था?"
+PRED SCORE: -3.1184
+
+[2020-10-27 12:12:22,795 INFO] 
+SENT 4861: ['"The', 'greatest', 'gladiator', 'match', 'in', 'the', 'history', 'of', 'the', 'world."']
+PRED 4861: "दुनिया के इतिहास में दफन कड़वा दफन है."
+PRED SCORE: -5.0798
+
+[2020-10-27 12:12:22,795 INFO] 
+SENT 4862: ['"Tell', 'him', 'slowly,', 'he', "shouldn't", 'get', 'a', 'shock."']
+PRED 4862: "उसे बताओ कि उसे एक अच्छा नहीं ले जाना चाहिए।"
+PRED SCORE: -1.7057
+
+[2020-10-27 12:12:22,795 INFO] 
+SENT 4863: ['"Guests', 'can', 'stay', 'here..."']
+PRED 4863: "मा, यहाँ रह सकते हैं!"
+PRED SCORE: -4.6493
+
+[2020-10-27 12:12:22,795 INFO] 
+SENT 4864: ['"Ordnance', 'live', 'and', 'loaded."']
+PRED 4864: "आयुध लोग भरी होते हैं।"
+PRED SCORE: -1.4079
+
+[2020-10-27 12:12:22,795 INFO] 
+SENT 4865: ['"But', 'if', 'you', 'go', 'to', 'Asia', 'without', 'leaving', 'your', 'successor,', 'you', 'risk', 'all."']
+PRED 4865: "लेकिन अगर आप अपनी वीरता के बिना जाने के लिए जाना है, तुम सब सेट."
+PRED SCORE: -8.1190
+
+[2020-10-27 12:12:22,795 INFO] 
+SENT 4866: ['"Maybe', 'you', 'should', 'try', 'buying', 'some', 'flowers', 'for', 'mom?"']
+PRED 4866: "शायद आप माँ के लिए कुछ बिल्ली खरीदने की कोशिश करना चाहिए?"
+PRED SCORE: -1.2235
+
+[2020-10-27 12:12:22,795 INFO] 
+SENT 4867: ['"I', "didn't", 'mean', 'to', 'do', 'that."']
+PRED 4867: "मैं यह करने के लिए मतलब नहीं था."
+PRED SCORE: -0.6183
+
+[2020-10-27 12:12:22,795 INFO] 
+SENT 4868: ['"Not', 'one', 'of', 'them', 'born?"']
+PRED 4868: "उन वैगनों में से एक नहीं."
+PRED SCORE: -2.3380
+
+[2020-10-27 12:12:22,795 INFO] 
+SENT 4869: ['"A', 'curse,', 'you', 'say?"']
+PRED 4869: "एक लिफ्ट है, आप कहते हैं?"
+PRED SCORE: -1.9742
+
+[2020-10-27 12:12:22,796 INFO] 
+SENT 4870: ['"I\'ve', 'never', 'wanted', 'to', 'know', 'the', 'past', 'of', 'any', 'woman', 'I', 'was', 'ever', 'dating."']
+PRED 4870: "मैंने कभी भी औरत का पता नहीं होता की मैं क्या चाहता था किसी भी महिला का पालन."
+PRED SCORE: -7.9845
+
+[2020-10-27 12:12:22,796 INFO] 
+SENT 4871: ['"Sergeant', 'Sullivan."']
+PRED 4871: "[सब हंसी]"
+PRED SCORE: -2.2326
+
+[2020-10-27 12:12:22,796 INFO] 
+SENT 4872: ['"We\'re', 'gonna', 'be', 'rich."']
+PRED 4872: "हम अमीर होने वाला है।"
+PRED SCORE: -0.5708
+
+[2020-10-27 12:12:22,796 INFO] 
+SENT 4873: ['"Miss', 'Mori,', 'will', 'you', 'give', 'me', 'a', 'minute?"']
+PRED 4873: "मिस वाको, आप मुझे एक मिनट दे देंगे."
+PRED SCORE: -2.6755
+
+[2020-10-27 12:12:22,796 INFO] 
+SENT 4874: ['"We\'ve', 'reached.."']
+PRED 4874: "हम चॉकलेट,
+PRED SCORE: -3.3288
+
+[2020-10-27 12:12:22,796 INFO] 
+SENT 4875: ['"I', 'should', 'pull', 'it."']
+PRED 4875: "मैं इसे खींच सकते हैं."
+PRED SCORE: -0.8652
+
+[2020-10-27 12:12:22,796 INFO] 
+SENT 4876: ['"Get', 'in', 'line,', 'boys!"']
+PRED 4876: "- ऊपर में आओ !"
+PRED SCORE: -2.2729
+
+[2020-10-27 12:12:22,796 INFO] 
+SENT 4877: ['"Philip,', 'King', 'of', 'Macedonia', 'and', 'leader', 'of', 'the', 'Greeks."']
+PRED 4877: "मर्डर फेफड़ों के राजा और रूस के फैसले
+PRED SCORE: -6.9492
+
+[2020-10-27 12:12:22,796 INFO] 
+SENT 4878: ['"We', "don't", 'have', 'much', 'of', 'a', 'choice."']
+PRED 4878: "हमारे पास कोई विकल्प नहीं है।"
+PRED SCORE: -0.8996
+
+[2020-10-27 12:12:22,796 INFO] 
+SENT 4879: ['"I\'ll', 'make', 'it', 'worth', 'your', 'while."']
+PRED 4879: "मैं इसे अपने समय के लायक कर देंगे."
+PRED SCORE: -2.8142
+
+[2020-10-27 12:12:22,796 INFO] 
+SENT 4880: ['"A', 'perfect', 'match."']
+PRED 4880: "एक परिपूर्ण खेल"
+PRED SCORE: -0.9116
+
+[2020-10-27 12:12:22,796 INFO] 
+SENT 4881: ['"Can', 'you', 'fix', 'my', 'leg?"']
+PRED 4881: "आप मेरे पैर ठीक कर सकते हैं?"
+PRED SCORE: -0.0900
+
+[2020-10-27 12:12:22,797 INFO] 
+SENT 4882: ['"It', 'was', 'only', 'a', '3,000,000', 'pound', 'prototype."']
+PRED 4882: "यह केवल एक हैंडबैग रहने देना, कहेंगे,"
+PRED SCORE: -6.9790
+
+[2020-10-27 12:12:22,797 INFO] 
+SENT 4883: ['"Get', 'out', 'of', 'my', 'palace!"']
+PRED 4883: "मेरे दांतों के बाहर जाओ!"
+PRED SCORE: -2.2737
+
+[2020-10-27 12:12:22,797 INFO] 
+SENT 4884: ['"Do', 'you', 'have', 'any', 'idea', 'what', "he's", 'asking', 'you', 'to', 'risk?"']
+PRED 4884: "आप वह आप के लिए पूछ रहा क्या पूछ रहा है क्या कोई विचार है?"
+PRED SCORE: -2.7036
+
+[2020-10-27 12:12:22,797 INFO] 
+SENT 4885: ['"You', 'all', 'right,', 'kid?"']
+PRED 4885: "आप सब सही बच्चा है?"
+PRED SCORE: -0.4654
+
+[2020-10-27 12:12:22,797 INFO] 
+SENT 4886: ['"Take', 'that', "girl's", 'oxygen', 'mask', 'off."']
+PRED 4886: "उस लड़की की ऑक्सीजन बंद करा दो."
+PRED SCORE: -2.6582
+
+[2020-10-27 12:12:22,797 INFO] 
+SENT 4887: ['"He\'s', 'weak."']
+PRED 4887: "वह कमजोर है."
+PRED SCORE: -0.0128
+
+[2020-10-27 12:12:22,797 INFO] 
+SENT 4888: ['Signore?']
+PRED 4888: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:22,797 INFO] 
+SENT 4889: ['MAN:']
+PRED 4889: आदमी:
+PRED SCORE: -0.2573
+
+[2020-10-27 12:12:22,797 INFO] 
+SENT 4890: ['"But', 'to', 'answer', 'your', 'question..."']
+PRED 4890: "लेकिन अपने मुख्य जवाब का जवाब देना है..."
+PRED SCORE: -1.4064
+
+[2020-10-27 12:12:24,494 INFO] 
+SENT 4891: ['DANNY:']
+PRED 4891: डैनी:
+PRED SCORE: -0.0000
+
+[2020-10-27 12:12:24,494 INFO] 
+SENT 4892: ['"I', "can't", 'go."']
+PRED 4892: "मैं नहीं जा सकती."
+PRED SCORE: -0.9107
+
+[2020-10-27 12:12:24,494 INFO] 
+SENT 4893: ['"Not', 'this', 'year."']
+PRED 4893: "इस साल में नहीं है."
+PRED SCORE: -2.0011
+
+[2020-10-27 12:12:24,495 INFO] 
+SENT 4894: ['"Don\'t', 'worry', 'sir."']
+PRED 4894: "चिंता मत करो."
+PRED SCORE: -0.3045
+
+[2020-10-27 12:12:24,495 INFO] 
+SENT 4895: ['Hey.']
+PRED 4895: हे.
+PRED SCORE: -0.7949
+
+[2020-10-27 12:12:24,495 INFO] 
+SENT 4896: ['"-', 'Charles', 'Hanson,', 'yeah."']
+PRED 4896: "- Kleinsmith एंडरसन."
+PRED SCORE: -3.6375
+
+[2020-10-27 12:12:24,495 INFO] 
+SENT 4897: ['"Muthaiah,', 'who', 'would', 'be', 'using', 'a', 'satellite', 'phone', 'in', 'the', 'hospital?"']
+PRED 4897: "Muthaiah, जो रंग का इस्तेमाल होता है अस्पताल में एक रिकार्ड फोन जाएगी!"
+PRED SCORE: -6.3457
+
+[2020-10-27 12:12:24,495 INFO] 
+SENT 4898: ['"What', 'are', 'the', 'odds', 'of', 'finding', 'that?"']
+PRED 4898: "अब उसे कैसे करना है?"
+PRED SCORE: -4.0032
+
+[2020-10-27 12:12:24,495 INFO] 
+SENT 4899: ['"I', 'even', 'invited', "Fitzpatrick's", 'miserable', 'wife."']
+PRED 4899: "मैं भी बंदरगाह को आमंत्रित किया था."
+PRED SCORE: -4.3634
+
+[2020-10-27 12:12:24,495 INFO] 
+SENT 4900: ['"is', 'her', 'complexion', 'like', 'mom', 'or', 'dad?"']
+PRED 4900: "यही तो उसके Probe या पिता की तरह है?"
+PRED SCORE: -3.7360
+
+[2020-10-27 12:12:24,495 INFO] 
+SENT 4901: ['"TREVOR:', 'Can', 'I', 'ask', 'you', 'something?"']
+PRED 4901: "मैं तुम्हें कुछ पूछ सकते हैं प्रश्न कर सकते हैं?"
+PRED SCORE: -1.5038
+
+[2020-10-27 12:12:24,495 INFO] 
+SENT 4902: ['"Come', 'on,', 'mate,', 'have', 'some', 'fucking', 'decency,', 'yes?"']
+PRED 4902: "आओ भी, उम, कुछ कमबख्त ऐलिस."
+PRED SCORE: -4.7253
+
+[2020-10-27 12:12:24,495 INFO] 
+SENT 4903: ['"I', 'think', 'that', 'man', 'is', 'a', 'friendly!"']
+PRED 4903: "मुझे लगता है कि आदमी एक कृतिम है."
+PRED SCORE: -2.8052
+
+[2020-10-27 12:12:24,495 INFO] 
+SENT 4904: ['"You', 'will', 'make', 'it', 'home,', 'Freya."']
+PRED 4904: "आप स्वयं के घर बना देंगे।"
+PRED SCORE: -5.9631
+
+[2020-10-27 12:12:24,496 INFO] 
+SENT 4905: ['"Sometimes', 'he', 'was', 'able', 'to', 'fight', "'em", 'off."']
+PRED 4905: "कभी कभी वह उन्हें दूर करने में सक्षम था।"
+PRED SCORE: -1.6841
+
+[2020-10-27 12:12:24,496 INFO] 
+SENT 4906: ['"And', 'I', 'went,', '""This', 'is', 'not', 'something', 'I', 'can', 'know', 'and', 'not', 'do', 'anything', 'about."']
+PRED 4906: "और मैं माली चला गया, मुझे कुछ नहीं पता चला ... और कुछ के बारे में कुछ नहीं जानता ."
+PRED SCORE: -8.3603
+
+[2020-10-27 12:12:24,496 INFO] 
+SENT 4907: ['"Oh,', 'no."']
+PRED 4907: "ओह, नहीं."
+PRED SCORE: -0.6681
+
+[2020-10-27 12:12:24,496 INFO] 
+SENT 4908: ['"It\'s', 'a', 'bond,', "it's", 'a', 'commitment."']
+PRED 4908: "यह एक क्रूर है तो यह एक है।"
+PRED SCORE: -3.8954
+
+[2020-10-27 12:12:24,496 INFO] 
+SENT 4909: ['"There', 'are', 'so', 'many', 'other', 'women."']
+PRED 4909: "वहाँ इतने सारे आदमी हैं।"
+PRED SCORE: -1.5341
+
+[2020-10-27 12:12:24,496 INFO] 
+SENT 4910: ['"So,', 'what', 'happens,', 'of', 'course,', 'is', 'that', 'just', 'as', 'we', 'up', 'our', 'game,', 'the', 'villains', 'up', 'theirs.', 'They', "don't", 'just', 'turn', 'up', 'on', 'spec', 'anymore."']
+PRED 4910: "तो क्या होता है, क्या होता है कि हम हमारे खेल पत्ते के रूप में ही नहीं है कि ."
+PRED SCORE: -11.8509
+
+[2020-10-27 12:12:24,496 INFO] 
+SENT 4911: ['"I', 'told', 'you."']
+PRED 4911: "मैंने तुमसे कहा था."
+PRED SCORE: -0.2549
+
+[2020-10-27 12:12:24,496 INFO] 
+SENT 4912: ['"Please,', 'dad."']
+PRED 4912: "कृपया, पिताजी।"
+PRED SCORE: -0.0003
+
+[2020-10-27 12:12:24,496 INFO] 
+SENT 4913: ['"Much', 'like', 'the', 'derriere', 'that', 'left', 'its', 'mark', 'on', "Walshy's", 'desk,"']
+PRED 4913: "इसी प्रतियोगी की तरह, वॉल्शी के निशान पर छोड़ दिया है।"
+PRED SCORE: -6.0940
+
+[2020-10-27 12:12:24,496 INFO] 
+SENT 4914: ['"The', 'lands', 'west', 'of', 'the', 'Euphrates,', 'Alexander,', 'the', 'hand', 'of', 'his', 'daughter', 'in', 'marriage."']
+PRED 4914: "जी.आई. प्रभुओं की मुट्ठी।"
+PRED SCORE: -6.1298
+
+[2020-10-27 12:12:24,496 INFO] 
+SENT 4915: ['"Work', 'like', 'a', 'charm."']
+PRED 4915: "काम एक जादू की तरह है."
+PRED SCORE: -1.1425
+
+[2020-10-27 12:12:24,497 INFO] 
+SENT 4916: ['"Hey,', 'where', 'the', 'fuck', 'did', 'you', 'go?"']
+PRED 4916: "अरे, तुम कहाँ गया, तुम जाओ?"
+PRED SCORE: -1.0781
+
+[2020-10-27 12:12:24,497 INFO] 
+SENT 4917: ['"Why', 'would', 'the', 'tribe', 'of', 'the', 'apes', 'want', 'to', 'eat', 'a', 'man?"']
+PRED 4917: "क्यों आदमी के जनजाति एक आदमी को खाने के लिए चाहते हैं।"
+PRED SCORE: -5.4328
+
+[2020-10-27 12:12:24,497 INFO] 
+SENT 4918: ['"Don\'t', 'forget."']
+PRED 4918: "भूलना मत."
+PRED SCORE: -0.0021
+
+[2020-10-27 12:12:24,497 INFO] 
+SENT 4919: ['"[sirens', 'blaring]', 'man', 'speaking', 'native', 'language:', 'Dickhead."']
+PRED 4919: "-इतना मुलायम आदमी अपनी मातृभाषा में बोलती हूं:"
+PRED SCORE: -5.3996
+
+[2020-10-27 12:12:24,497 INFO] 
+SENT 4920: ['"He\'s', 'just', 'doing', 'your', 'inseam."']
+PRED 4920: "वह सिर्फ अपने सप्लायर कर रहा है."
+PRED SCORE: -2.4505
+
+[2020-10-27 12:12:26,064 INFO] 
+SENT 4921: ['"The', 'suit', 'has', 'no', 'weapons,', 'so', 'I', 'made', 'you', 'these', 'discs."']
+PRED 4921: "आप नहीं लाता?"
+PRED SCORE: -4.2129
+
+[2020-10-27 12:12:26,065 INFO] 
+SENT 4922: ['"I\'m', 'sure', "you're", 'recording', 'this.."']
+PRED 4922: "मुझे यकीन है कि तुम गला पका रहे हो."
+PRED SCORE: -4.0709
+
+[2020-10-27 12:12:26,065 INFO] 
+SENT 4923: ['8.']
+PRED 4923: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:26,065 INFO] 
+SENT 4924: ['"I', 'think', 'you', 'have', 'some', 'very', 'definite', 'ideas', 'about', 'what', 'should', 'be', 'done', 'with', 'Danny."']
+PRED 4924: "मुझे लगता है कि कुछ खास लबादा होगी जो डैनी में डैनी के साथ किया जाना चाहिए."
+PRED SCORE: -6.4295
+
+[2020-10-27 12:12:26,065 INFO] 
+SENT 4925: ['Wh..?']
+PRED 4925: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:26,065 INFO] 
+SENT 4926: ['"Dude,', 'get', 'out."']
+PRED 4926: "यार, बाहर निकलो."
+PRED SCORE: -0.3866
+
+[2020-10-27 12:12:26,065 INFO] 
+SENT 4927: ['"its', 'coming', 'over', 'rr', 'feeds."']
+PRED 4927: "हथियार देखो.कौन?"
+PRED SCORE: -2.9959
+
+[2020-10-27 12:12:26,065 INFO] 
+SENT 4928: ['"You', "can't", 'save', 'the', 'unsavable', 'mate."']
+PRED 4928: "तुम जुनून को लगाने, दोस्त।"
+PRED SCORE: -1.8243
+
+[2020-10-27 12:12:26,065 INFO] 
+SENT 4929: ['"Ooh,', 'marvelous', 'doughnuts."']
+PRED 4929: "'बहुत लालची!"
+PRED SCORE: -4.5510
+
+[2020-10-27 12:12:26,065 INFO] 
+SENT 4930: ['"You', 'know', 'what', 'we', 'should', 'do?"']
+PRED 4930: "आप हमें क्या करना चाहिए क्या है?"
+PRED SCORE: -1.2823
+
+[2020-10-27 12:12:26,066 INFO] 
+SENT 4931: ['"Come', 'on."']
+PRED 4931: चलो.
+PRED SCORE: -0.7355
+
+[2020-10-27 12:12:26,066 INFO] 
+SENT 4932: ['"Fuck,', "you've", 'been', 'hit."']
+PRED 4932: "भाड़ में जाओ, तुम मारा गया है."
+PRED SCORE: -0.2332
+
+[2020-10-27 12:12:26,066 INFO] 
+SENT 4933: ['"You', 'look', 'after', 'our', 'place', 'for', 'me,', 'all', 'right?"']
+PRED 4933: "मेरी जगह के लिए अपने जगह के पीछे लग रही है, ठीक?"
+PRED SCORE: -4.6078
+
+[2020-10-27 12:12:26,066 INFO] 
+SENT 4934: ['"Andy', 'was', 'as', 'good', 'as', 'his', 'word."']
+PRED 4934: "एंडी उसके नाम के रूप में अच्छा था।"
+PRED SCORE: -1.7432
+
+[2020-10-27 12:12:26,066 INFO] 
+SENT 4935: ['"don\'t', 'leave', 'me."']
+PRED 4935: "वार्डन मुझे छोड़ दो।"
+PRED SCORE: -1.6981
+
+[2020-10-27 12:12:26,066 INFO] 
+SENT 4936: ['"Still', 'working."']
+PRED 4936: "अब भी काम कर रहे हैं."
+PRED SCORE: -0.5270
+
+[2020-10-27 12:12:26,066 INFO] 
+SENT 4937: ['"well', 'it', "doesn't", 'help', 'to', 'go', 'around', 'whimpering."']
+PRED 4937: "ठीक है, यह 15, पौधों से चारों ओर मदद करने में मदद नहीं करते."
+PRED SCORE: -7.0943
+
+[2020-10-27 12:12:26,067 INFO] 
+SENT 4938: ['"-', 'Thank', 'you,', 'doctor."']
+PRED 4938: "- धन्यवाद धन्यवाद, जान।"
+PRED SCORE: -1.5373
+
+[2020-10-27 12:12:26,067 INFO] 
+SENT 4939: ['"They\'re', 'drifting', 'outward!"']
+PRED 4939: "वे अलविदा लगाते हैं ..."
+PRED SCORE: -2.1501
+
+[2020-10-27 12:12:26,067 INFO] 
+SENT 4940: ['"And', 'shoving', 'her', 'best', 'friend', 'onto', 'a', 'truck."']
+PRED 4940: "और सुकन्या में उसकी सबसे अच्छा दोस्त है।"
+PRED SCORE: -3.3754
+
+[2020-10-27 12:12:26,067 INFO] 
+SENT 4941: ['Hi!']
+PRED 4941: नमस्ते!
+PRED SCORE: -0.0037
+
+[2020-10-27 12:12:26,067 INFO] 
+SENT 4942: ['"Are', 'you', 'going', 'to', 'dress', 'and', 'feed', 'them?"']
+PRED 4942: "क्या आप तैयार हैं और उन्हें खिलाने के लिए जा रहे हैं?"
+PRED SCORE: -4.0569
+
+[2020-10-27 12:12:26,067 INFO] 
+SENT 4943: ['"No', 'cowboy', 'shit,', 'just', 'stick', 'to', 'procedure."']
+PRED 4943: "कोई चरवाहा गंदगी, सिर्फ प्रक्रिया से चिपके रहते हैं."
+PRED SCORE: -0.0121
+
+[2020-10-27 12:12:26,067 INFO] 
+SENT 4944: ['"So', 'what?"']
+PRED 4944: "तो क्या हुआ?"
+PRED SCORE: -0.0722
+
+[2020-10-27 12:12:26,067 INFO] 
+SENT 4945: ['"Mr.', 'Jayasurya."']
+PRED 4945: "श्री मैक्सवेल."
+PRED SCORE: -1.3242
+
+[2020-10-27 12:12:26,067 INFO] 
+SENT 4946: ['"I', 'think', 'we', 'should', 'take', 'that', 'holiday', 'that', "we've", 'been', 'talking', 'about."']
+PRED 4946: "मुझे लगता है कि हमें कि विश्वकोश के बारे में बात करनी चाहिए."
+PRED SCORE: -3.7304
+
+[2020-10-27 12:12:26,067 INFO] 
+SENT 4947: ['"I', "don't", 'mean', 'Gina."']
+PRED 4947: "I सिक्युरिटी का मतलब नहीं है।"
+PRED SCORE: -3.3792
+
+[2020-10-27 12:12:26,067 INFO] 
+SENT 4948: ['Dom?']
+PRED 4948: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:26,068 INFO] 
+SENT 4949: ['(SCREAMS)']
+PRED 4949: (चिल्लाती)
+PRED SCORE: -0.0000
+
+[2020-10-27 12:12:26,068 INFO] 
+SENT 4950: ['"It\'s', 'not', 'anywhere."']
+PRED 4950: "यह कहीं भी नहीं है।"
+PRED SCORE: -0.6203
+
+[2020-10-27 12:12:27,741 INFO] 
+SENT 4951: ['"-', 'Ratboy?"']
+PRED 4951: "- जेसी."
+PRED SCORE: -1.9868
+
+[2020-10-27 12:12:27,741 INFO] 
+SENT 4952: ['"Who', 'is', 'this', 'man?"']
+PRED 4952: "यह आदमी कौन है?"
+PRED SCORE: -0.0208
+
+[2020-10-27 12:12:27,741 INFO] 
+SENT 4953: ['"How\'s', 'it', 'look?"']
+PRED 4953: "कैसा लग रहा है ?"
+PRED SCORE: -0.0665
+
+[2020-10-27 12:12:27,742 INFO] 
+SENT 4954: ['"You', 'would', 'look', 'like', 'a', 'real', 'princess', 'in', 'Xaro\'s--"']
+PRED 4954: "आप डियाज़, में एक असली राजकुमारी की तरह लग रही है."
+PRED SCORE: -4.6833
+
+[2020-10-27 12:12:27,742 INFO] 
+SENT 4955: ['"I', 'bet', "she'll", 'remember', 'me."']
+PRED 4955: "मैं वह मुझे याद कर रहा हूँ."
+PRED SCORE: -1.6681
+
+[2020-10-27 12:12:27,742 INFO] 
+SENT 4956: ['"-', 'What', 'were', 'you', 'doing', 'driving', 'so', 'goddamn', 'fast?"']
+PRED 4956: "- क्या तुम कर रहे हो इतनी धत् तेरे प्रभाव की थी?"
+PRED SCORE: -5.0532
+
+[2020-10-27 12:12:27,742 INFO] 
+SENT 4957: ['"-', 'I', "don't", 'care!"']
+PRED 4957: "- मुझे परवाह नहीं है!"
+PRED SCORE: -0.0002
+
+[2020-10-27 12:12:27,742 INFO] 
+SENT 4958: ['"""So', 'click', 'my', 'photo...', 'beloved."""']
+PRED 4958: """तो मेरी तस्वीर पर क्लिक करें ... प्रिय"""
+PRED SCORE: -0.0003
+
+[2020-10-27 12:12:27,742 INFO] 
+SENT 4959: ['"[', 'CAR', 'APPROACHING', ']"']
+PRED 4959: "[कार इंजन revs]"
+PRED SCORE: -0.7369
+
+[2020-10-27 12:12:27,742 INFO] 
+SENT 4960: ['"Something', 'that', 'was', 'destined', 'for', 'him."']
+PRED 4960: "उस के लिए कुछ ग़लती थी कि उसे."
+PRED SCORE: -6.0614
+
+[2020-10-27 12:12:27,742 INFO] 
+SENT 4961: ['"Even', 'cut', 'off,', 'the', 'head', 'can', 'still', 'bite."']
+PRED 4961: "यहां तक ​​कि यातना भी हमले कर सकते हैं।"
+PRED SCORE: -4.2614
+
+[2020-10-27 12:12:27,742 INFO] 
+SENT 4962: ['"I\'m', 'glad', 'you', 'showed', 'this', 'to', 'me."']
+PRED 4962: "मैं तुम्हें यह मेरे लिए यह करना होगा."
+PRED SCORE: -3.1371
+
+[2020-10-27 12:12:27,743 INFO] 
+SENT 4963: ['"The', 'substance', 'burns', 'so', 'hot,', 'it', 'melts', 'wood,', 'stone,', 'even', 'steel,', 'and,', 'of', 'course,', 'flesh."']
+PRED 4963: "पदार्थ इतना गर्म जलता है, यह धमाके के भी राज्य हँस भी थक जाता है."
+PRED SCORE: -9.1504
+
+[2020-10-27 12:12:27,743 INFO] 
+SENT 4964: ['"With', 'my', 'son', 'Tatsuhei"']
+PRED 4964: "मेरे बेटे की उंगलियों के साथ?"
+PRED SCORE: -0.2132
+
+[2020-10-27 12:12:27,743 INFO] 
+SENT 4965: ['"Lovesick', 'imbecile."']
+PRED 4965: "टैंक साला."
+PRED SCORE: -4.7086
+
+[2020-10-27 12:12:27,743 INFO] 
+SENT 4966: ['"©', 'P@rM!', 'NdeR', 'M@nkÖÖ', '™"']
+PRED 4966: "©@ पीआर एम nderएम@ nkÖÖ "
+PRED SCORE: -0.4741
+
+[2020-10-27 12:12:27,743 INFO] 
+SENT 4967: ['"That\'s', 'it!"']
+PRED 4967: "यह बात है!"
+PRED SCORE: -0.6873
+
+[2020-10-27 12:12:27,743 INFO] 
+SENT 4968: ['"Now', 'this', 'is', 'under', 'the', 'control', 'of', 'the', 'Malaysian', 'Police"']
+PRED 4968: "अब यह मलेशियाई पुलिस के नियंत्रण में है"
+PRED SCORE: -1.6901
+
+[2020-10-27 12:12:27,743 INFO] 
+SENT 4969: ['"Keep', 'the', 'ground', 'floor', 'clear."']
+PRED 4969: "जहाज तक खड़े रखो।"
+PRED SCORE: -3.3628
+
+[2020-10-27 12:12:27,743 INFO] 
+SENT 4970: ['"If', 'you', 'are', 'here', 'to', 'torture', 'Jacob', 'some', 'more,', 'please', 'feel', 'free', 'to', 'leave"']
+PRED 4970: "आप यहाँ एकत्र करने के लिए कुछ और अधिक हैं, तो मैं इस मात्सु को मुक्त करने के लिए स्वतंत्र ..."
+PRED SCORE: -9.0614
+
+[2020-10-27 12:12:27,743 INFO] 
+SENT 4971: ['"Then', 'go', 'inside."']
+PRED 4971: "तो अंदर जाने के लिए।"
+PRED SCORE: -1.2075
+
+[2020-10-27 12:12:27,743 INFO] 
+SENT 4972: ['"-', 'You', 'fool."']
+PRED 4972: "- तुम मूर्ख हो।"
+PRED SCORE: -0.2371
+
+[2020-10-27 12:12:27,744 INFO] 
+SENT 4973: ['Please.']
+PRED 4973: कृपया।
+PRED SCORE: -1.3956
+
+[2020-10-27 12:12:27,744 INFO] 
+SENT 4974: ['Why?']
+PRED 4974: क्यों?
+PRED SCORE: -0.2424
+
+[2020-10-27 12:12:27,744 INFO] 
+SENT 4975: ['"My', 'daddy', 'took', 'me', 'down', 'to', 'Gulf', 'Shores', 'when', 'I', 'was', 'a', 'boy."']
+PRED 4975: "मेरे पिताजी मुझे साक्षात्कार के नीचे ले ... जब मैं एक लड़का था."
+PRED SCORE: -5.8045
+
+[2020-10-27 12:12:27,744 INFO] 
+SENT 4976: ['"And', 'this', 'is', 'what', 'we', 'call', '""the', 'throat,"""']
+PRED 4976: "और यही कारण है कि हम क्या बुलाते हुए?"
+PRED SCORE: -3.5191
+
+[2020-10-27 12:12:27,744 INFO] 
+SENT 4977: ['"-', 'Babe,', 'keep', 'walking."']
+PRED 4977: "- कोयल चलते रहो."
+PRED SCORE: -2.9846
+
+[2020-10-27 12:12:27,744 INFO] 
+SENT 4978: ['"I', 'miss', 'her', 'so', 'much."']
+PRED 4978: "मैं उसकी बहुत याद आती है."
+PRED SCORE: -1.3633
+
+[2020-10-27 12:12:27,744 INFO] 
+SENT 4979: ['"9.38', 'PLEASE."']
+PRED 4979: "टैंक साला."
+PRED SCORE: -4.7086
+
+[2020-10-27 12:12:27,744 INFO] 
+SENT 4980: ['"Are', 'you', 'scared', "it's", 'gonna', 'hurt?"']
+PRED 4980: "क्या आप डर करने वाला है डर लगता है?"
+PRED SCORE: -2.1992
+
+[2020-10-27 12:12:29,117 INFO] 
+SENT 4981: ['"It\'s', 'like', 'a', '1', 'man', 'reign', 'of', 'terror."']
+PRED 4981: "यह एक 1 आदमी की तरह हैं, लेकिन-"
+PRED SCORE: -3.9551
+
+[2020-10-27 12:12:29,117 INFO] 
+SENT 4982: ['"-', 'Mercy!"']
+PRED 4982: "- जेसी."
+PRED SCORE: -1.9868
+
+[2020-10-27 12:12:29,117 INFO] 
+SENT 4983: ['Who?']
+PRED 4983: कौन?
+PRED SCORE: -0.3449
+
+[2020-10-27 12:12:29,117 INFO] 
+SENT 4984: ['"The', 'bar."']
+PRED 4984: दूसरे!
+PRED SCORE: -2.2602
+
+[2020-10-27 12:12:29,117 INFO] 
+SENT 4985: ['"Well,', "I'll", 'give', 'you', 'the', 'dime', 'tour?"']
+PRED 4985: "खैर, मैं तुम्हें पास बृहस्पति को खुशखबरी दे दूंगा!"
+PRED SCORE: -4.9228
+
+[2020-10-27 12:12:29,118 INFO] 
+SENT 4986: ['"Come', 'on!"']
+PRED 4986: चलो!
+PRED SCORE: -0.5292
+
+[2020-10-27 12:12:29,118 INFO] 
+SENT 4987: ['"Comrades...', 'as', 'a', 'soldier,', 'I', 'travel', 'a', 'lot', 'and', 'meet', 'a', 'lot', 'of', 'people."']
+PRED 4987: "Arove एक अंगरक्षक के रूप में मैं एक बहुत कुछ और पूरा लोगों का एक बहुत मिल है."
+PRED SCORE: -7.5416
+
+[2020-10-27 12:12:29,118 INFO] 
+SENT 4988: ['TEJ:']
+PRED 4988: तेज:
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:29,118 INFO] 
+SENT 4989: ['"Human', 'will', 'not', 'forgive."']
+PRED 4989: "दादी को माफ नहीं करेगा।"
+PRED SCORE: -3.4643
+
+[2020-10-27 12:12:29,118 INFO] 
+SENT 4990: ['Whoa!']
+PRED 4990: वाह!
+PRED SCORE: -0.0472
+
+[2020-10-27 12:12:29,118 INFO] 
+SENT 4991: ['"That\'s', 'really', 'important', 'to', 'me."']
+PRED 4991: "यह मेरे लिए वास्तव में महत्वपूर्ण है."
+PRED SCORE: -1.1752
+
+[2020-10-27 12:12:29,118 INFO] 
+SENT 4992: ['"Look', 'at', 'me,', 'Judith."']
+PRED 4992: "मुझे देखो, साहब को देखो."
+PRED SCORE: -1.3290
+
+[2020-10-27 12:12:29,118 INFO] 
+SENT 4993: ['"But', 'we', 'need', 'to', 'get', 'her', 'greased', 'up', 'for', 'a', 'trip', 'up', 'north."']
+PRED 4993: "लेकिन हम उसके लिए एक यात्रा अप करने की जरूरत है."
+PRED SCORE: -2.6445
+
+[2020-10-27 12:12:29,118 INFO] 
+SENT 4994: ['"The', 'bathroom."']
+PRED 4994: अल्फोंस...
+PRED SCORE: -1.3589
+
+[2020-10-27 12:12:29,118 INFO] 
+SENT 4995: ['"I', 'know', 'the', 'angles."']
+PRED 4995: "मैं अफवाहों पता है."
+PRED SCORE: -0.7875
+
+[2020-10-27 12:12:29,118 INFO] 
+SENT 4996: ['"No,', 'I', "don't", 'think..."']
+PRED 4996: "नहीं, मुझे नहीं लगता..."
+PRED SCORE: -0.0702
+
+[2020-10-27 12:12:29,119 INFO] 
+SENT 4997: ['"So', "you're", 'saying', 'the', 'map', 'no', 'man', 'can', 'read,', 'Is', 'hidden', 'in', 'the', 'stars?"']
+PRED 4997: "तो आप कह रहे हैं कि क्या आप कह रहे हैं वह शुद्ध में छिपा कर सकते हैं?"
+PRED SCORE: -4.9258
+
+[2020-10-27 12:12:29,119 INFO] 
+SENT 4998: ['Hey.']
+PRED 4998: हे.
+PRED SCORE: -0.7949
+
+[2020-10-27 12:12:29,119 INFO] 
+SENT 4999: ['(Chatter)']
+PRED 4999: (Chatter)
+PRED SCORE: -0.3964
+
+[2020-10-27 12:12:29,119 INFO] 
+SENT 5000: ['"I', "won't", 'do', 'anything."']
+PRED 5000: "मैं कुछ भी नहीं करूंगा."
+PRED SCORE: -0.3535
+
+[2020-10-27 12:12:29,119 INFO] 
+SENT 5001: ['"Wilt', 'translate?"']
+PRED 5001: नीच आफ़्टरनून, तू ?"
+PRED SCORE: -3.4158
+
+[2020-10-27 12:12:29,119 INFO] 
+SENT 5002: ['"Then', 'get', 'me', 'to', 'the', 'vault."']
+PRED 5002: "तब मुझे सहारा के लिए मिलता है."
+PRED SCORE: -2.6953
+
+[2020-10-27 12:12:29,119 INFO] 
+SENT 5003: ['"Not', 'necessarily."']
+PRED 5003: "इस जाम नहीं।"
+PRED SCORE: -1.2381
+
+[2020-10-27 12:12:29,119 INFO] 
+SENT 5004: ['"I', 'hit', 'his', 'weakest', 'point."']
+PRED 5004: "मैं अपने मतभेदों सोरबोन मारा."
+PRED SCORE: -2.9653
+
+[2020-10-27 12:12:29,119 INFO] 
+SENT 5005: ['"That\'s', 'a', 'negative,', 'Tower."']
+PRED 5005: "यह एक मौलिक सजावट?"
+PRED SCORE: -4.4876
+
+[2020-10-27 12:12:29,119 INFO] 
+SENT 5006: ['"It\'s', 'an', 'old', 'federal', 'textbook."']
+PRED 5006: "यह एक पुरानी मोटरसाइकिल खान है."
+PRED SCORE: -2.2980
+
+[2020-10-27 12:12:29,119 INFO] 
+SENT 5007: ['"But', 'Sam', "wasn't", 'the', 'only', 'woman', 'yanking', 'my', 'dick', 'that', 'particular', 'morning."']
+PRED 5007: "लेकिन पिताजी, केवल एक ही औरत है... ... मेरे प्रतिभाशाली कि विशेष रूप से."
+PRED SCORE: -5.8356
+
+[2020-10-27 12:12:29,120 INFO] 
+SENT 5008: ['"Yo,', 'Vic."']
+PRED 5008: "यो, विक."
+PRED SCORE: -0.0014
+
+[2020-10-27 12:12:29,120 INFO] 
+SENT 5009: ['"Makeover', 'king."']
+PRED 5009: "बहादुर साल..."
+PRED SCORE: -3.8767
+
+[2020-10-27 12:12:29,120 INFO] 
+SENT 5010: ['"They', "didn't", 'even', 'call', 'his', 'name', 'out."']
+PRED 5010: "वे भी उसका नाम बाहर नहीं बुला रहे."
+PRED SCORE: -1.2418
+
+[2020-10-27 12:12:30,507 INFO] 
+SENT 5011: ['"We', 'can', 'make', 'it."']
+PRED 5011: "हम कर सकते हैं."
+PRED SCORE: -2.4384
+
+[2020-10-27 12:12:30,507 INFO] 
+SENT 5012: ['"Every', 'day,', 'you', 'have', 'to', 'go', 'down', 'there', 'and', 'see', 'what', 'was', 'lost."']
+PRED 5012: "हर दिन, तुम वहाँ नीचे जाना है और क्या एक खो गया था."
+PRED SCORE: -2.8086
+
+[2020-10-27 12:12:30,507 INFO] 
+SENT 5013: ['"I', 'tried,', 'herr', 'doctor."']
+PRED 5013: "मैं नागरिकों की आवश्यकता है."
+PRED SCORE: -3.9483
+
+[2020-10-27 12:12:30,507 INFO] 
+SENT 5014: ['"The', 'first', 'time', 'he', 'came', 'to', 'see', 'me."']
+PRED 5014: "पहली बार वह मुझे देखने के लिए आया था।"
+PRED SCORE: -0.7530
+
+[2020-10-27 12:12:30,507 INFO] 
+SENT 5015: ['"A', 'grot', 'mag?"']
+PRED 5015: "एक मोहरे होई।"
+PRED SCORE: -2.4239
+
+[2020-10-27 12:12:30,507 INFO] 
+SENT 5016: ['-Sweat']
+PRED 5016: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:30,507 INFO] 
+SENT 5017: ['"Come', 'on."']
+PRED 5017: चलो.
+PRED SCORE: -0.7355
+
+[2020-10-27 12:12:30,507 INFO] 
+SENT 5018: ['"-', 'Spectre."']
+PRED 5018: क्राइस्ट...
+PRED SCORE: -1.0557
+
+[2020-10-27 12:12:30,507 INFO] 
+SENT 5019: ['"To', 'become', 'unstoppable?"']
+PRED 5019: ब्रीडर्स..
+PRED SCORE: -3.0651
+
+[2020-10-27 12:12:30,508 INFO] 
+SENT 5020: ['"Light', 'it', 'up!"']
+PRED 5020: "प्रकाशित कर दो!"
+PRED SCORE: -0.0003
+
+[2020-10-27 12:12:30,508 INFO] 
+SENT 5021: ['"How', 'did', 'I', 'harm', 'Sukanya', 'and', 'her', 'friends?"']
+PRED 5021: "मैं कैसे सुकन्या और उसके दोस्तों को नुकसान किया?"
+PRED SCORE: -1.4751
+
+[2020-10-27 12:12:30,508 INFO] 
+SENT 5022: ['"Is', 'he', 'alive?"']
+PRED 5022: "वह जीवित है?"
+PRED SCORE: -0.1478
+
+[2020-10-27 12:12:30,508 INFO] 
+SENT 5023: ['"I', 'guess', 'she', 'knows', "we're", 'here."']
+PRED 5023: "मुझे लगता है कि वह यहाँ हम समझता हैं."
+PRED SCORE: -1.6846
+
+[2020-10-27 12:12:30,508 INFO] 
+SENT 5024: ['"-', 'All', 'of', 'it?"']
+PRED 5024: "- पूरा?"
+PRED SCORE: -0.0009
+
+[2020-10-27 12:12:30,508 INFO] 
+SENT 5025: ['"Poor', 'Byron!"']
+PRED 5025: "बेचारा बार्न्स।"
+PRED SCORE: -3.0139
+
+[2020-10-27 12:12:30,508 INFO] 
+SENT 5026: ['"Always', 'looking', 'behind', 'you?"']
+PRED 5026: "हमेशा आप पीछे देख रहे हैं?"
+PRED SCORE: -0.0085
+
+[2020-10-27 12:12:30,508 INFO] 
+SENT 5027: ['"It', "ain't", 'about', 'what', 'she', 'did."']
+PRED 5027: "यह क्या है के बारे में नहीं है."
+PRED SCORE: -0.8895
+
+[2020-10-27 12:12:30,508 INFO] 
+SENT 5028: ['"Kick', 'his', 'ass!"']
+PRED 5028: "उसकी Yorbetal को लात मारने."
+PRED SCORE: -0.6991
+
+[2020-10-27 12:12:30,508 INFO] 
+SENT 5029: ['"What', 'have', 'you', 'got,', 'Parker?"']
+PRED 5029: "आप जाये, क्या मिला?"
+PRED SCORE: -0.1467
+
+[2020-10-27 12:12:30,508 INFO] 
+SENT 5030: ['"He', 'was', 'right."']
+PRED 5030: "वह सही था."
+PRED SCORE: -0.0942
+
+[2020-10-27 12:12:30,509 INFO] 
+SENT 5031: ['"The', 'doctor', "didn't", 'come', 'to', 'the', 'village', 'for', 'a', 'week"']
+PRED 5031: "ये डॉक्टर एक लुगदी के लिए आया था।"
+PRED SCORE: -4.0887
+
+[2020-10-27 12:12:30,509 INFO] 
+SENT 5032: ['"You\'re', 'no', 'use', 'to', 'me."']
+PRED 5032: "तुम मेरे लिए कोई फायदा नहीं हो।"
+PRED SCORE: -2.7086
+
+[2020-10-27 12:12:30,509 INFO] 
+SENT 5033: ['"I', 'just', 'want', 'out."']
+PRED 5033: "मैं सिर्फ बाहर चाहता हूँ."
+PRED SCORE: -0.9357
+
+[2020-10-27 12:12:30,509 INFO] 
+SENT 5034: ['"Well,', 'there', 'are', 'worse', 'things."']
+PRED 5034: "ठीक है, वहाँ बातें रहे हैं."
+PRED SCORE: -1.7009
+
+[2020-10-27 12:12:30,509 INFO] 
+SENT 5035: ['"I\'m', 'not', 'doing', 'anything."']
+PRED 5035: "मैं कुछ भी नहीं कर रहा हूँ."
+PRED SCORE: -0.0070
+
+[2020-10-27 12:12:30,509 INFO] 
+SENT 5036: ['"How', 'calm', 'you', 'get', 'when', "you're", 'really', 'excited."']
+PRED 5036: "कैसे आप वास्तव में कर रहे हैं जब ठीक है, तुम कैसे मिलता है."
+PRED SCORE: -2.6059
+
+[2020-10-27 12:12:30,509 INFO] 
+SENT 5037: ['"My', 'little', 'Max."']
+PRED 5037: "मेरा छोटा मैक्स."
+PRED SCORE: -0.0013
+
+[2020-10-27 12:12:30,509 INFO] 
+SENT 5038: ['"You', 'are', 'thinking', 'about', 'it,', 'arent', 'you?"']
+PRED 5038: "आप इसके बारे में सोच रहे हैं, है न?"
+PRED SCORE: -1.1778
+
+[2020-10-27 12:12:30,509 INFO] 
+SENT 5039: ['"How', 'dare', 'he', 'plays', 'me', 'using', 'my', 'dad!"']
+PRED 5039: "वह मेरे पिताजी का उपयोग कैसे बोल रहा हूँ वो!"
+PRED SCORE: -5.7273
+
+[2020-10-27 12:12:30,509 INFO] 
+SENT 5040: ['"Let\'s', 'go,', 'fast.', 'Fast."']
+PRED 5040: -Priors,भव्यचोरीऑटो...
+PRED SCORE: -3.1484
+
+[2020-10-27 12:12:32,291 INFO] 
+SENT 5041: ['"Where', 'are', 'you?"']
+PRED 5041: "तुम कहाँ हो?"
+PRED SCORE: -0.3748
+
+[2020-10-27 12:12:32,291 INFO] 
+SENT 5042: ['"The', 'bad', 'news', 'is', 'I', 'think', 'it', 'involves', 'me', 'sleeping', 'with', 'her."']
+PRED 5042: "सबसे बुरा है कि यह उसके साथ सो रहा है।"
+PRED SCORE: -3.7555
+
+[2020-10-27 12:12:32,291 INFO] 
+SENT 5043: ['"One', 'second."']
+PRED 5043: "एक दूसरे के।"
+PRED SCORE: -0.2686
+
+[2020-10-27 12:12:32,291 INFO] 
+SENT 5044: ['"Take', 'her', 'leave."']
+PRED 5044: "उसे छोड़ दें."
+PRED SCORE: -1.0507
+
+[2020-10-27 12:12:32,291 INFO] 
+SENT 5045: ['"These', 'goons', 'will', 'thrash', 'us', 'and', 'scoot', 'without', 'a', 'trace"']
+PRED 5045: "इन गुंडों हमें एक न्यूनतम के बिना हमें पढ़ाएगा।"
+PRED SCORE: -6.0963
+
+[2020-10-27 12:12:32,291 INFO] 
+SENT 5046: ['"You\'re', 'sure', 'you', 'saw', 'his', 'face?"']
+PRED 5046: "तुम्हें यकीन है कि आप अपने चेहरे को देखा जाता है?"
+PRED SCORE: -1.5128
+
+[2020-10-27 12:12:32,291 INFO] 
+SENT 5047: ['"There\'s', 'no', 'talking', 'to', 'Drago."']
+PRED 5047: "वहाँ ड्रागो से बात नहीं कर रहे हैं।"
+PRED SCORE: -1.2147
+
+[2020-10-27 12:12:32,291 INFO] 
+SENT 5048: ['"I', 'tell', 'you,', 'that', 'horse', "can't", 'be', 'ridden,', 'lad."']
+PRED 5048: "तुम कहता हो, कि घोड़े को भ्रमित नहीं किया जा सकता है."
+PRED SCORE: -4.6007
+
+[2020-10-27 12:12:32,292 INFO] 
+SENT 5049: ['"Are', 'you', 'crazy?', 'Put', 'the', 'gun', 'down!"']
+PRED 5049: "तुम बहरे हो, बंदूक नीचे है!"
+PRED SCORE: -2.6418
+
+[2020-10-27 12:12:32,292 INFO] 
+SENT 5050: ['Choo-choo.']
+PRED 5050: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:32,292 INFO] 
+SENT 5051: ['"-', "I'm", 'not', 'sure', 'I', 'see', 'what', "you're", 'getting', 'at."']
+PRED 5051: "- मैं आप में क्या हो रही है यकीन नहीं कर रहा हूँ."
+PRED SCORE: -1.5454
+
+[2020-10-27 12:12:32,292 INFO] 
+SENT 5052: ['"-', 'OH,', 'FOR', "FUCK'S", 'SAKE."']
+PRED 5052: "- ओह, श्री हैलो?"
+PRED SCORE: -1.6696
+
+[2020-10-27 12:12:32,292 INFO] 
+SENT 5053: ['"-', 'Oh."']
+PRED 5053: "- - ओह। -"
+PRED SCORE: -0.7366
+
+[2020-10-27 12:12:32,292 INFO] 
+SENT 5054: ['"Actually', 'I', "don't", 'remember."']
+PRED 5054: "वास्तव में मैं याद नहीं है."
+PRED SCORE: -0.2533
+
+[2020-10-27 12:12:32,292 INFO] 
+SENT 5055: ['"It\'s', 'all', 'right."']
+PRED 5055: "यह ठीक है .."
+PRED SCORE: -1.6577
+
+[2020-10-27 12:12:32,292 INFO] 
+SENT 5056: ['"Whatever', 'it', 'is,', 'will', 'be', 'conveyed', 'only', 'after', '24', 'hours"']
+PRED 5056: "जो भी हो, यह पंगा हो जाएगा 24 घंटे के बाद अराजकता हो जाएगा"
+PRED SCORE: -5.0268
+
+[2020-10-27 12:12:32,292 INFO] 
+SENT 5057: ['"Get', 'over', 'here!"']
+PRED 5057: "यहाँ पर!"
+PRED SCORE: -0.9642
+
+[2020-10-27 12:12:32,292 INFO] 
+SENT 5058: ['"She', 'turned', 'out', 'to', 'be', 'a', 'pretty', 'good', 'kid,', 'considering."']
+PRED 5058: "उसने एक सुंदर आदमी की पिटाई करने के लिए बाहर बदल गया."
+PRED SCORE: -4.9097
+
+[2020-10-27 12:12:32,292 INFO] 
+SENT 5059: ['"Hey,', 'look,', 'mate,', 'that', 'gubbins', 'you', 'told', 'me', 'about', 'putting', 'her', 'first', 'did', 'the', 'trick."']
+PRED 5059: "अरे, आप जानते हैं, देखो, आप उसे पहली बार था कि क्षमताओं के बारे में मुझे बताया."
+PRED SCORE: -6.8556
+
+[2020-10-27 12:12:32,293 INFO] 
+SENT 5060: ['"-', 'Colonel', "Graff's", 'orders!"']
+PRED 5060: "- कर्नल नीली घर?"
+PRED SCORE: -5.2749
+
+[2020-10-27 12:12:32,293 INFO] 
+SENT 5061: ['"It', "ain't", 'natural."']
+PRED 5061: "यह स्वाभाविक नहीं है."
+PRED SCORE: -1.3228
+
+[2020-10-27 12:12:32,293 INFO] 
+SENT 5062: ['"With', 'one', 'shot', 'everything', 'must', 'go..."']
+PRED 5062: "एक शॉट के साथ, सब कुछ मर जाते हैं ..."
+PRED SCORE: -3.9468
+
+[2020-10-27 12:12:32,293 INFO] 
+SENT 5063: ['"-', 'Got', 'a', 'list?"']
+PRED 5063: "- तुम्हारे पास एक हो गया?"
+PRED SCORE: -3.5712
+
+[2020-10-27 12:12:32,293 INFO] 
+SENT 5064: ['"We', 'are', 'very', 'disappointed', 'in', 'you."']
+PRED 5064: "हम आप में बहुत व्यस्त हैं."
+PRED SCORE: -0.0690
+
+[2020-10-27 12:12:32,293 INFO] 
+SENT 5065: ['"Little', 'children', 'went', 'to', 'Heaven!"']
+PRED 5065: "छोटे बच्चों को संत के लिए चला गया।"
+PRED SCORE: -3.5759
+
+[2020-10-27 12:12:32,293 INFO] 
+SENT 5066: ['"Be', 'brave', 'again,', 'Glaukos', 'and', 'you', 'will', 'live', 'on', 'in', 'glory."']
+PRED 5066: "आप डैनी को फिर करे, और आप महिमा में रह जाएगा।"
+PRED SCORE: -6.8343
+
+[2020-10-27 12:12:32,293 INFO] 
+SENT 5067: ['"We', 'met', 'and', 'you', 'gave', 'me', 'a', 'gift."']
+PRED 5067: "हम एक खजाना मुलाकात से और तुमने मुझे एक उपहार दे दिया."
+PRED SCORE: -3.4850
+
+[2020-10-27 12:12:32,293 INFO] 
+SENT 5068: ['"She', 'has', 'to', 'do', 'her', 'books."']
+PRED 5068: "उनको अपने चुनाव करना है."
+PRED SCORE: -3.1719
+
+[2020-10-27 12:12:32,293 INFO] 
+SENT 5069: ['Kongstrup!']
+PRED 5069: काँगस्ट्रप!
+PRED SCORE: -0.0002
+
+[2020-10-27 12:12:32,293 INFO] 
+SENT 5070: ['"You\'re', 'thinking', 'what', "I'm", 'thinking."']
+PRED 5070: "आप सोच रहे हैं कि मैं क्या सोच रहा हूँ रहा है."
+PRED SCORE: -2.2933
+
+[2020-10-27 12:12:33,749 INFO] 
+SENT 5071: ['"Have', 'you', 'come', 'to', 'shift', 'me?"']
+PRED 5071: "आप मेरे लिए आते हैं, है ना?"
+PRED SCORE: -2.7629
+
+[2020-10-27 12:12:33,750 INFO] 
+SENT 5072: ['"Don\'t', 'leave', 'us!"']
+PRED 5072: "हमें नहीं छोड़िए!"
+PRED SCORE: -0.3569
+
+[2020-10-27 12:12:33,750 INFO] 
+SENT 5073: ['"How\'s', 'that?"']
+PRED 5073: "कि कैसे है?"
+PRED SCORE: -0.9177
+
+[2020-10-27 12:12:33,750 INFO] 
+SENT 5074: ['"-What', 'are', 'you', 'doing', 'over', 'Christmas', 'break?"']
+PRED 5074: "- क्या तुम ऊर्जा पर चल रहे हैं आप?"
+PRED SCORE: -5.3003
+
+[2020-10-27 12:12:33,750 INFO] 
+SENT 5075: ['"You', 'go', 'in', 'alone,', 'you', "won't", 'ever', 'touch', 'them."']
+PRED 5075: "आप अकेले जाओ , तुम कभी उन्हें छू नहीं होंगे।"
+PRED SCORE: -3.4836
+
+[2020-10-27 12:12:33,750 INFO] 
+SENT 5076: ['"-', "I've", 'got', 'fresh', 'batteries."']
+PRED 5076: "- मैं ताजा ब्रीफ़केस मिला"
+PRED SCORE: -4.3596
+
+[2020-10-27 12:12:33,750 INFO] 
+SENT 5077: ['"""Cute', 'little', 'Karen', 'Clarke', 'was', 'a', 'topless', 'beauty', 'at', 'an', 'early', 'age"']
+PRED 5077: "जियोवाना के थोड़ा शिक्षण की पीढ़ियां एक नींद उम्र में कोर्ट था"
+PRED SCORE: -12.0262
+
+[2020-10-27 12:12:33,750 INFO] 
+SENT 5078: ['"-Who\'s', 'keeping', 'count?"']
+PRED 5078: "-इतना मुलायम Parihaar।"
+PRED SCORE: -3.4522
+
+[2020-10-27 12:12:33,750 INFO] 
+SENT 5079: ['"-', 'Alexander!"']
+PRED 5079: "- सिकंदर!"
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:33,750 INFO] 
+SENT 5080: ['"One', 'at', 'home,', 'one', 'at', 'green', 'park,', 'and', 'one', 'under', 'the', 'table."']
+PRED 5080: "एक बल्ले में एक वाक्य, और मेज के तहत में एक डाला."
+PRED SCORE: -6.8582
+
+[2020-10-27 12:12:33,751 INFO] 
+SENT 5081: ['"Only', 'girl', 'in', 'the', 'Salamander', 'army', 'with', 'more', 'balls', 'than', 'anybody', 'else', 'in', 'this', 'bunk', 'room."']
+PRED 5081: "इस महाद्वीप में किसी और से अधिक शो में केवल एक ही लड़की कमरे में."
+PRED SCORE: -9.1728
+
+[2020-10-27 12:12:33,751 INFO] 
+SENT 5082: ['"Get', 'in."']
+PRED 5082: "अंदर चलो."
+PRED SCORE: -0.8996
+
+[2020-10-27 12:12:33,751 INFO] 
+SENT 5083: ['"Did', 'you', 'take', 'anything?"']
+PRED 5083: "क्या तुमने कुछ किया?"
+PRED SCORE: -1.8797
+
+[2020-10-27 12:12:33,751 INFO] 
+SENT 5084: ['"Where', 'are', 'they', 'going?', 'TREVOR:', 'Hey,', 'a', 'tunnel."']
+PRED 5084: "इन बरसात पीते हैं एक धोबी."
+PRED SCORE: -6.9186
+
+[2020-10-27 12:12:33,751 INFO] 
+SENT 5085: ['"But', 'supposing,', 'for', 'the', 'sake', 'of', 'argument,', 'we', "don't", 'go', 'for', 'that."']
+PRED 5085: "लेकिन Dionysus, की धूप के लिए हासिल... हम उस बात के लिए नहीं जाना है।"
+PRED SCORE: -6.7549
+
+[2020-10-27 12:12:33,751 INFO] 
+SENT 5086: ['"The', 'bullet', 'hit', 'her', 'head"']
+PRED 5086: "गोली उसके सिर मारा"
+PRED SCORE: -0.5238
+
+[2020-10-27 12:12:33,751 INFO] 
+SENT 5087: ['"The', 'runt', 'of', 'the', 'litter--', 'that', "one's", 'yours,', 'snow."']
+PRED 5087: "ब्रांडी /मैं ... कि एक जाती के आधार है."
+PRED SCORE: -6.6337
+
+[2020-10-27 12:12:33,751 INFO] 
+SENT 5088: ['"A', 'red', 'salmon."']
+PRED 5088: "एक लाल होई।"
+PRED SCORE: -1.7094
+
+[2020-10-27 12:12:33,751 INFO] 
+SENT 5089: ['What?']
+PRED 5089: क्या?
+PRED SCORE: -0.0291
+
+[2020-10-27 12:12:33,751 INFO] 
+SENT 5090: ['"But', 'I', 'knew', "you'd", 'come', 'back."']
+PRED 5090: "लेकिन मैं तुम्हें वापस आना होता था."
+PRED SCORE: -0.0560
+
+[2020-10-27 12:12:33,751 INFO] 
+SENT 5091: ['Careful.']
+PRED 5091: सावधान.
+PRED SCORE: -0.0258
+
+[2020-10-27 12:12:33,752 INFO] 
+SENT 5092: ['"Should', 'be', 'able', 'to', 'do', 'what', 'he', 'wants', 'to', 'do."']
+PRED 5092: "वह क्या करना चाहता है क्या करना चाहिए क्या होना चाहिए?"
+PRED SCORE: -1.8987
+
+[2020-10-27 12:12:33,752 INFO] 
+SENT 5093: ['"-', 'Yeah,', 'yeah."']
+PRED 5093: "- हाँ, हाँ."
+PRED SCORE: -0.0177
+
+[2020-10-27 12:12:33,752 INFO] 
+SENT 5094: ['COOPER:']
+PRED 5094: COOPER:
+PRED SCORE: -0.0000
+
+[2020-10-27 12:12:33,752 INFO] 
+SENT 5095: ['"You', "can't", 'see', 'any', 'of', 'the', 'dust."']
+PRED 5095: "तुम आम नहीं देख सकते हो."
+PRED SCORE: -2.0791
+
+[2020-10-27 12:12:33,752 INFO] 
+SENT 5096: ['"Gone', 'forever."']
+PRED 5096: "तीन... हमेशा -पहचानें."
+PRED SCORE: -2.6744
+
+[2020-10-27 12:12:33,752 INFO] 
+SENT 5097: ['"Do', 'you', 'know', 'where', 'that', 'is?"']
+PRED 5097: "तुम्हें पता है कि कहां है?"
+PRED SCORE: -1.8432
+
+[2020-10-27 12:12:33,752 INFO] 
+SENT 5098: ['"It\'s', 'easy!"']
+PRED 5098: "यह आसान है!"
+PRED SCORE: -0.0058
+
+[2020-10-27 12:12:33,752 INFO] 
+SENT 5099: ['"It', 'used', 'to', 'break', 'a', 'magical', 'link."']
+PRED 5099: "यह एक जादुई faulter घुसपैठ करने के लिए इस्तेमाल किया जाता है."
+PRED SCORE: -2.9018
+
+[2020-10-27 12:12:33,752 INFO] 
+SENT 5100: ['MAN:']
+PRED 5100: आदमी:
+PRED SCORE: -0.2573
+
+[2020-10-27 12:12:35,315 INFO] 
+SENT 5101: ['"That\'s', 'police', 'brutality."']
+PRED 5101: "यही पुलिस hostess है."
+PRED SCORE: -3.9983
+
+[2020-10-27 12:12:35,315 INFO] 
+SENT 5102: ['"I\'ve', 'waited', 'three', 'days."']
+PRED 5102: "मैं तीन दिन इंतज़ार किया है."
+PRED SCORE: -1.7680
+
+[2020-10-27 12:12:35,315 INFO] 
+SENT 5103: ['"Have', 'you', 'seen', 'Po?"']
+PRED 5103: "क्या आपने निष्कासित देखा है?"
+PRED SCORE: -1.4891
+
+[2020-10-27 12:12:35,316 INFO] 
+SENT 5104: ["L'Americain."]
+PRED 5104: लमेरिकेन।
+PRED SCORE: -0.2611
+
+[2020-10-27 12:12:35,316 INFO] 
+SENT 5105: ['Toothless!']
+PRED 5105: टूथलेस!
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:35,316 INFO] 
+SENT 5106: ['"You', 'said', '""normal\'s', 'relative."""']
+PRED 5106: "आप कहते..."
+PRED SCORE: -1.7178
+
+[2020-10-27 12:12:35,316 INFO] 
+SENT 5107: ['"I', "don't", 'need', 'him"']
+PRED 5107: "मैं उसे जरूरत नहीं है!"
+PRED SCORE: -0.1661
+
+[2020-10-27 12:12:35,316 INFO] 
+SENT 5108: ['"♪', "I'M", 'PLANNING', 'TO', 'SLEEP,', 'CHILD', '♪"']
+PRED 5108: "♪मैंयोजनाबना रहा हूँ सो,बाल♪"
+PRED SCORE: -0.0055
+
+[2020-10-27 12:12:35,316 INFO] 
+SENT 5109: ['"But', 'I', 'talk', 'to', 'leaders,', 'and', 'they', 'are', 'advised', 'her', 'to', 'go', 'home', 'with', 'you."']
+PRED 5109: "लेकिन मुझे कोई है और उनके साथ घर जाने की सलाह दी है."
+PRED SCORE: -4.2394
+
+[2020-10-27 12:12:35,316 INFO] 
+SENT 5110: ['"Do', 'you', 'wanna', 'give', 'him', 'a', 'name?"']
+PRED 5110: "आप उसे एक नाम देना चाहते हैं?"
+PRED SCORE: -0.4215
+
+[2020-10-27 12:12:35,316 INFO] 
+SENT 5111: ['"Do', 'you', 'know', 'any', 'other', 'tricks?"']
+PRED 5111: "आप किसी अन्य सामान को जानते हैं?"
+PRED SCORE: -1.9237
+
+[2020-10-27 12:12:35,316 INFO] 
+SENT 5112: ['"I\'m', 'here', 'because', 'there', 'are', 'seismic', 'sensors', 'going', 'off', '30', 'klicks', 'north', 'of', 'here', 'that', 'we', 'think', 'that', 'we', 'should', 'check', 'into."']
+PRED 5112: "मैं यहाँ हैं... / मैं ... यह हम मात्सु से रोकेंगे।"
+PRED SCORE: -10.7233
+
+[2020-10-27 12:12:35,316 INFO] 
+SENT 5113: ['"And', 'then', 'he', 'died?"']
+PRED 5113: "और फिर वह मर गया ..."
+PRED SCORE: -0.9315
+
+[2020-10-27 12:12:35,316 INFO] 
+SENT 5114: ['"Yeah,', "you're", 'good./', 'Alright."']
+PRED 5114: "हाँ, तुम मैला ठीक कर रहे हैं."
+PRED SCORE: -2.4455
+
+[2020-10-27 12:12:35,317 INFO] 
+SENT 5115: ['"Are', 'you', 'kidding?"']
+PRED 5115: "आप मजाक कर रहे हो?"
+PRED SCORE: -0.4587
+
+[2020-10-27 12:12:35,317 INFO] 
+SENT 5116: ['"You', 'miss', 'him,', "don't", 'you?"']
+PRED 5116: "तुम उसे याद नहीं है, है न?"
+PRED SCORE: -1.2623
+
+[2020-10-27 12:12:35,317 INFO] 
+SENT 5117: ['"And', 'you', "don't", 'exactly', 'do', 'yourself', 'any', 'favors."']
+PRED 5117: "और तुम वास्तव में अपने आप जोखिम नहीं करते हैं?"
+PRED SCORE: -2.4797
+
+[2020-10-27 12:12:35,317 INFO] 
+SENT 5118: ['"Jacket', 'pocket."']
+PRED 5118: "[‍पक्षियों की अंगुली."
+PRED SCORE: -4.4506
+
+[2020-10-27 12:12:35,317 INFO] 
+SENT 5119: ['Tetanus.']
+PRED 5119: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:35,317 INFO] 
+SENT 5120: ['"My', 'father', 'is', 'a', 'very', 'special', 'man."']
+PRED 5120: "मेरे पिता एक बहुत खास आदमी है."
+PRED SCORE: -0.1476
+
+[2020-10-27 12:12:35,317 INFO] 
+SENT 5121: ['"Not', 'my', 'goddamn', 'bike!"']
+PRED 5121: "मेरे धत् तेरे की तुलना में."
+PRED SCORE: -2.1729
+
+[2020-10-27 12:12:35,317 INFO] 
+SENT 5122: ['Irritated?']
+PRED 5122: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:35,317 INFO] 
+SENT 5123: ['Whatever!']
+PRED 5123: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:35,317 INFO] 
+SENT 5124: ['"Where\'s', 'my', 'daughter?"']
+PRED 5124: "मेरी बेटी कहाँ है?"
+PRED SCORE: -0.4938
+
+[2020-10-27 12:12:35,317 INFO] 
+SENT 5125: ['"Did', 'you', 'find', 'a', 'pattern?"']
+PRED 5125: "क्या आप एक छाता मिला?"
+PRED SCORE: -2.0755
+
+[2020-10-27 12:12:35,317 INFO] 
+SENT 5126: ['Yeah.']
+PRED 5126: हाँ.
+PRED SCORE: -0.3915
+
+[2020-10-27 12:12:35,318 INFO] 
+SENT 5127: ['"Yes,', 'of', 'course', 'you', 'did."']
+PRED 5127: "हाँ, बेशक कर ली है."
+PRED SCORE: -1.1970
+
+[2020-10-27 12:12:35,318 INFO] 
+SENT 5128: ['Me!']
+PRED 5128: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:35,318 INFO] 
+SENT 5129: ['"Jaye,', 'get', 'out', 'of', 'there', 'now."']
+PRED 5129: "बॉन्ड, अब वहाँ से बाहर निकलना है."
+PRED SCORE: -4.1778
+
+[2020-10-27 12:12:35,318 INFO] 
+SENT 5130: ['"Well,', 'I', 'prefer', 'the', 'old-fashioned', 'way', 'of', 'meeting', 'women."']
+PRED 5130: "खैर, मैं तुम्हें रॉक लोगों का रास्ता पसंद करता हूं."
+PRED SCORE: -2.7919
+
+[2020-10-27 12:12:36,767 INFO] 
+SENT 5131: ['"His', 'name', 'was', 'Father', 'Carlo."']
+PRED 5131: "उसका नाम Lois था कि."
+PRED SCORE: -2.9027
+
+[2020-10-27 12:12:36,767 INFO] 
+SENT 5132: ['GEAC:']
+PRED 5132: जीईएसी:
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:36,767 INFO] 
+SENT 5133: ['"""Sweetheart', 'I', 'swear', 'on', 'you."""']
+PRED 5133: """जानेमन मैं तुम पर कसम खाता हूँ।"""
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:36,767 INFO] 
+SENT 5134: ['"To', 'Philip', 'and', 'Eurydice', 'and', 'to', 'their', 'legitimate', 'sons!"']
+PRED 5134: "Macedon के लिए और अपने वैध राज्य को मजबूत."
+PRED SCORE: -5.1558
+
+[2020-10-27 12:12:36,768 INFO] 
+SENT 5135: ['"A', 'curse', 'we', 'incur."']
+PRED 5135: "एक शाप दिखाती है क्या?"
+PRED SCORE: -4.1678
+
+[2020-10-27 12:12:36,768 INFO] 
+SENT 5136: ['"-', 'New', 'York?"']
+PRED 5136: "- न्यूयॉर्क से?"
+PRED SCORE: -0.3050
+
+[2020-10-27 12:12:36,768 INFO] 
+SENT 5137: ['"I', "don't", 'care."']
+PRED 5137: "मुझे परवाह नहीं है।"
+PRED SCORE: -0.0064
+
+[2020-10-27 12:12:36,768 INFO] 
+SENT 5138: ['"Have', 'you?"']
+PRED 5138: "कभी किया है?"
+PRED SCORE: -0.0350
+
+[2020-10-27 12:12:36,768 INFO] 
+SENT 5139: ['"Poor', 'woman."']
+PRED 5139: "गरीब लड़की।"
+PRED SCORE: -1.7395
+
+[2020-10-27 12:12:36,768 INFO] 
+SENT 5140: ['"I', 'love', 'you,', 'Tom."']
+PRED 5140: "मैं तुम्हें प्यार करता हूँ, Tom."
+PRED SCORE: -2.7174
+
+[2020-10-27 12:12:36,768 INFO] 
+SENT 5141: ['"-', 'One', 'we', 'call:"']
+PRED 5141: "- एक ही हम सर?"
+PRED SCORE: -2.6446
+
+[2020-10-27 12:12:36,768 INFO] 
+SENT 5142: ['"-', 'Make', 'it', 'go', 'faster."']
+PRED 5142: "- तेजी से करो."
+PRED SCORE: -0.0148
+
+[2020-10-27 12:12:36,768 INFO] 
+SENT 5143: ['"That\'s', 'how', 'you', 'punch."']
+PRED 5143: "आप पंच कैसे करते हैं।"
+PRED SCORE: -1.3202
+
+[2020-10-27 12:12:36,768 INFO] 
+SENT 5144: ['MAN:']
+PRED 5144: आदमी:
+PRED SCORE: -0.2573
+
+[2020-10-27 12:12:36,768 INFO] 
+SENT 5145: ['"MY', 'BEAUTIFUL', 'FUCKING', 'FLOOR', 'IN', 'MY', 'BEAUTIFUL', 'SEVEN--"']
+PRED 5145: "मेरे गोलियों की गोलियों में सिर्फ मुझे पसंद करती है."
+PRED SCORE: -5.4591
+
+[2020-10-27 12:12:36,769 INFO] 
+SENT 5146: ['"He\'s', 'not', 'our', 'good..."']
+PRED 5146: "वह हमारा प्यारा नहीं है..."
+PRED SCORE: -2.0819
+
+[2020-10-27 12:12:36,769 INFO] 
+SENT 5147: ['"More', 'than', 'excellent,', 'mate."']
+PRED 5147: "अन्य सुंदर,आंटी."
+PRED SCORE: -2.9758
+
+[2020-10-27 12:12:36,769 INFO] 
+SENT 5148: ['"It\'ll', 'be', 'fun."']
+PRED 5148: "यह मजेदार होगा."
+PRED SCORE: -0.0057
+
+[2020-10-27 12:12:36,769 INFO] 
+SENT 5149: ['"Could', 'you', 'make', 'Saturday,', 'tee', 'off', 'around', 'nine?"']
+PRED 5149: "आप वेक्टर फोर्स की ओर कूद सकते हैं।"
+PRED SCORE: -7.3410
+
+[2020-10-27 12:12:36,769 INFO] 
+SENT 5150: ['"Bobby,', 'can', 'we', 'have', 'a', 'talk,', 'though?"']
+PRED 5150: "60 प्रिंट हमें एक सबक मिल सकता है।"
+PRED SCORE: -5.2073
+
+[2020-10-27 12:12:36,769 INFO] 
+SENT 5151: ['"See,', 'this', 'is', 'what', "I've", 'been', 'trying', 'to', 'tell', 'you."']
+PRED 5151: "देखो, यह मैं तुम्हें बताने की कोशिश कर रहा है."
+PRED SCORE: -1.9936
+
+[2020-10-27 12:12:36,769 INFO] 
+SENT 5152: ['"But', 'one', 'thing', 'I', 'know."']
+PRED 5152: "लेकिन एक बात मैं जानता है."
+PRED SCORE: -0.4737
+
+[2020-10-27 12:12:36,769 INFO] 
+SENT 5153: ['"And', 'what', 'do', 'I', 'get?"']
+PRED 5153: "और मुझे क्या मिलेंगे?"
+PRED SCORE: -0.6548
+
+[2020-10-27 12:12:36,769 INFO] 
+SENT 5154: ['"You', 'lose', 'traction', 'and', 'the', 'back', 'end', 'kicks', 'out."']
+PRED 5154: "आप दांतों को खो देते हैं और अंत बंद करो."
+PRED SCORE: -3.7219
+
+[2020-10-27 12:12:36,769 INFO] 
+SENT 5155: ['"But', 'it', 'was', 'true."']
+PRED 5155: "लेकिन यह सच था."
+PRED SCORE: -0.0100
+
+[2020-10-27 12:12:36,769 INFO] 
+SENT 5156: ['"We', 'call', 'him', 'Doc', 'sometimes,', 'like', 'in', 'the', 'Bugs', 'Bunny', 'cartoons."']
+PRED 5156: "हम उसे कहते..."
+PRED SCORE: -2.8844
+
+[2020-10-27 12:12:36,770 INFO] 
+SENT 5157: ['"All', 'right,', 'Frannie."']
+PRED 5157: "ठीक है, बेन."
+PRED SCORE: -1.0704
+
+[2020-10-27 12:12:36,770 INFO] 
+SENT 5158: ['"-', 'Come', 'on."']
+PRED 5158: "- चलो."
+PRED SCORE: -0.4352
+
+[2020-10-27 12:12:36,770 INFO] 
+SENT 5159: ['"And', 'it', 'just...', 'lt', 'just', 'makes', 'me', 'really', 'upset', 'when', "you're", 'not', 'on', 'my', 'side,', 'okay?"']
+PRED 5159: "और ... लेफ्टिनेंट बस मुझे तुम मेरे कमरे पर परेशान नहीं है, बस जब तुम मेरे कमरे में परेशान नहीं कर रहे हैं,"
+PRED SCORE: -8.0094
+
+[2020-10-27 12:12:36,770 INFO] 
+SENT 5160: ['When?']
+PRED 5160: कब?
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:38,066 INFO] 
+SENT 5161: ['"I\'m', 'shocked."']
+PRED 5161: "मैं हैरान हूँ."
+PRED SCORE: -0.0855
+
+[2020-10-27 12:12:38,066 INFO] 
+SENT 5162: ['"Who\'s', 'your', 'master?"']
+PRED 5162: "अपने गुरु कौन है?"
+PRED SCORE: -0.2779
+
+[2020-10-27 12:12:38,066 INFO] 
+SENT 5163: ['"He', 'usually', 'leaves', 'the', 'bar', 'at', '8:30', 'every', 'night."']
+PRED 5163: "आप हर रात Lanice पर ... हर रात में"
+PRED SCORE: -4.1546
+
+[2020-10-27 12:12:38,066 INFO] 
+SENT 5164: ['"Leave', 'this', 'place', 'Right', 'away"']
+PRED 5164: "तुम इसे वहाँ छोड़ दो!"
+PRED SCORE: -1.9443
+
+[2020-10-27 12:12:38,066 INFO] 
+SENT 5165: ['"And', 'I', 'would', 'need', 'to', 'bring', 'to', 'the', 'world...', 'one', 'of', 'the', 'most', 'significant', 'stories', 'of', 'all', 'time."']
+PRED 5165: "और मैं दुनिया की सबसे महत्वपूर्ण उम्र के सबसे महत्वपूर्ण उम्र की एक आवश्यकता के लिए होगा।"
+PRED SCORE: -5.4501
+
+[2020-10-27 12:12:38,066 INFO] 
+SENT 5166: ['"A', 'new', 'sari', 'for', 'Durga."']
+PRED 5166: "एक नयासंदेश."
+PRED SCORE: -2.0910
+
+[2020-10-27 12:12:38,067 INFO] 
+SENT 5167: ['"The', 'little', "girl's", 'mommy', 'and', 'daddy,', 'they', 'died,', 'like,', 'two', 'months', 'afterwards."']
+PRED 5167: "छोटी लड़की की लड़की की बच्ची और आपने दो महीने बिल की तरह वे मर गया."
+PRED SCORE: -8.2502
+
+[2020-10-27 12:12:38,067 INFO] 
+SENT 5168: ['99.']
+PRED 5168: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:38,067 INFO] 
+SENT 5169: ['"Don\'t', 'touch."']
+PRED 5169: "रो मत।"
+PRED SCORE: -1.0218
+
+[2020-10-27 12:12:38,067 INFO] 
+SENT 5170: ['"He', 'has', 'a', 'golfballsized', 'tumor', 'on', 'his', 'frontal', 'lobe."']
+PRED 5170: "उनका टायर रे पर एक मौलिक प्रतिबिंब है."
+PRED SCORE: -7.2101
+
+[2020-10-27 12:12:38,067 INFO] 
+SENT 5171: ['"I', 'know."']
+PRED 5171: "मुझे पता है."
+PRED SCORE: -0.5368
+
+[2020-10-27 12:12:38,067 INFO] 
+SENT 5172: ['Ah...']
+PRED 5172: "आह ..."
+PRED SCORE: -0.0034
+
+[2020-10-27 12:12:38,067 INFO] 
+SENT 5173: ['"(', 'grunts', ')"']
+PRED 5173: (ग्रन्ट्स)
+PRED SCORE: -0.0009
+
+[2020-10-27 12:12:38,067 INFO] 
+SENT 5174: ['"I', 'thought', 'you', 'knew', 'the', 'sword."']
+PRED 5174: "मुझे लगा कि तुम तलवार को पता ही है।"
+PRED SCORE: -2.0687
+
+[2020-10-27 12:12:38,068 INFO] 
+SENT 5175: ['Nope.']
+PRED 5175: नहीं.
+PRED SCORE: -0.8996
+
+[2020-10-27 12:12:38,068 INFO] 
+SENT 5176: ['"You\'re', 'the', 'Hollow."']
+PRED 5176: "आप खोखले हैं."
+PRED SCORE: -0.8553
+
+[2020-10-27 12:12:38,068 INFO] 
+SENT 5177: ['"I', 'figured..."']
+PRED 5177: "मैं should-"
+PRED SCORE: -2.7949
+
+[2020-10-27 12:12:38,068 INFO] 
+SENT 5178: ['"Do', 'it', 'now!"']
+PRED 5178: "अब छोड़ दो!"
+PRED SCORE: -1.7183
+
+[2020-10-27 12:12:38,068 INFO] 
+SENT 5179: ['"Beautiful,', "isn't", 'it?"']
+PRED 5179: "सुंदर, है ना?"
+PRED SCORE: -0.0040
+
+[2020-10-27 12:12:38,068 INFO] 
+SENT 5180: ['"I', 'put', '""Clausewitz""', 'into', 'effect', 'today."']
+PRED 5180: कलयहांपहुंचा
+PRED SCORE: -3.1961
+
+[2020-10-27 12:12:38,068 INFO] 
+SENT 5181: ['"It\'s', 'true."']
+PRED 5181: "यह सच है."
+PRED SCORE: -0.4289
+
+[2020-10-27 12:12:38,069 INFO] 
+SENT 5182: ['"-', 'AND', 'Y.', ';"']
+PRED 5182: "- और अहंकारी, सब."
+PRED SCORE: -2.5765
+
+[2020-10-27 12:12:38,069 INFO] 
+SENT 5183: ['"WOMAN', 'ON', 'PA.', ';"']
+PRED 5183: EMTपर:
+PRED SCORE: -1.9048
+
+[2020-10-27 12:12:38,069 INFO] 
+SENT 5184: ['"That\'s', 'an', 'army', "I'd", 'like', 'to', 'enlist', 'in."']
+PRED 5184: "यही कारण है कि सेना मैं मोटापे के लिए में रहना चाहते हैं।"
+PRED SCORE: -6.0590
+
+[2020-10-27 12:12:38,069 INFO] 
+SENT 5185: ['These..']
+PRED 5185: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:38,069 INFO] 
+SENT 5186: ['"The', "baby's", 'Yorbetal,', 'his', 'medicine."']
+PRED 5186: "बेबी की ... उसकी दवा को."
+PRED SCORE: -1.9064
+
+[2020-10-27 12:12:38,069 INFO] 
+SENT 5187: ['Hmm?']
+PRED 5187: हम्म?
+PRED SCORE: -0.0094
+
+[2020-10-27 12:12:38,069 INFO] 
+SENT 5188: ['"Share', 'our', 'rewards?"']
+PRED 5188: "पृष्ठ हमारे कमांडर!"
+PRED SCORE: -2.1994
+
+[2020-10-27 12:12:38,069 INFO] 
+SENT 5189: ['"-', 'and', 'do', 'what', "you've", 'come', 'to', 'do."']
+PRED 5189: "- और तुम क्या आए हो."
+PRED SCORE: -1.4051
+
+[2020-10-27 12:12:38,069 INFO] 
+SENT 5190: ['"""that', "he's", 'looking', 'for', 'him?"""']
+PRED 5190: """जहाँ वह मुंबई के लिए देख रहा है।"
+PRED SCORE: -2.8304
+
+[2020-10-27 12:12:39,561 INFO] 
+SENT 5191: ['"He', 'told', 'you,', 'right?"']
+PRED 5191: "उन्होंने तुम्हे बताया था, है ना ?"
+PRED SCORE: -0.0076
+
+[2020-10-27 12:12:39,561 INFO] 
+SENT 5192: ['"-', 'Rs', '500."']
+PRED 5192: "- शिप्रा 3!"
+PRED SCORE: -2.0980
+
+[2020-10-27 12:12:39,561 INFO] 
+SENT 5193: ['"It\'s', 'a', 'beauty."']
+PRED 5193: "यह एक सौंदर्य है."
+PRED SCORE: -0.8337
+
+[2020-10-27 12:12:39,562 INFO] 
+SENT 5194: ['"You', 'guys', "aren't", 'doing', 'the', 'Dramatic', 'Pose,', 'are', 'you?"']
+PRED 5194: "तुम लोग धमाकेदार प्रवेश कर नहीं कर रहे हैं / मैं"
+PRED SCORE: -3.1953
+
+[2020-10-27 12:12:39,562 INFO] 
+SENT 5195: ['"Or', 'sell', 'it', 'and', 'divide', 'the', 'money."']
+PRED 5195: "वरना यह बेचने और पैसे को पता लगा."
+PRED SCORE: -3.6282
+
+[2020-10-27 12:12:39,562 INFO] 
+SENT 5196: ['AMELIA:']
+PRED 5196: AMELIA:
+PRED SCORE: -0.0000
+
+[2020-10-27 12:12:39,562 INFO] 
+SENT 5197: ['"She', 'says', 'the', 'King', 'is', 'in', 'danger."']
+PRED 5197: "वह राजा खतरे में है."
+PRED SCORE: -0.3275
+
+[2020-10-27 12:12:39,562 INFO] 
+SENT 5198: ['[SNORES]']
+PRED 5198: [Snores]
+PRED SCORE: -0.4112
+
+[2020-10-27 12:12:39,562 INFO] 
+SENT 5199: ['"-', "It's", '5,', '7...', '-', 'Mm...', '7...', '3...', 'M...', '1."']
+PRED 5199: "- यह 5 हरक्यूलिस 2155764..."
+PRED SCORE: -5.4820
+
+[2020-10-27 12:12:39,562 INFO] 
+SENT 5200: ['"\'Cause', 'the', 'trail', "you're", "takin'", 'today"']
+PRED 5200: "देवताओं मजबूत आप हंगेरी हैं, आदमी"
+PRED SCORE: -5.9950
+
+[2020-10-27 12:12:39,562 INFO] 
+SENT 5201: ['"We', 'got', 'a', 'picture', 'of', 'her', 'with', 'the', 'guy', 'who', 'almost', 'took', 'you', 'out."']
+PRED 5201: "वह आदमी, आप के साथ लगभग एक तस्वीर ले गया है की आदमी है."
+PRED SCORE: -5.2385
+
+[2020-10-27 12:12:39,562 INFO] 
+SENT 5202: ['"Do', 'it."']
+PRED 5202: "यह मत करो."
+PRED SCORE: -0.9356
+
+[2020-10-27 12:12:39,562 INFO] 
+SENT 5203: ['"-And', "he's", 'gone', 'for', 'a', 'week."']
+PRED 5203: "- और वह एक सप्ताह के लिए चला गया है।"
+PRED SCORE: -1.5850
+
+[2020-10-27 12:12:39,562 INFO] 
+SENT 5204: ['"Come', 'here."']
+PRED 5204: "यहाँ आओ।"
+PRED SCORE: -0.6430
+
+[2020-10-27 12:12:39,563 INFO] 
+SENT 5205: ['"You\'re', 'like', 'three', 'peas', 'in', 'a', 'pod."']
+PRED 5205: "आप एक फली में तीन भैंसों की तरह हो।"
+PRED SCORE: -3.5580
+
+[2020-10-27 12:12:39,563 INFO] 
+SENT 5206: ['"I', "don't", 'wanna', 'see', 'any', 'of', 'these', 'hit', 'the', 'ground!"']
+PRED 5206: "मैं चाहता हूं ये किसी भी हिट नहीं देखना होगा..."
+PRED SCORE: -4.8917
+
+[2020-10-27 12:12:39,563 INFO] 
+SENT 5207: ['"You\'d', 'better', 'hire', 'them', 'all', 'to', 'replace', 'the', 'money', 'I', 'bring', 'in,', 'you', 'short-sighted', 'wanker."']
+PRED 5207: "कैसी होगा कि तुम इन्हें बदलने के लिए सब करना चाहते हैं... ... मैं अंदर डंप."
+PRED SCORE: -9.3838
+
+[2020-10-27 12:12:39,563 INFO] 
+SENT 5208: ['"Now', 'may', 'I', 'suggest..."']
+PRED 5208: "अब मैं सुझाव दे सकता हूं..."
+PRED SCORE: -0.4220
+
+[2020-10-27 12:12:39,563 INFO] 
+SENT 5209: ['"Okay,', 'no."']
+PRED 5209: "ठीक है, नहीं."
+PRED SCORE: -0.9441
+
+[2020-10-27 12:12:39,563 INFO] 
+SENT 5210: ['"They\'re', 'well-trained', 'and', "they're", 'well-organized."']
+PRED 5210: "वे सचेत कर रहे हैं और वे उपनिवेशों हैं."
+PRED SCORE: -3.7779
+
+[2020-10-27 12:12:39,563 INFO] 
+SENT 5211: ['Jack:']
+PRED 5211: जैक:
+PRED SCORE: -0.0011
+
+[2020-10-27 12:12:39,563 INFO] 
+SENT 5212: ['"And', 'his', 'fate?"']
+PRED 5212: "और उसका भाग्य ..."
+PRED SCORE: -0.4279
+
+[2020-10-27 12:12:39,563 INFO] 
+SENT 5213: ['"It\'s', 'more', 'profitable', 'to', 'come', 'to', 'Dubai."']
+PRED 5213: "यह गुआंगज़ौ, ओहियो के लिए आने के लिए और अधिक अरुचिकर हैं."
+PRED SCORE: -7.1501
+
+[2020-10-27 12:12:39,563 INFO] 
+SENT 5214: ['"I\'m', 'sorry,', 'I', "can't", 'do', 'that', 'again."']
+PRED 5214: "मैं माफी चाहता हूँ .. मैं ऐसा नहीं कर सकता."
+PRED SCORE: -0.6477
+
+[2020-10-27 12:12:39,564 INFO] 
+SENT 5215: ['"Avert', 'your', 'eyes,', 'Templeton!"']
+PRED 5215: """तुम्हारी अपने आँसू लगातार"""
+PRED SCORE: -5.4941
+
+[2020-10-27 12:12:39,564 INFO] 
+SENT 5216: ['"-', 'Without', 'compensation?"']
+PRED 5216: "- चांदनी हिलाना
+PRED SCORE: -3.4287
+
+[2020-10-27 12:12:39,564 INFO] 
+SENT 5217: ['"Gianna', 'D\'Antonio?"']
+PRED 5217: "Gianna डी 'एंटोनियो ..."
+PRED SCORE: -0.3578
+
+[2020-10-27 12:12:39,564 INFO] 
+SENT 5218: ['Okja!']
+PRED 5218: ओक्जा!
+PRED SCORE: -0.0000
+
+[2020-10-27 12:12:39,564 INFO] 
+SENT 5219: ['"I', 'said...', "doesn't", 'time', 'fly?"']
+PRED 5219: "मैं बर्लिन उड़ गया नहीं किया।"
+PRED SCORE: -3.6977
+
+[2020-10-27 12:12:39,564 INFO] 
+SENT 5220: ['"Are', 'you', 'joking?"']
+PRED 5220: "क्या तुम सुन--"
+PRED SCORE: -1.0848
+
+[2020-10-27 12:12:41,500 INFO] 
+SENT 5221: ['"Now,', 'this', 'morning,', 'I', 'ate', 'a', 'thousand', 'pieces', 'of', 'hard', 'candy', 'and', "I've", 'got', 'to', 'get', 'them', 'out', 'or', 'I', 'will', 'surely', 'die."']
+PRED 5221: "अब, सुबह मैं मुश्किल से एक हजार सा परीक्षण और मुझे लगता है उन्हें बाहर मिल गया होगा या मैं निश्चित रूप से मर जाएगा।"
+PRED SCORE: -8.2536
+
+[2020-10-27 12:12:41,501 INFO] 
+SENT 5222: ['"Doing', 'great."']
+PRED 5222: "अच्छा कर रहा है."
+PRED SCORE: -0.1816
+
+[2020-10-27 12:12:41,501 INFO] 
+SENT 5223: ['Yeah.']
+PRED 5223: हाँ.
+PRED SCORE: -0.3915
+
+[2020-10-27 12:12:41,501 INFO] 
+SENT 5224: ['"I', 'was', 'born', 'in', 'Hungary."']
+PRED 5224: "मैं मनीला में पैदा हुआ था."
+PRED SCORE: -1.7555
+
+[2020-10-27 12:12:41,501 INFO] 
+SENT 5225: ['"I', "don't", 'want', 'to', 'live', 'with', 'you', 'ever', 'again,', 'you', 'terrible', 'wanker."']
+PRED 5225: "मैं तुम से कभी नहीं उबरेंगे!"
+PRED SCORE: -3.9462
+
+[2020-10-27 12:12:41,501 INFO] 
+SENT 5226: ['"You\'re', 'lying."']
+PRED 5226: "तुम झूठ बोल रहे हैं."
+PRED SCORE: -0.0162
+
+[2020-10-27 12:12:41,501 INFO] 
+SENT 5227: ['Block?']
+PRED 5227: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:41,501 INFO] 
+SENT 5228: ['"We', 'need', 'to', 'move', 'our', 'troops', 'into', 'the', 'Middle', 'East', 'to', 'stabilize', 'the', 'region."']
+PRED 5228: "हम पड़ताल के लिए हमारे सैनिकों को पकड़ने के लिए हमारे सैनिकों को पकड़ने की जरूरत है."
+PRED SCORE: -6.5316
+
+[2020-10-27 12:12:41,501 INFO] 
+SENT 5229: ['"-', 'Out', 'of', 'the', 'way!"']
+PRED 5229: "- आउट रास्ते से बाहर."
+PRED SCORE: -1.7577
+
+[2020-10-27 12:12:41,501 INFO] 
+SENT 5230: ['"Who', 'Roxane', 'really', 'was', 'i', 'doubt', 'that', 'any', 'of', 'us', 'ever', 'saw', 'further', 'than', 'the', 'pools', 'of', 'those', 'black', 'eyes."']
+PRED 5230: "जो असल में हम किसी भी यह देखने की उम्मीद है कि उन उन काले आँखों से परे देखा था."
+PRED SCORE: -10.9850
+
+[2020-10-27 12:12:41,501 INFO] 
+SENT 5231: ['"-', 'THIS', 'IS', 'WHY', 'YOU', 'KILLED', 'DANIL..."']
+PRED 5231: "इस तरह तुम क्यों शिक्षण कर रहे हैं"
+PRED SCORE: -4.6743
+
+[2020-10-27 12:12:41,501 INFO] 
+SENT 5232: ['"Then', "you'd", 'better', 'get', 'her', 'out', 'of', 'there', 'and', 'get', 'my', 'money,', "don't", 'you', 'think?"']
+PRED 5232: "तो तुम वहां से बाहर जाकर अपने पैसे पाने के लिए और पैसे नहीं लगता?"
+PRED SCORE: -4.6675
+
+[2020-10-27 12:12:41,502 INFO] 
+SENT 5233: ['Peter!']
+PRED 5233: पीटर!
+PRED SCORE: -0.0075
+
+[2020-10-27 12:12:41,502 INFO] 
+SENT 5234: ['"Bye,', 'mom."']
+PRED 5234: "ऊगवे, कॉपी करें।"
+PRED SCORE: -2.2526
+
+[2020-10-27 12:12:41,502 INFO] 
+SENT 5235: ['"This', 'is', 'awesome."']
+PRED 5235: "स्कॉट: यह भयानक है।"
+PRED SCORE: -0.1010
+
+[2020-10-27 12:12:41,502 INFO] 
+SENT 5236: ['"Then', 'he', 'became', 'a', 'monster."']
+PRED 5236: "तो फिर वह एक राक्षस बन गई।"
+PRED SCORE: -0.6760
+
+[2020-10-27 12:12:41,502 INFO] 
+SENT 5237: ['"At', 'least,', "that's", 'what', 'she', 'said."']
+PRED 5237: "कम से कम उसने क्या कहा था."
+PRED SCORE: -1.7408
+
+[2020-10-27 12:12:41,502 INFO] 
+SENT 5238: ['"I\'m', 'not', 'a', 'witch."']
+PRED 5238: "मैं एक चुड़ैल नहीं हूँ।"
+PRED SCORE: -0.4684
+
+[2020-10-27 12:12:41,502 INFO] 
+SENT 5239: ['"-', 'Why', "don't", 'you', 'go', 'back', 'to', 'sleep."']
+PRED 5239: "- तुम वापस सो क्यों नहीं रहो।"
+PRED SCORE: -0.9876
+
+[2020-10-27 12:12:41,502 INFO] 
+SENT 5240: ['"Come', 'here!"']
+PRED 5240: "यहाँ आओ!"
+PRED SCORE: -0.0012
+
+[2020-10-27 12:12:41,502 INFO] 
+SENT 5241: ['"Will', 'you', 'ask', 'me', 'to', 'marry', 'you', 'also?"']
+PRED 5241: "क्या तुम मुझे उससे शादी करोगी?"
+PRED SCORE: -2.7182
+
+[2020-10-27 12:12:41,502 INFO] 
+SENT 5242: ['"-', 'Did', 'you', 'touch', 'anything?"']
+PRED 5242: "- तुम्हें छू कुछ क्या?"
+PRED SCORE: -0.0003
+
+[2020-10-27 12:12:41,502 INFO] 
+SENT 5243: ['"There\'s', 'someone', 'else', 'out', 'there."']
+PRED 5243: "वहाँ कोई और बाहर है."
+PRED SCORE: -0.1333
+
+[2020-10-27 12:12:41,503 INFO] 
+SENT 5244: ['"No,', 'no."']
+PRED 5244: "नहीं, नहीं."
+PRED SCORE: -0.6016
+
+[2020-10-27 12:12:41,503 INFO] 
+SENT 5245: ['"The', 'man', 'who', 'killed', 'your', 'wife', 'or', 'his', 'company', 'is', 'still', 'operative"']
+PRED 5245: "मैंने अपनी पत्नी या पैसे को मार डाला है कि अभी भी बहाना है."
+PRED SCORE: -6.0475
+
+[2020-10-27 12:12:41,503 INFO] 
+SENT 5246: ['"Oh,', 'I', "can't", 'help', 'it', 'if', "I'm", 'still', 'in', 'love', 'with', 'you"']
+PRED 5246: "ओह, मैं अभी भी आप के साथ अभी भी हूँ प्यार में मदद नहीं कर रहा हूँ ..."
+PRED SCORE: -2.9409
+
+[2020-10-27 12:12:41,503 INFO] 
+SENT 5247: ['"Sir,', 'it', 'was', 'a', 'satellite', 'phone"']
+PRED 5247: "महोदय, यह एक उपग्रह फोन था।"
+PRED SCORE: -0.2065
+
+[2020-10-27 12:12:41,503 INFO] 
+SENT 5248: ['"-', 'Crescent', 'City', 'local."']
+PRED 5248: "- (घुरघुराना) जैक सिटी
+PRED SCORE: -4.8736
+
+[2020-10-27 12:12:41,503 INFO] 
+SENT 5249: ['"And', "don't", 'forget', 'to', 'cash', 'your', 'check', 'when', 'innocent', 'kids', 'die."']
+PRED 5249: "और अपने चेक बच्चों को देखने के लिए भुगतान मत भूलना."
+PRED SCORE: -2.5774
+
+[2020-10-27 12:12:41,503 INFO] 
+SENT 5250: ['"Your', 'brother', 'never', 'told', 'you', 'never', 'to', 'threaten', 'a', "man's", 'family?"']
+PRED 5250: "तुम्हारा भाई कभी नहीं बताया कि तुम एक आदमी के परिवार को कभी नहीं बताया ?"
+PRED SCORE: -2.7889
+
+[2020-10-27 12:12:43,293 INFO] 
+SENT 5251: ['"Unless', "you're", 'punishing', 'me', 'for', 'screwing', 'up', 'on', "Miller's", 'planet."']
+PRED 5251: "जब तक तुम मुझे भूख से दंडित कर रहे हो..."
+PRED SCORE: -5.2057
+
+[2020-10-27 12:12:43,293 INFO] 
+SENT 5252: ['"Now,', 'before', 'we', 'start,', "I'd", 'like', 'to', 'introduce', 'a', 'very', 'special', 'guest."']
+PRED 5252: "मेरे खयाल से शुरू करने से पहले..."
+PRED SCORE: -3.6671
+
+[2020-10-27 12:12:43,293 INFO] 
+SENT 5253: ['"He\'s', 'on', 'the', 'roof,', 'Alan."']
+PRED 5253: "वह छत, एंडी पर है."
+PRED SCORE: -3.0219
+
+[2020-10-27 12:12:43,293 INFO] 
+SENT 5254: ['"Sir,', 'we', "can't", 'just', 'desert', 'Bond."']
+PRED 5254: "महोदय, हम उड़कर बॉन्ड।"
+PRED SCORE: -2.3175
+
+[2020-10-27 12:12:43,293 INFO] 
+SENT 5255: ['"(BAN', 'D', 'PLAYING', 'ILENE)"']
+PRED 5255: "रीटा हेवर्द दा Parihaar।"
+PRED SCORE: -6.9007
+
+[2020-10-27 12:12:43,293 INFO] 
+SENT 5256: ['"Commence', 'Experiment', '34-C."']
+PRED 5256: "टैंक जेल, ज्यादातर."
+PRED SCORE: -4.5201
+
+[2020-10-27 12:12:43,294 INFO] 
+SENT 5257: ['"I', 'said', 'apologize', 'to', 'her."']
+PRED 5257: "मैं उसे करने के लिए माफी माँगता हूँ."
+PRED SCORE: -0.7542
+
+[2020-10-27 12:12:43,294 INFO] 
+SENT 5258: ['"Take', 'the', 'needle."']
+PRED 5258: "लीमो को ले दो."
+PRED SCORE: -2.3082
+
+[2020-10-27 12:12:43,294 INFO] 
+SENT 5259: ['"-', 'And', "that's", 'why', "you're", 'not', 'a', 'valedictorian', '-', 'These', 'are', 'just', 'clichés."']
+PRED 5259: "- और कहा कि आप एक चिल्लाई नहीं कर रहे हैं रहे हैं ~ ~ मैं सिर्फ passin कर रहे हैं?"
+PRED SCORE: -12.9893
+
+[2020-10-27 12:12:43,294 INFO] 
+SENT 5260: ['"Did', 'you', 'find', 'the', 'world?"']
+PRED 5260: "आप दुनिया को खोजने के लिए?"
+PRED SCORE: -0.8547
+
+[2020-10-27 12:12:43,294 INFO] 
+SENT 5261: ['"I', "didn't", 'know', 'you', 'were', 'here."']
+PRED 5261: "मुझे नहीं पता था तुम यहाँ रहे थे।"
+PRED SCORE: -0.0245
+
+[2020-10-27 12:12:43,294 INFO] 
+SENT 5262: ['"You', 'will', 'get', 'humiliated,', 'what', 'do', 'I', 'care."']
+PRED 5262: "तुम आश्वास्त हो जाएगा क्या मुझे परवाह है।"
+PRED SCORE: -3.2389
+
+[2020-10-27 12:12:43,294 INFO] 
+SENT 5263: ['"""Hero', 'or', 'villain,', 'who', 'is', 'he?"']
+PRED 5263: """नायक या खलनायक, वह कौन है?"
+PRED SCORE: -0.0053
+
+[2020-10-27 12:12:43,294 INFO] 
+SENT 5264: ['"""Sergeant', 'Cale', 'demonstrates', 'a', 'lack', 'of', 'respect', 'for', 'authority."']
+PRED 5264: "मर्डर केल जोन्स एक जाति के लिए सम्मान की कमी है?"""
+PRED SCORE: -7.9086
+
+[2020-10-27 12:12:43,294 INFO] 
+SENT 5265: ['"Shut', 'up,', 'fool!"']
+PRED 5265: "चुप रहो, मछलियां!"
+PRED SCORE: -2.1085
+
+[2020-10-27 12:12:43,295 INFO] 
+SENT 5266: ['What?']
+PRED 5266: क्या?
+PRED SCORE: -0.0291
+
+[2020-10-27 12:12:43,295 INFO] 
+SENT 5267: ['"-', 'Promise?"']
+PRED 5267: "- जेसी."
+PRED SCORE: -1.9868
+
+[2020-10-27 12:12:43,295 INFO] 
+SENT 5268: ['"Yes,', 'I', 'did."']
+PRED 5268: "हाँ, मैं गया था."
+PRED SCORE: -0.0116
+
+[2020-10-27 12:12:43,295 INFO] 
+SENT 5269: ['"Madam', 'Secretary,', 'gentlemen.."']
+PRED 5269: "मैडम बकवासबंद"
+PRED SCORE: -1.8187
+
+[2020-10-27 12:12:43,295 INFO] 
+SENT 5270: ['"You', 'only', 'have', 'eight', 'minutes', 'left', 'to', 'get', 'them', 'out."']
+PRED 5270: "तुम केवल आठ मिनट उन्हें बाहर निकलने के लिए छोड़ दिया है।"
+PRED SCORE: -1.1898
+
+[2020-10-27 12:12:43,295 INFO] 
+SENT 5271: ['"Cat,', 'their', 'friendship', 'held', 'the', 'kingdoms', 'together."']
+PRED 5271: "Arove अपने पदों के पास आयोजित विकसित होती है।"""
+PRED SCORE: -8.5675
+
+[2020-10-27 12:12:43,295 INFO] 
+SENT 5272: ['"Hell,', 'yeah!"']
+PRED 5272: "नरक,हाँ !"
+PRED SCORE: -0.0019
+
+[2020-10-27 12:12:43,295 INFO] 
+SENT 5273: ['"Do', 'not', 'worry,', 'I', 'promised', 'that', 'I', 'will', 'not', 'kiss', 'me', 'until', 'you', 'asked."']
+PRED 5273: "चिंता मत करो, मैं वादा नहीं करूंगा जब तुम मुझे चुंबन न दोगे."
+PRED SCORE: -5.3897
+
+[2020-10-27 12:12:43,295 INFO] 
+SENT 5274: ['"There\'s', 'no', 'way', 'we', 'can', 'get', 'around', 'it,', 'because', 'if', 'we', 'hike--"']
+PRED 5274: "क्या कोई रास्ता नहीं है अगर हम इसे चारों ओर देखिए, अगर हम चट्टान,
+PRED SCORE: -7.3294
+
+[2020-10-27 12:12:43,295 INFO] 
+SENT 5275: ['"I', 'smell', 'a', 'rat."']
+PRED 5275: "मैं एक दांत गंध की."
+PRED SCORE: -1.5408
+
+[2020-10-27 12:12:43,296 INFO] 
+SENT 5276: ['"You\'re', 'super', 'smart."']
+PRED 5276: "तुम बहुत स्मार्ट हैं।"
+PRED SCORE: -0.1018
+
+[2020-10-27 12:12:43,296 INFO] 
+SENT 5277: ['Jackâ€œ.']
+PRED 5277: जैक.
+PRED SCORE: -0.0018
+
+[2020-10-27 12:12:43,296 INFO] 
+SENT 5278: ['"No,', "that's", 'not', 'what', 'I', 'meant."']
+PRED 5278: "हाँ। नहीं, मेरा वही मतलब नहीं था।"
+PRED SCORE: -0.3211
+
+[2020-10-27 12:12:43,296 INFO] 
+SENT 5279: ['"I', 'channel', 'it,', 'filter', 'it,', 'funnel', 'it?"']
+PRED 5279: "मैं डैरेन यह पहना है, क्षमताओं
+PRED SCORE: -7.4419
+
+[2020-10-27 12:12:43,296 INFO] 
+SENT 5280: ['"Let\'s', 'go!"']
+PRED 5280: "चलो चलते हैं!"
+PRED SCORE: -0.4211
+
+[2020-10-27 12:12:44,592 INFO] 
+SENT 5281: ['"Lois', 'Lane,', 'welcome', 'to', 'Planet."']
+PRED 5281: "Lois का आपका स्वागत है."
+PRED SCORE: -3.8509
+
+[2020-10-27 12:12:44,592 INFO] 
+SENT 5282: ['"-', 'Waiting."']
+PRED 5282: "- जेसी."
+PRED SCORE: -1.9868
+
+[2020-10-27 12:12:44,592 INFO] 
+SENT 5283: ['"-', 'Did', 'you', 'think', 'she', 'was', 'foaling?"']
+PRED 5283: "- क्या तुम्हें लगता है कि वह मोटे था?"
+PRED SCORE: -4.5376
+
+[2020-10-27 12:12:44,592 INFO] 
+SENT 5284: ['"Experts', 'at', 'the', 'Pentagon', "can't", 'ID', 'it."']
+PRED 5284: "रेडियो खतरे की इस पर इसे नहीं जुटा सकता है."
+PRED SCORE: -2.2299
+
+[2020-10-27 12:12:44,593 INFO] 
+SENT 5285: ['"I', 'have', 'lots', 'of', 'free', 'time."']
+PRED 5285: "मैं बहुत अधिक समय के बहुत सारे समय है."
+PRED SCORE: -2.0355
+
+[2020-10-27 12:12:44,593 INFO] 
+SENT 5286: ['"-What\'s', 'that', 'light', 'up', 'there?"']
+PRED 5286: "-वह क्या है वो Iava है?"
+PRED SCORE: -2.9729
+
+[2020-10-27 12:12:44,593 INFO] 
+SENT 5287: ['"Yeah,', "there's", 'been', 'a', 'complication."']
+PRED 5287: "हाँ, वहाँ एक ही समस्या हो गया है ."
+PRED SCORE: -1.9333
+
+[2020-10-27 12:12:44,593 INFO] 
+SENT 5288: ['"I', 'got', 'a', 'lot', 'to', 'do', 'before', 'the', 'family', 'gets', 'here."']
+PRED 5288: "मुझे आज यहाँ से पहले करने के लिए एक बहुत कुछ मिला है."
+PRED SCORE: -2.9035
+
+[2020-10-27 12:12:44,593 INFO] 
+SENT 5289: ['"That\'s', 'why', "I'm", 'here."']
+PRED 5289: "मैं यहाँ हूँ यही कारण है कि।"
+PRED SCORE: -1.2052
+
+[2020-10-27 12:12:44,593 INFO] 
+SENT 5290: ['"Why', "can't", 'you', 'leave', 'me', 'alone?"']
+PRED 5290: "तुम मुझे अकेला क्यों नहीं छोड़ सकते?"
+PRED SCORE: -0.4726
+
+[2020-10-27 12:12:44,593 INFO] 
+SENT 5291: ['"-', 'Stay', 'out', 'of', 'this,', 'Valentine."']
+PRED 5291: "- इसे बाहर से बाहर रहना।"
+PRED SCORE: -2.4454
+
+[2020-10-27 12:12:44,593 INFO] 
+SENT 5292: ['"Do', 'not', 'launch', 'anything', 'until', 'I', 'do', 'some', 'recon."']
+PRED 5292: "अपने निवेश मत करो जब तक मैं कुछ ठोकरें नहीं करता हूं."
+PRED SCORE: -4.1579
+
+[2020-10-27 12:12:44,593 INFO] 
+SENT 5293: ['"My', 'Führer,', 'are', 'you', 'of', 'pure', 'Aryan', 'descent?"']
+PRED 5293: "मेरे फ्यूरर, पिता, शुद्ध आर्य वंश के हो?"
+PRED SCORE: -1.6704
+
+[2020-10-27 12:12:44,593 INFO] 
+SENT 5294: ['"In', 'another', 'minute"']
+PRED 5294: "एक और मिनट में."
+PRED SCORE: -1.4235
+
+[2020-10-27 12:12:44,593 INFO] 
+SENT 5295: ['No!']
+PRED 5295: नहीं!
+PRED SCORE: -0.0261
+
+[2020-10-27 12:12:44,594 INFO] 
+SENT 5296: ['"Yes,', 'I', 'know', 'who', 'you', 'are."']
+PRED 5296: "हाँ, मैं तुम कौन हो."
+PRED SCORE: -0.7372
+
+[2020-10-27 12:12:44,594 INFO] 
+SENT 5297: ['"I\'ve', 'looked', 'through', 'the', 'hole?"']
+PRED 5297: "मैं छेद के माध्यम से देखा है!"
+PRED SCORE: -2.2631
+
+[2020-10-27 12:12:44,594 INFO] 
+SENT 5298: ['"For', 'a', 'drunken', 'man."']
+PRED 5298: "एक शराबी आदमी के लिए."
+PRED SCORE: -0.5979
+
+[2020-10-27 12:12:44,594 INFO] 
+SENT 5299: ['"Come', 'upstairs,', 'everyone!"']
+PRED 5299: "- Herc Bonzo."
+PRED SCORE: -3.3295
+
+[2020-10-27 12:12:44,594 INFO] 
+SENT 5300: ['"Happy', 'birthday,', 'Sean."']
+PRED 5300: "जन्मदिन मुबारक हो, यहूदा."
+PRED SCORE: -0.7993
+
+[2020-10-27 12:12:44,594 INFO] 
+SENT 5301: ['"Not', 'right', 'now?"']
+PRED 5301: "अभी नहीं."
+PRED SCORE: -1.1509
+
+[2020-10-27 12:12:44,594 INFO] 
+SENT 5302: ['No!']
+PRED 5302: नहीं!
+PRED SCORE: -0.0261
+
+[2020-10-27 12:12:44,594 INFO] 
+SENT 5303: ['"No,', 'no,', 'no,', 'no,', 'wait,', 'hang', 'on."']
+PRED 5303: "नहीं, नहीं, नहीं, रुको।"
+PRED SCORE: -0.1146
+
+[2020-10-27 12:12:44,594 INFO] 
+SENT 5304: ['"All', 'the', 'answers', 'will', 'be', 'found', 'within."']
+PRED 5304: "सब मुझे भीतर पाया जाएगा."
+PRED SCORE: -2.6344
+
+[2020-10-27 12:12:44,594 INFO] 
+SENT 5305: ['[YELLING]']
+PRED 5305: [चिल्लाना]
+PRED SCORE: -0.0016
+
+[2020-10-27 12:12:44,594 INFO] 
+SENT 5306: ['Yeah.']
+PRED 5306: हाँ.
+PRED SCORE: -0.3915
+
+[2020-10-27 12:12:44,594 INFO] 
+SENT 5307: ['"Baby-plan', 'is', 'all', 'fine"']
+PRED 5307: "-इतना सब चीज़े..."
+PRED SCORE: -3.2395
+
+[2020-10-27 12:12:44,595 INFO] 
+SENT 5308: ['"She\'s', 'your', 'captive."']
+PRED 5308: "अपने दाँत के।"
+PRED SCORE: -1.4640
+
+[2020-10-27 12:12:44,595 INFO] 
+SENT 5309: ['"AUTOMATED', 'VOICE:"']
+PRED 5309: "मैं स्वचालित आवाज:"
+PRED SCORE: -0.0010
+
+[2020-10-27 12:12:44,595 INFO] 
+SENT 5310: ['"-', 'Yes,', 'it', 'is."']
+PRED 5310: "- हाँ, यह है."
+PRED SCORE: -0.0244
+
+[2020-10-27 12:12:45,989 INFO] 
+SENT 5311: ['"""...are', 'both', 'wanted', 'for', 'questioning"']
+PRED 5311: "Arove छोड़दें."
+PRED SCORE: -5.5711
+
+[2020-10-27 12:12:45,989 INFO] 
+SENT 5312: ['"JOE', '2:"']
+PRED 5312: "जो2 :"
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:45,989 INFO] 
+SENT 5313: ['"-', 'Left', 'turn!"']
+PRED 5313: "- कोयल की रक्षा!"
+PRED SCORE: -2.3798
+
+[2020-10-27 12:12:45,989 INFO] 
+SENT 5314: ['"You', 'ungrateful', 'wretch!"']
+PRED 5314: "आप आव्रजन कायर."
+PRED SCORE: -2.3857
+
+[2020-10-27 12:12:45,989 INFO] 
+SENT 5315: ['"-', "There's", 'no', 'time', 'for', 'this."']
+PRED 5315: "- इस के लिए कोई समय नहीं है."
+PRED SCORE: -0.2361
+
+[2020-10-27 12:12:45,989 INFO] 
+SENT 5316: ['"-', 'Okay?"']
+PRED 5316: "- ठीक है?"
+PRED SCORE: -0.4164
+
+[2020-10-27 12:12:45,989 INFO] 
+SENT 5317: ['"the', 'director', 'of', 'Homeland', 'Security', 'himself."']
+PRED 5317: "कैम्प सुरक्षा के दिन, साहब की।"
+PRED SCORE: -5.1569
+
+[2020-10-27 12:12:45,989 INFO] 
+SENT 5318: ['"Repeat,', 'do', 'not', 'fire!"']
+PRED 5318: "Y-तुम तुम नहीं करते?"
+PRED SCORE: -4.7105
+
+[2020-10-27 12:12:45,990 INFO] 
+SENT 5319: ['"©', 'P@rM!"']
+PRED 5319: "©@ पीआर एम nderएम@ nkÖÖ"
+PRED SCORE: -0.3147
+
+[2020-10-27 12:12:45,990 INFO] 
+SENT 5320: ['"Give', 'me', 'a', 'second,', 'please."']
+PRED 5320: "कृपया मुझे दूसरी बार दो."
+PRED SCORE: -1.7343
+
+[2020-10-27 12:12:45,990 INFO] 
+SENT 5321: ['Hello?']
+PRED 5321: हैलो?
+PRED SCORE: -0.3513
+
+[2020-10-27 12:12:45,990 INFO] 
+SENT 5322: ['"-', 'CASE:"']
+PRED 5322: "- CASE:"
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:45,990 INFO] 
+SENT 5323: ['"How', 'was', 'your', 'trip?"']
+PRED 5323: "तुम्हारी यात्रा कैसी थी?"
+PRED SCORE: -0.2663
+
+[2020-10-27 12:12:45,990 INFO] 
+SENT 5324: ['Sasha:']
+PRED 5324: साशा:
+PRED SCORE: -0.0154
+
+[2020-10-27 12:12:45,990 INFO] 
+SENT 5325: ['Cassie!']
+PRED 5325: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:45,990 INFO] 
+SENT 5326: ['"You\'ll', 'wish', 'your', 'daddy', 'never', 'dicked', 'your', 'mommy."']
+PRED 5326: "यदि तुम्हारे पापा को कभी भ्रमित नहीं होता।"
+PRED SCORE: -4.8742
+
+[2020-10-27 12:12:45,990 INFO] 
+SENT 5327: ['"Oh,', "we're", 'just', 'talking', 'shit,', 'Jim."']
+PRED 5327: "ओह, हम बस शांत बात कर रहे हैं।"
+PRED SCORE: -2.9185
+
+[2020-10-27 12:12:45,990 INFO] 
+SENT 5328: ['"You', 'see,', 'my', 'soon', 'to', 'be', 'ex-husband', "isn't", 'a', 'well', 'man,', 'Philip."']
+PRED 5328: "आप देख रहे हैं, मेरे जल्द ही ख़ुश किया जाता है, एक अच्छी तरह से नहीं है."
+PRED SCORE: -7.9415
+
+[2020-10-27 12:12:45,990 INFO] 
+SENT 5329: ['Sorbonne.']
+PRED 5329: सोरबोन.
+PRED SCORE: -0.0091
+
+[2020-10-27 12:12:45,990 INFO] 
+SENT 5330: ['DOM:']
+PRED 5330: डोम:
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:45,991 INFO] 
+SENT 5331: ['"With', 'the', 'Stansted', 'protest', 'that', 'some', 'people', 'did,', 'it', 'happened', 'in', 'less', 'than', 'a', 'month', 'that', 'we', 'went', 'to', 'court."']
+PRED 5331: "दुर्घटना के मलबे के साथ, यह कुछ लोगों ने किया है कि एक महीने के लिए हुआ था जो कुछ लोगों ने कैपिटल में चला गया."
+PRED SCORE: -14.2448
+
+[2020-10-27 12:12:45,991 INFO] 
+SENT 5332: ['"Fucking', 'Andy!"']
+PRED 5332: "पिता, एंडी."
+PRED SCORE: -2.0803
+
+[2020-10-27 12:12:45,991 INFO] 
+SENT 5333: ['Okay.']
+PRED 5333: "ठीक है."
+PRED SCORE: -0.5462
+
+[2020-10-27 12:12:45,991 INFO] 
+SENT 5334: ['"Will', 'my', 'journey', 'stop?"']
+PRED 5334: "मेरे सफ़र में पुनर्विचार करेगा?"
+PRED SCORE: -2.5407
+
+[2020-10-27 12:12:45,991 INFO] 
+SENT 5335: ['"Let', 'our', 'parents', 'go!"']
+PRED 5335: "हमारे माता-पिता को जाने दो!"
+PRED SCORE: -1.4402
+
+[2020-10-27 12:12:45,991 INFO] 
+SENT 5336: ['"Right', 'now...here!"']
+PRED 5336: ठीक।
+PRED SCORE: -1.7059
+
+[2020-10-27 12:12:45,991 INFO] 
+SENT 5337: ['"Robert', 'here."']
+PRED 5337: "रॉबर्ट लुई."
+PRED SCORE: -2.1556
+
+[2020-10-27 12:12:45,991 INFO] 
+SENT 5338: ['"In', '48', 'hours,', 'her', 'life', 'will', 'change', 'forever."']
+PRED 5338: "48 घंटेमें उसके जीवन में हमेशा बदल देंगे।"
+PRED SCORE: -3.1611
+
+[2020-10-27 12:12:45,991 INFO] 
+SENT 5339: ['MANN:']
+PRED 5339: MANN:
+PRED SCORE: -0.0002
+
+[2020-10-27 12:12:45,991 INFO] 
+SENT 5340: ['"Beth', 'will', 'understand."']
+PRED 5340: "Arove भगवान?"
+PRED SCORE: -4.4959
+
+[2020-10-27 12:12:47,501 INFO] 
+SENT 5341: ['No.']
+PRED 5341: नहीं।
+PRED SCORE: -1.0788
+
+[2020-10-27 12:12:47,502 INFO] 
+SENT 5342: ['"They', 'taught', 'me', 'the', 'world', 'only', 'makes', 'sense,', 'if', 'you', 'force', 'it', 'to."']
+PRED 5342: "वे मुझे दोषी दुनिया में सिर्फ आप इसे दिखा अगर आप इसे निहित है."
+PRED SCORE: -10.2088
+
+[2020-10-27 12:12:47,502 INFO] 
+SENT 5343: ['DAVE:']
+PRED 5343: डेव:
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:47,502 INFO] 
+SENT 5344: ['"After', 'Meera', 'died', 'for', '6', 'months', 'I', 'searched', 'and', 'found', 'out', "Love's", 'company"']
+PRED 5344: "Metzger कैसे"
+PRED SCORE: -4.1448
+
+[2020-10-27 12:12:47,502 INFO] 
+SENT 5345: ['"The', 'blood', 'on', 'your', 'hands."']
+PRED 5345: "अपने हाथों पर खून।"
+PRED SCORE: -1.0158
+
+[2020-10-27 12:12:47,502 INFO] 
+SENT 5346: ['Storm.']
+PRED 5346: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:47,502 INFO] 
+SENT 5347: ['"The', 'more', 'a', 'man', 'speaks', 'sweetly', 'to', 'a', 'woman,', 'the', 'more', 'she', 'insults', 'him!"']
+PRED 5347: "एक औरत को इसके बारे में बात करनी है, और वह उसे उसे फेंक देता है!"
+PRED SCORE: -7.9086
+
+[2020-10-27 12:12:47,502 INFO] 
+SENT 5348: ['"Thank', 'you."']
+PRED 5348: धन्यवाद.
+PRED SCORE: -0.3491
+
+[2020-10-27 12:12:47,502 INFO] 
+SENT 5349: ['"-', 'Last', 'day,', 'what', 'can', 'they', 'do', 'sir?"']
+PRED 5349: "- अंतिम दिन वे श्रीमान, क्या कर सकते हैं?"
+PRED SCORE: -1.2167
+
+[2020-10-27 12:12:47,502 INFO] 
+SENT 5350: ['"Don\'t', 'help', 'Big', 'Man."']
+PRED 5350: "Don't मैन."
+PRED SCORE: -2.9619
+
+[2020-10-27 12:12:47,502 INFO] 
+SENT 5351: ['"Thank', 'you', 'for', 'that."']
+PRED 5351: "उस के लिए धन्यवाद."
+PRED SCORE: -1.1155
+
+[2020-10-27 12:12:47,503 INFO] 
+SENT 5352: ['"Men', 'like', 'to', 'talk', 'about', 'other', 'men', 'when', "they're", 'happy."']
+PRED 5352: "पुरुषों के बारे में बात करना जब वे खुश हैं वे खुश होते हैं।"
+PRED SCORE: -3.0988
+
+[2020-10-27 12:12:47,503 INFO] 
+SENT 5353: ['"You', 'mean', "you're", 'a', 'pussy."']
+PRED 5353: "तुम अचानक हो."
+PRED SCORE: -0.6507
+
+[2020-10-27 12:12:47,503 INFO] 
+SENT 5354: ['"No,', 'but..."']
+PRED 5354: "नहीं, पर .."
+PRED SCORE: -0.0022
+
+[2020-10-27 12:12:47,503 INFO] 
+SENT 5355: ['Hah!']
+PRED 5355: हा!
+PRED SCORE: -0.0000
+
+[2020-10-27 12:12:47,503 INFO] 
+SENT 5356: ['"About', 'a', 'week', 'ago,', 'a', 'girl', 'came', 'in,', 'bought', 'guns,', 'ammo,', 'everything', 'I', 'had."']
+PRED 5356: "एक सप्ताह पहले, एक लड़की के बाद, एक लड़की में आया था, एक लड़की सब कुछ थे."
+PRED SCORE: -4.0106
+
+[2020-10-27 12:12:47,503 INFO] 
+SENT 5357: ['"You', 'tried."']
+PRED 5357: "आप की कोशिश की."
+PRED SCORE: -2.1688
+
+[2020-10-27 12:12:47,503 INFO] 
+SENT 5358: ['Shit!']
+PRED 5358: "अरे यार!"
+PRED SCORE: -0.7706
+
+[2020-10-27 12:12:47,503 INFO] 
+SENT 5359: ['"YOU', 'STAY', 'RIGHT', 'THERE,', 'YOU', 'COW."']
+PRED 5359: "तुम, सोम स्तंभ आप चाहतेहैं"
+PRED SCORE: -4.3412
+
+[2020-10-27 12:12:47,503 INFO] 
+SENT 5360: ['"How', 'much', 'money', 'do', 'you', 'want?"']
+PRED 5360: "तुम कितना पैसे चाहते हो?"
+PRED SCORE: -0.5298
+
+[2020-10-27 12:12:47,503 INFO] 
+SENT 5361: ['"-', 'Hi."']
+PRED 5361: "- हाय."
+PRED SCORE: -0.6447
+
+[2020-10-27 12:12:47,503 INFO] 
+SENT 5362: ['"-', 'Yes,', 'I', 'wanna', 'see', 'something."']
+PRED 5362: "- हाँ, मैं कुछ देखना चाहता हूँ."
+PRED SCORE: -0.4131
+
+[2020-10-27 12:12:47,503 INFO] 
+SENT 5363: ['"You\'re', 'the', 'clever', 'boy."']
+PRED 5363: "तुम चतुर हो लड़के ."
+PRED SCORE: -1.2414
+
+[2020-10-27 12:12:47,504 INFO] 
+SENT 5364: ['"Hold', 'on."']
+PRED 5364: रुको.
+PRED SCORE: -0.2034
+
+[2020-10-27 12:12:47,504 INFO] 
+SENT 5365: ['"You', 'want', 'to', 'guess', 'what', 'I', 'can', 'do?"']
+PRED 5365: "तुम मुझे क्या करना चाहते हैं लगता है?"
+PRED SCORE: -0.8183
+
+[2020-10-27 12:12:47,504 INFO] 
+SENT 5366: ['Yeah.']
+PRED 5366: हाँ.
+PRED SCORE: -0.3915
+
+[2020-10-27 12:12:47,504 INFO] 
+SENT 5367: ['"-', 'Where', 'are', 'you', 'from?"']
+PRED 5367: "- आप कहाँ से हैं?"
+PRED SCORE: -0.6918
+
+[2020-10-27 12:12:47,504 INFO] 
+SENT 5368: ['"I', 'think', "it's", '15."']
+PRED 5368: "मैं यह 15 दी है."
+PRED SCORE: -0.3014
+
+[2020-10-27 12:12:47,504 INFO] 
+SENT 5369: ['"I', "didn't", 'want', 'to', 'be', 'like', 'him', 'anymore."']
+PRED 5369: "मैं उसे और उस तरह के होने के लिए नहीं करना चाहता था।"
+PRED SCORE: -2.5395
+
+[2020-10-27 12:12:47,504 INFO] 
+SENT 5370: ['"Deal', 'or', 'no', 'deal."']
+PRED 5370: "सौदा या कोई सौदा नहीं."
+PRED SCORE: -1.3412
+
+[2020-10-27 12:12:49,483 INFO] 
+SENT 5371: ['"Now,', "I'm", 'counting', 'on', 'you,', 'kiddo."']
+PRED 5371: "अब, मैं तुम पर भरोसा है, है कि."
+PRED SCORE: -2.3594
+
+[2020-10-27 12:12:49,483 INFO] 
+SENT 5372: ['"Josh', 'gave', 'a', 'talk', 'about', 'the', 'environmental', 'issues,', 'and', 'I', 'gave', 'a', 'talk', 'about', 'my', 'life."']
+PRED 5372: "Arove रीट्श के बारे में बात एक दी."
+PRED SCORE: -6.7130
+
+[2020-10-27 12:12:49,483 INFO] 
+SENT 5373: ['"Now,', 'are', 'you', 'on', 'the', 'old', 'diet', 'pills', 'because', "I've", 'lost', 'mine', 'and', "I'm", 'starting', 'to', 'shake', 'like', 'a', 'fucking', 'leaf', 'right', 'now."']
+PRED 5373: "अब, मैं अभी भी एक स्कूल से खो रहे हैं क्योंकि मैं खो दिया गया है और मैं एक कमबख्त वेश्या की तरह एक कमबख्त मेहमान को शुरू कर रहा हूँ."
+PRED SCORE: -16.7275
+
+[2020-10-27 12:12:49,483 INFO] 
+SENT 5374: ['-PAXTON:']
+PRED 5374: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:49,483 INFO] 
+SENT 5375: ['"You', 'are."']
+PRED 5375: "तुम हो."
+PRED SCORE: -0.7295
+
+[2020-10-27 12:12:49,483 INFO] 
+SENT 5376: ['"Oh,', 'right."']
+PRED 5376: "अरे, हाँ।"
+PRED SCORE: -0.8159
+
+[2020-10-27 12:12:49,483 INFO] 
+SENT 5377: ['"And', 'you', 'sound', 'dangerous,', 'Widow', 'Maker."']
+PRED 5377: "और तुम पागल आती है, पर न?"
+PRED SCORE: -3.2836
+
+[2020-10-27 12:12:49,483 INFO] 
+SENT 5378: ['"-', 'WHAT,', 'CAN', 'I', 'KEEP', 'IT?"']
+PRED 5378: "- मैं इसमें रख सकता हूं?"
+PRED SCORE: -2.8328
+
+[2020-10-27 12:12:49,483 INFO] 
+SENT 5379: ['"Try', 'to', 'understand', 'me', 'do', 'not', 'feel', 'the', 'same', 'for', 'finches."']
+PRED 5379: "मुझे समझने की कोशिश नहीं करनी पड़ती"
+PRED SCORE: -3.0849
+
+[2020-10-27 12:12:49,484 INFO] 
+SENT 5380: ['"No,', "that's", 'right,', 'the', 'mid-size', 'is', '$255', 'plus', 'tax."']
+PRED 5380: "नहीं, सही है कि सही है, सर से अधिक ताक़तवर है."
+PRED SCORE: -6.5141
+
+[2020-10-27 12:12:49,484 INFO] 
+SENT 5381: ['"This', 'is', 'a', 'rare', 'treat."']
+PRED 5381: "यह एक असामान्य ठंड है."
+PRED SCORE: -2.0407
+
+[2020-10-27 12:12:49,484 INFO] 
+SENT 5382: ['"I', "didn't", 'have', 'to."']
+PRED 5382: "मैंने नहीं की है."
+PRED SCORE: -2.1313
+
+[2020-10-27 12:12:49,484 INFO] 
+SENT 5383: ['"Why', 'did', 'you', 'save', 'me?"']
+PRED 5383: "तुमने मुझे क्यों बचा किया?"
+PRED SCORE: -0.1138
+
+[2020-10-27 12:12:49,484 INFO] 
+SENT 5384: ['Yeah.']
+PRED 5384: हाँ.
+PRED SCORE: -0.3915
+
+[2020-10-27 12:12:49,484 INFO] 
+SENT 5385: ['"Until', 'he', 'is', 'alive,', 'you', 'can', 'never', 'touch', 'her"']
+PRED 5385: "जब तक वह जिंदा है, कभी उसे कभी नहीं छू सकता।"
+PRED SCORE: -2.6222
+
+[2020-10-27 12:12:49,484 INFO] 
+SENT 5386: ['"What', 'is', 'wrong?"']
+PRED 5386: "क्या हुआ?"
+PRED SCORE: -0.2800
+
+[2020-10-27 12:12:49,484 INFO] 
+SENT 5387: ['"Okay,', 'so?"']
+PRED 5387: "ठीक है, तो?"
+PRED SCORE: -1.5309
+
+[2020-10-27 12:12:49,484 INFO] 
+SENT 5388: ['"You', "haven't", 'told', 'me', 'what', "I'm", 'doing', 'here', 'yet."']
+PRED 5388: "तुम्हें पता है मैं यहाँ अभी तक क्या कर रहा है ने बताया नहीं है."
+PRED SCORE: -2.6213
+
+[2020-10-27 12:12:49,484 INFO] 
+SENT 5389: ['"You', 'disgusting', 'pig,', 'Vincent!"']
+PRED 5389: "आप आदतें बस 1?"
+PRED SCORE: -4.5745
+
+[2020-10-27 12:12:49,484 INFO] 
+SENT 5390: ['"He\'s', 'a', 'ghost."']
+PRED 5390: "- उन्होंने कहा कि एक भूत है."
+PRED SCORE: -1.2618
+
+[2020-10-27 12:12:49,485 INFO] 
+SENT 5391: ['"Unless', 'you', 'had', 'an', 'army', 'of', 'your', 'own."']
+PRED 5391: "जब तक तुम अपने खुद की एक सेना थी।"
+PRED SCORE: -2.4726
+
+[2020-10-27 12:12:49,485 INFO] 
+SENT 5392: ['"Come', 'on."']
+PRED 5392: चलो.
+PRED SCORE: -0.7355
+
+[2020-10-27 12:12:49,485 INFO] 
+SENT 5393: ['"You', 'can."']
+PRED 5393: "तुम चला सकते हो।"
+PRED SCORE: -0.0087
+
+[2020-10-27 12:12:49,485 INFO] 
+SENT 5394: ['"-', 'The', 'latest,', 'best,', 'brightest."']
+PRED 5394: "- भूरे बाल, Smallville"
+PRED SCORE: -4.2701
+
+[2020-10-27 12:12:49,485 INFO] 
+SENT 5395: ['"I\'m', 'looking', 'at', 'it', 'right', 'here."']
+PRED 5395: "मैं इसे देख रहा हूँ यहीं पर।"
+PRED SCORE: -2.2133
+
+[2020-10-27 12:12:49,485 INFO] 
+SENT 5396: ['"What', 'am', 'I', 'supposed', 'to', 'realize?"']
+PRED 5396: "मैं महसूस करने के लिए क्या चाहिए था?"
+PRED SCORE: -0.0091
+
+[2020-10-27 12:12:49,485 INFO] 
+SENT 5397: ['"You,', 'your', 'wife', 'was', 'killed."']
+PRED 5397: "अपने पत्नी को मारा था, तुम्हारी पत्नी को मारा गया।"
+PRED SCORE: -2.8941
+
+[2020-10-27 12:12:49,485 INFO] 
+SENT 5398: ['"Right.', 'And', "where's", 'the', 'fun', 'in', 'that?"']
+PRED 5398: "मैं और कहाँ उस में मजाक कर सकता है..."
+PRED SCORE: -5.0737
+
+[2020-10-27 12:12:49,485 INFO] 
+SENT 5399: ['"And', 'make', 'me', 'feel', 'like', "there's", 'somebody', 'real', 'up', 'there', 'and', 'not', 'just', 'the', 'back', 'of', 'some', 'hired', "man's", 'head."']
+PRED 5399: "मुझे वहां जैसा कोई असली रास्ता है और अभी भी वहाँ पर किसी असली के सिर पर रखा है के बारे में नहीं आता."
+PRED SCORE: -13.7481
+
+[2020-10-27 12:12:49,485 INFO] 
+SENT 5400: ['"I', 'love', 'my', 'son."']
+PRED 5400: "मुझे अपने बेटे से प्‍यार है."
+PRED SCORE: -1.0658
+
+[2020-10-27 12:12:51,198 INFO] 
+SENT 5401: ['"I', 'see', "you've", 'never', 'known', 'true', 'love."']
+PRED 5401: "मुझे देख रहे हैं कि तुम कभी सच में प्यार नहीं जाना जाता है."
+PRED SCORE: -3.2750
+
+[2020-10-27 12:12:51,198 INFO] 
+SENT 5402: ['"He', 'was', 'choking', 'you?"']
+PRED 5402: "वह आप पर विजय कर रहा था -"
+PRED SCORE: -2.4131
+
+[2020-10-27 12:12:51,198 INFO] 
+SENT 5403: ['"So', 'many', 'facets."']
+PRED 5403: "कई बटन?"
+PRED SCORE: -2.1277
+
+[2020-10-27 12:12:51,198 INFO] 
+SENT 5404: ['"The', 'thing', 'is,', 'though,', 'Martin,', 'once', "you've", 'crossed', 'the', 'line...', 'you', 'might', 'as', 'well', 'make', 'damn', 'sure', "it's", 'worth', 'it."']
+PRED 5404: "बात है, हालांकि, एक बार तुम संकीर्ण व्यक्ति के रूप में यह है कि यह आप के रूप में अच्छी तरह से यह करना चाहते हैं."
+PRED SCORE: -10.1579
+
+[2020-10-27 12:12:51,198 INFO] 
+SENT 5405: ['"Bloody', 'hand,', 'stay', 'still', 'or', "I'll", 'chop', 'you!"']
+PRED 5405: "खूनी Lannisters वाले अभी भी मैं तुम को सौप देंगे!"
+PRED SCORE: -6.9330
+
+[2020-10-27 12:12:51,198 INFO] 
+SENT 5406: ['"When', 'the', 'sandman', 'blows', 'your', 'eyes"']
+PRED 5406: "जबSandman चल रही अपनी आँखें"
+PRED SCORE: -0.0027
+
+[2020-10-27 12:12:51,198 INFO] 
+SENT 5407: ['"Sir...', 'the', "guy's", 'lit...', 'just', 'like', 'you', 'wanted."']
+PRED 5407: "सर ... आदमी मुझे कोशिश."
+PRED SCORE: -3.0001
+
+[2020-10-27 12:12:51,198 INFO] 
+SENT 5408: ['"HOW', 'MUCH', 'DID', 'YOU', 'TAKE', "'EM", 'FOR?"']
+PRED 5408: "कितनी ज्यादा आप कितनी ज्यादा ले लिया जब तक?"
+PRED SCORE: -6.1834
+
+[2020-10-27 12:12:51,199 INFO] 
+SENT 5409: ['"Wait', 'a', 'minute."']
+PRED 5409: "एक मिनट रुको."
+PRED SCORE: -0.0377
+
+[2020-10-27 12:12:51,199 INFO] 
+SENT 5410: ['"Just', 'these', 'two..."']
+PRED 5410: "इन दो ..."
+PRED SCORE: -1.0778
+
+[2020-10-27 12:12:51,199 INFO] 
+SENT 5411: ['"Move', 'them', 'out."']
+PRED 5411: "उन्हें बाहर ले जाएँ."
+PRED SCORE: -0.7502
+
+[2020-10-27 12:12:51,199 INFO] 
+SENT 5412: ['What?']
+PRED 5412: क्या?
+PRED SCORE: -0.0291
+
+[2020-10-27 12:12:51,199 INFO] 
+SENT 5413: ['"Gotham', 'Free', 'Press', 'BAT', 'BRAND', 'OF', 'JUSTICE!"']
+PRED 5413: "हरिनी, kirthi, Keefe हमारे वायुमंडल के उल्लंघन..."
+PRED SCORE: -9.5933
+
+[2020-10-27 12:12:51,199 INFO] 
+SENT 5414: ['"Hey,', 'Koroku!"']
+PRED 5414: "अरे, डेव."
+PRED SCORE: -0.6149
+
+[2020-10-27 12:12:51,199 INFO] 
+SENT 5415: ['"No,', 'no,', 'he', 'and', 'DK', 'together', 'planned', 'all', 'this."']
+PRED 5415: "नहीं, नहीं, वह और एक साथ जो कर रहा है."
+PRED SCORE: -5.6461
+
+[2020-10-27 12:12:51,199 INFO] 
+SENT 5416: ['"Look', 'at', 'it."']
+PRED 5416: "इसे देखो."
+PRED SCORE: -0.5011
+
+[2020-10-27 12:12:51,199 INFO] 
+SENT 5417: ['"I\'m', 'a', 'pretty', 'good', 'shot."']
+PRED 5417: "मैं एक सुंदर शॉट मार रहा हूँ."
+PRED SCORE: -2.1471
+
+[2020-10-27 12:12:51,199 INFO] 
+SENT 5418: ['"Does', 'it', 'feel', 'like', "you're", 'impenetrable?"']
+PRED 5418: "आपको लगता है कि हज़ारों 00 की तरह लग रहा है।"
+PRED SCORE: -4.7862
+
+[2020-10-27 12:12:51,199 INFO] 
+SENT 5419: ['(SCREAMING)']
+PRED 5419: (चिल्ला)
+PRED SCORE: -0.0000
+
+[2020-10-27 12:12:51,200 INFO] 
+SENT 5420: ['A..']
+PRED 5420: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:51,200 INFO] 
+SENT 5421: ['"Why', "don't", 'you', 'and', 'I', 'play', 'a', 'game', 'of', 'fuck', 'off?"']
+PRED 5421: "क्यों आप और मैं बकवास की एक खेल खेलते हैं नहीं है?"
+PRED SCORE: -0.4093
+
+[2020-10-27 12:12:51,200 INFO] 
+SENT 5422: ['Dad.']
+PRED 5422: पिता।
+PRED SCORE: -0.0175
+
+[2020-10-27 12:12:51,200 INFO] 
+SENT 5423: ['"It\'s', 'too', 'late."']
+PRED 5423: "बहुत देर हो चुकी है."
+PRED SCORE: -0.2562
+
+[2020-10-27 12:12:51,200 INFO] 
+SENT 5424: ['"From', 'TV,', 'right?"']
+PRED 5424: "टॉमेलिला से, है ना?"
+PRED SCORE: -1.6940
+
+[2020-10-27 12:12:51,200 INFO] 
+SENT 5425: ['"But', 'she', 'said', 'call', 'her', 'back', 'immediately."']
+PRED 5425: "लेकिन उसने उसे वापस बताया की उसका तुरंत सौंप दिया।"
+PRED SCORE: -2.8098
+
+[2020-10-27 12:12:51,200 INFO] 
+SENT 5426: ['"Who\'s', 'out', 'there?"']
+PRED 5426: "वहाँ बाहर वहाँ?"
+PRED SCORE: -1.3601
+
+[2020-10-27 12:12:51,200 INFO] 
+SENT 5427: ['"If', "you're", 'leaving,', 'just', 'go."']
+PRED 5427: "अगर आप जा रहे हो तो, चले जाओ."
+PRED SCORE: -0.0074
+
+[2020-10-27 12:12:51,200 INFO] 
+SENT 5428: ['"You', 'know', 'what', "I'm", 'saying', 'makes', 'sense,', 'Akilan"']
+PRED 5428: "आप जानते हैं कि मैं तबाह हो, बारबरा."
+PRED SCORE: -7.1738
+
+[2020-10-27 12:12:51,200 INFO] 
+SENT 5429: ['"Now', 'get', 'your', 'ass', 'out', 'this', 'car."']
+PRED 5429: "अब अपने गधे बाहर इस कार मिलता है।"
+PRED SCORE: -1.6315
+
+[2020-10-27 12:12:51,200 INFO] 
+SENT 5430: ['"(', 'BABY', 'BABBLES', ')"']
+PRED 5430: "(बच्चा रो)"
+PRED SCORE: -0.0380
+
+[2020-10-27 12:12:52,744 INFO] 
+SENT 5431: ['"There\'s', 'not', 'one', 'person', 'at', 'MI6', 'who', "isn't", 'talking', 'about', 'it."']
+PRED 5431: "इसकी बात नहीं वाला।"
+PRED SCORE: -5.5641
+
+[2020-10-27 12:12:52,744 INFO] 
+SENT 5432: ['"Eighteen', 'fortyfive."']
+PRED 5432: "टैंक साला."
+PRED SCORE: -4.7086
+
+[2020-10-27 12:12:52,744 INFO] 
+SENT 5433: ['"When', 'did', 'you', 'marry?"']
+PRED 5433: "कब आप बचीं?"
+PRED SCORE: -2.3939
+
+[2020-10-27 12:12:52,744 INFO] 
+SENT 5434: ['"I', 'mean,', 'yeah."']
+PRED 5434: "मेरा मतलब है, हाँ।"
+PRED SCORE: -0.4121
+
+[2020-10-27 12:12:52,744 INFO] 
+SENT 5435: ['"Have', 'a', 'great', 'day."']
+PRED 5435: "एकअच्छादिनहै/ मैं"
+PRED SCORE: -0.0533
+
+[2020-10-27 12:12:52,744 INFO] 
+SENT 5436: ['"I\'ve', 'never', 'called', 'The', 'Bag,', "I'm", 'not', 'starting', 'today."']
+PRED 5436: "मैं पहले कभी दयनीय नहीं कहा है, मैं आज नहीं बता रहा हूँ।"
+PRED SCORE: -6.9887
+
+[2020-10-27 12:12:52,744 INFO] 
+SENT 5437: ['"Tell', 'him', '2', 'girls', 'are', 'coming"']
+PRED 5437: "और उसे 2 लड़कियों हूँ"
+PRED SCORE: -3.1366
+
+[2020-10-27 12:12:52,744 INFO] 
+SENT 5438: ['"That\'s', 'exactly', 'what', 'they', 'take."']
+PRED 5438: "कि वे क्या ले जा रहा है."
+PRED SCORE: -1.1941
+
+[2020-10-27 12:12:52,744 INFO] 
+SENT 5439: ['"You\'re', 'my', 'bestest', 'friend!"']
+PRED 5439: "तुम मेरे bestest दोस्त रहे हैं। / मैं"
+PRED SCORE: -0.6278
+
+[2020-10-27 12:12:52,745 INFO] 
+SENT 5440: ['"You', 'have', '10', 'minutes', 'to', 'leave', 'the', 'building."']
+PRED 5440: "आप 10 मिनट के लिए यहाँ से जाने के 10 मिनट के लिए है।"
+PRED SCORE: -1.5742
+
+[2020-10-27 12:12:52,745 INFO] 
+SENT 5441: ['"I', 'say', 'engage', 'all', 'targets."']
+PRED 5441: "मैं संलग्न संलग्न हैं."
+PRED SCORE: -2.4969
+
+[2020-10-27 12:12:52,745 INFO] 
+SENT 5442: ['Ah!']
+PRED 5442: आह!
+PRED SCORE: -0.0000
+
+[2020-10-27 12:12:52,745 INFO] 
+SENT 5443: ['"I', 'mean,', "that's", 'hardly', 'an', 'unfair', 'slur."']
+PRED 5443: "मेरा मतलब है कि बहुत अच्छे!"
+PRED SCORE: -4.1520
+
+[2020-10-27 12:12:52,745 INFO] 
+SENT 5444: ['"Put', 'your', 'wallet', 'back', 'in', 'your', 'pocket,', 'sir."']
+PRED 5444: "अपनी ले, सर में अपने बटुआ वापस डाल दिया."
+PRED SCORE: -2.0211
+
+[2020-10-27 12:12:52,745 INFO] 
+SENT 5445: ['TEJ:']
+PRED 5445: तेज:
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:52,745 INFO] 
+SENT 5446: ['"And', 'soon', 'a', 'field', 'of', 'sunflowers', 'gives', 'way', 'to', 'a', 'low', 'building', 'of', 'stone', 'and', 'tile."']
+PRED 5446: "और जल्द ही क्रिप्टन की एक शहर."
+PRED SCORE: -5.4265
+
+[2020-10-27 12:12:52,745 INFO] 
+SENT 5447: ['"You', 'got', 'any', 'other', 'high-end', 'commercial', 'deals', 'you', 'want', 'to', 'sling', "Lavender's", 'way?"']
+PRED 5447: "आप किसी भी अन्य पत्नियों हैं, जुड़ने के लिए कुछ अन्य आइसक्रीम की दुकान?"
+PRED SCORE: -8.7074
+
+[2020-10-27 12:12:52,745 INFO] 
+SENT 5448: ['L-']
+PRED 5448: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:52,745 INFO] 
+SENT 5449: ['"Don\'t', 'want', 'him', 'dead"']
+PRED 5449: "वह उसे मर नहीं करना चाहिए?"
+PRED SCORE: -1.9592
+
+[2020-10-27 12:12:52,746 INFO] 
+SENT 5450: ['Petrified.']
+PRED 5450: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:52,746 INFO] 
+SENT 5451: ['"What', 'is', 'this', 'pain?"']
+PRED 5451: "यह दर्द क्या है?"
+PRED SCORE: -0.0181
+
+[2020-10-27 12:12:52,746 INFO] 
+SENT 5452: ['"written', 'and', 'directed', 'by', 'PAVEL', 'CHUKHRAI', 'director', 'of', 'photography', 'VLADIMIR', 'KLIMOV"']
+PRED 5452: "एप-हैंगर और अलगाव..."
+PRED SCORE: -5.1208
+
+[2020-10-27 12:12:52,746 INFO] 
+SENT 5453: ['"Thank', 'you', 'very', 'much."']
+PRED 5453: "बहुत बहुत धन्यवाद."
+PRED SCORE: -0.3865
+
+[2020-10-27 12:12:52,746 INFO] 
+SENT 5454: ['"The', 'lady', 'here', 'is', 'my', 'wife,', 'try', 'her."']
+PRED 5454: "महिला यहाँ मेरी पत्नी है उसे देखो।"
+PRED SCORE: -2.4703
+
+[2020-10-27 12:12:52,746 INFO] 
+SENT 5455: ['"-', 'Dad.', '-', 'Malcolm,', 'what', 'are', 'you', 'doing?"']
+PRED 5455: "- Royce, आप क्या कर रहे हैं?"
+PRED SCORE: -3.2760
+
+[2020-10-27 12:12:52,746 INFO] 
+SENT 5456: ['"This', 'is', 'KDK', '1', 'calling', 'KDK', '12."']
+PRED 5456: "के डी के 1 बुला रहा है के डी के 12 को."
+PRED SCORE: -0.0916
+
+[2020-10-27 12:12:52,746 INFO] 
+SENT 5457: ['"He\'s', 'remarkable."']
+PRED 5457: "वो असाधारण थे ."
+PRED SCORE: -0.0009
+
+[2020-10-27 12:12:52,746 INFO] 
+SENT 5458: ['"Get', 'in', 'there."']
+PRED 5458: "वहाँ में जाओ."
+PRED SCORE: -0.2725
+
+[2020-10-27 12:12:52,746 INFO] 
+SENT 5459: ['"Ain\'t', 'that', 'right,', 'ese?"']
+PRED 5459: "यह सही मोरी नहीं है?"
+PRED SCORE: -3.5615
+
+[2020-10-27 12:12:52,746 INFO] 
+SENT 5460: ['"-', 'You', 'okay?"']
+PRED 5460: "- तुम ठीक हो?"
+PRED SCORE: -0.1318
+
+[2020-10-27 12:12:54,580 INFO] 
+SENT 5461: ['"You\'re', 'marrying', 'that', 'girl,', 'okay?"']
+PRED 5461: "आप लड़की से शादी कर रहे हैं, ठीक है?"
+PRED SCORE: -1.0864
+
+[2020-10-27 12:12:54,580 INFO] 
+SENT 5462: ['"If', "you'll", 'follow', 'me,', "we've", 'got', 'a', 'really', 'good', 'situation', 'for', 'you."']
+PRED 5462: "यदि आप मुझे का पालन करेंगे हैं, तो हम तुम्हारे लिए एक वास्तव में अच्छा स्थिति मिल गया है."
+PRED SCORE: -1.9251
+
+[2020-10-27 12:12:54,580 INFO] 
+SENT 5463: ['One.']
+PRED 5463: एक।
+PRED SCORE: -0.6428
+
+[2020-10-27 12:12:54,580 INFO] 
+SENT 5464: ['"They', 'are', 'coming."']
+PRED 5464: "वे आ रहे हैं."
+PRED SCORE: -0.0402
+
+[2020-10-27 12:12:54,580 INFO] 
+SENT 5465: ['"One', 'agent."']
+PRED 5465: "एक हब्सी?"
+PRED SCORE: -0.5445
+
+[2020-10-27 12:12:54,581 INFO] 
+SENT 5466: ['"We\'ll', 'wait', 'for', 'her."']
+PRED 5466: "हम उसके लिए इंतजार करेंगे।"
+PRED SCORE: -0.0068
+
+[2020-10-27 12:12:54,581 INFO] 
+SENT 5467: ['"(', 'Whines', ')"']
+PRED 5467: (Sniffs)
+PRED SCORE: -1.4474
+
+[2020-10-27 12:12:54,581 INFO] 
+SENT 5468: ['"It\'s', 'so', 'creepy', 'down', 'here."']
+PRED 5468: यहयहाँबहुतसुरक्षितहै.
+PRED SCORE: -1.2555
+
+[2020-10-27 12:12:54,581 INFO] 
+SENT 5469: ['"Come', 'on,', 'open', 'this', 'shirt!"']
+PRED 5469: "चलो, इस मणि खींच."
+PRED SCORE: -1.8165
+
+[2020-10-27 12:12:54,581 INFO] 
+SENT 5470: ['"-', 'What', 'happened?"']
+PRED 5470: "- क्या हुआ?"
+PRED SCORE: -0.1443
+
+[2020-10-27 12:12:54,581 INFO] 
+SENT 5471: ['"It', 'hurts', 'a', 'little', 'bit."']
+PRED 5471: "यह थोड़ा अजीब दर्द होता है."
+PRED SCORE: -2.9015
+
+[2020-10-27 12:12:54,581 INFO] 
+SENT 5472: ['"Throw', 'a', 'punch,', 'will', 'you?"']
+PRED 5472: "एक हंसमुख 'हैं?"
+PRED SCORE: -5.0641
+
+[2020-10-27 12:12:54,581 INFO] 
+SENT 5473: ['"Are', 'we', 'there', 'yet?"']
+PRED 5473: "क्या हम अभी तक कर रहे हैं?"
+PRED SCORE: -0.7101
+
+[2020-10-27 12:12:54,581 INFO] 
+SENT 5474: ['"Charles!', "Don't", 'do', 'this,', 'Erik!"']
+PRED 5474: "चार्ल्स, यंग को नहीं (?"
+PRED SCORE: -2.9416
+
+[2020-10-27 12:12:54,581 INFO] 
+SENT 5475: ['"This', 'is', 'a', 'LED', 'light."']
+PRED 5475: "यह एक कार्वेट जॉन है."
+PRED SCORE: -3.0369
+
+[2020-10-27 12:12:54,582 INFO] 
+SENT 5476: ['"Okkoto', 'MORISHIGE', 'Hisaya', '.', '♪', 'Locked', 'away', 'in', 'the', 'forest', 'of', 'the', 'night', '♪', '."']
+PRED 5476: ". Lerbier बेहया कर रहे हैं ... ♪ रात के जंगल में universe के पहाड़ों..."
+PRED SCORE: -12.2172
+
+[2020-10-27 12:12:54,582 INFO] 
+SENT 5477: ['"Does', 'this', 'question', 'come', 'from', 'you?"']
+PRED 5477: "क्या यह सवाल आप से आते हैं?"
+PRED SCORE: -1.1381
+
+[2020-10-27 12:12:54,582 INFO] 
+SENT 5478: ['"Come', 'on,', 'you."']
+PRED 5478: "आओ, धन्यवाद."
+PRED SCORE: -1.0096
+
+[2020-10-27 12:12:54,582 INFO] 
+SENT 5479: ['"No', 'it', 'is', 'just', 'the', 'beginning."']
+PRED 5479: "नहीं, यह सिर्फ शुरू नहीं है."
+PRED SCORE: -1.5626
+
+[2020-10-27 12:12:54,582 INFO] 
+SENT 5480: ['"Yeah,', "she's", 'okay."']
+PRED 5480: "हाँ, वह ठीक है."
+PRED SCORE: -0.5974
+
+[2020-10-27 12:12:54,582 INFO] 
+SENT 5481: ['"Think', 'of', 'all', 'those', 'southern', 'girls', 'he', 'gets', 'to', 'stab', 'with', 'his', 'right', 'royal', 'prick."']
+PRED 5481: "उन सभी सबूत के बारे में सोचो."
+PRED SCORE: -3.1924
+
+[2020-10-27 12:12:54,582 INFO] 
+SENT 5482: ['"Babies', 'take', 'up', 'a', 'lot', 'of', 'time."']
+PRED 5482: "बहुत सारा समय बीत जाते हैं."
+PRED SCORE: -1.8632
+
+[2020-10-27 12:12:54,582 INFO] 
+SENT 5483: ['"Yes,', 'I', 'know,', 'but', 'if', 'we', 'can', 'track', 'him,', 'so', 'can', 'others."']
+PRED 5483: "हाँ, मुझे पता है, लेकिन अगर हम उसे ट्रैक कर सकते हैं ... ... और कर सकते हैं."
+PRED SCORE: -3.3449
+
+[2020-10-27 12:12:54,582 INFO] 
+SENT 5484: ['"I', "won't", 'quake', 'and', 'bow', 'down', 'like', 'the', 'sycophants', 'you', 'have', 'around', 'you."']
+PRED 5484: "मैं पागलों का चयन नहीं करूँगा, आप आप के आसपास एक सम्मान आप के आसपास है।"
+PRED SCORE: -9.8574
+
+[2020-10-27 12:12:54,582 INFO] 
+SENT 5485: ['"It\'s', 'all', 'you,', 'Doyle."']
+PRED 5485: "यह सब आप, Weinselstein है."
+PRED SCORE: -3.2941
+
+[2020-10-27 12:12:54,583 INFO] 
+SENT 5486: ['"IT\'S', 'A', 'LONG', 'JOURNEY,', 'MAN."']
+PRED 5486: "यह एक भूतहा हैनसेन आदमी है."
+PRED SCORE: -3.9582
+
+[2020-10-27 12:12:54,583 INFO] 
+SENT 5487: ['"-', 'I', 'think', "it's", 'good,', 'that', 'he', 'did', 'it."']
+PRED 5487: "- मुझे लगता है कि यह है कि वह ऐसा किया था."
+PRED SCORE: -2.6291
+
+[2020-10-27 12:12:54,583 INFO] 
+SENT 5488: ['"So', 'the', "deal's", 'off,', "I'm", 'afraid."']
+PRED 5488: "इसलिए कोयल का मुझे डर लग रही है."
+PRED SCORE: -2.2128
+
+[2020-10-27 12:12:54,583 INFO] 
+SENT 5489: ['girl:']
+PRED 5489: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:54,583 INFO] 
+SENT 5490: ['"I\'m', 'not', 'sure', 'how', 'to', 'get', 'there,', "I'm", 'not', 'sure', 'how', "it's", 'going', 'to', 'work."']
+PRED 5490: "मुझे यकीन नहीं है कि कैसे हो रहा है कि वहाँ कैसे हो रहा है, यह कैसे काम करेंगे."
+PRED SCORE: -5.9045
+
+[2020-10-27 12:12:56,089 INFO] 
+SENT 5491: ['"But', 'not', 'anymore."']
+PRED 5491: "अब नहीं।"
+PRED SCORE: -0.0053
+
+[2020-10-27 12:12:56,089 INFO] 
+SENT 5492: ['"Anything', 'that', 'gets', 'the', 'bastard."']
+PRED 5492: "कुछ है कि कमीने हो जाता है।"
+PRED SCORE: -1.7044
+
+[2020-10-27 12:12:56,089 INFO] 
+SENT 5493: ['"There', 'is', 'a', 'war', 'coming,', 'John."']
+PRED 5493: "कोई एक युद्ध आ रहा है, जॉन।"
+PRED SCORE: -2.0155
+
+[2020-10-27 12:12:56,090 INFO] 
+SENT 5494: ['"He', 'may', 'bite', 'if', 'you', 'go."']
+PRED 5494: "उन्होंने कहा कि अगर आप जाने अगर कर सकते हैं."
+PRED SCORE: -2.4888
+
+[2020-10-27 12:12:56,090 INFO] 
+SENT 5495: ['"Can\'t', 'be', 'the', 'pills."']
+PRED 5495: "लिफ्ट नहीं कर सकता।"
+PRED SCORE: -3.0299
+
+[2020-10-27 12:12:56,090 INFO] 
+SENT 5496: ['"Kal-El,', 'it', 'is."']
+PRED 5496: "Metzger यह है।"
+PRED SCORE: -2.6026
+
+[2020-10-27 12:12:56,090 INFO] 
+SENT 5497: ['"Will', 'you', 'kill', 'him', 'now,', 'papa?"']
+PRED 5497: "तुम अब उसे मार, पिताजी?"
+PRED SCORE: -1.3712
+
+[2020-10-27 12:12:56,090 INFO] 
+SENT 5498: ['"-', 'Look', 'what', 'I', 'brought."']
+PRED 5498: "- मुझे देखो क्या हुआ ?"
+PRED SCORE: -2.2088
+
+[2020-10-27 12:12:56,090 INFO] 
+SENT 5499: ['"So', 'Jaeger', 'pilots', 'turned', 'into', 'rock', 'stars."']
+PRED 5499: जैगर उत्तर और जैगर रॉक में बदल गया."
+PRED SCORE: -4.7758
+
+[2020-10-27 12:12:56,090 INFO] 
+SENT 5500: ['"-', '(', 'body', 'thuds', ')', '-', '(', 'coughing', ')"']
+PRED 5500: "- शरीर -( पार्किंगब्रेकक्लिक)"
+PRED SCORE: -1.8685
+
+[2020-10-27 12:12:56,090 INFO] 
+SENT 5501: ['"He', 'has', 'become', 'the', 'leader', 'of', 'a', 'large', 'and', 'dangerous', 'sect', 'who', 'hail', 'him', 'as', 'the', 'Son', 'of', 'David!"']
+PRED 5501: "उन्होंने कहा कि एक बड़ा और खतरनाक विलियम के पूल बन गया है जो फारस के बेटे का जायज़ा फेंकता"
+PRED SCORE: -15.5082
+
+[2020-10-27 12:12:56,090 INFO] 
+SENT 5502: ['"In', 'one', 'of', 'those', 'caves."']
+PRED 5502: "उन वैगनों में से एक में,"
+PRED SCORE: -2.4813
+
+[2020-10-27 12:12:56,091 INFO] 
+SENT 5503: ['"Who', 'said', 'a', 'brilliant', 'scientist', "can't", 'be', 'fun?"']
+PRED 5503: "कौन किसने कहा एक अच्छा यात्रा, नहीं हो सकता है?"
+PRED SCORE: -4.0360
+
+[2020-10-27 12:12:56,091 INFO] 
+SENT 5504: ['"We', 'can', 'do', 'this."']
+PRED 5504: "हम कर सकते हैं."
+PRED SCORE: -0.8139
+
+[2020-10-27 12:12:56,091 INFO] 
+SENT 5505: ['"I', 'will', 'not', 'eat', 'him."']
+PRED 5505: "मैं उसे नहीं खाते."
+PRED SCORE: -0.5925
+
+[2020-10-27 12:12:56,091 INFO] 
+SENT 5506: ['"Carver', 'just', 'told', 'me', "we're", 'not', 'gonna', 'tell', 'anybody', 'what', 'happened', 'up', 'there."']
+PRED 5506: पाया!"
+PRED SCORE: -2.7335
+
+[2020-10-27 12:12:56,091 INFO] 
+SENT 5507: ['"Here', 'we', 'go."']
+PRED 5507: "यहाँ हम चले."
+PRED SCORE: -0.1939
+
+[2020-10-27 12:12:56,091 INFO] 
+SENT 5508: ['"Fifty', 'diesel', 'engines', 'per', 'muscle', 'strand."']
+PRED 5508: (मो,एससीहार्ट,हांकविलियम्सद्वारालिखित
+PRED SCORE: -2.2931
+
+[2020-10-27 12:12:56,091 INFO] 
+SENT 5509: ['"Okay,', 'Mom."']
+PRED 5509: "ठीक है, माँ."
+PRED SCORE: -0.0034
+
+[2020-10-27 12:12:56,091 INFO] 
+SENT 5510: ['"Ender,', 'stop!"']
+PRED 5510: "एंडर, रुको!"
+PRED SCORE: -0.1062
+
+[2020-10-27 12:12:56,091 INFO] 
+SENT 5511: ['"Bollocks', 'was', 'it."']
+PRED 5511: "लोड था ."
+PRED SCORE: -2.3206
+
+[2020-10-27 12:12:56,091 INFO] 
+SENT 5512: ['Hmm.']
+PRED 5512: हम्म.
+PRED SCORE: -0.3730
+
+[2020-10-27 12:12:56,091 INFO] 
+SENT 5513: ['"(', 'thudding', 'continues', ')"']
+PRED 5513: (Thudding)
+PRED SCORE: -0.1347
+
+[2020-10-27 12:12:56,092 INFO] 
+SENT 5514: ['"We\'re', 'moving', 'back', 'now!"']
+PRED 5514: "हम वापस जा रहे हैं!"
+PRED SCORE: -0.0470
+
+[2020-10-27 12:12:56,092 INFO] 
+SENT 5515: ['"What', 'brings', 'you', 'to', 'the', 'White', 'House?"']
+PRED 5515: "तुम्हें पता है व्हाइट हाउस के साथ ?"
+PRED SCORE: -1.2686
+
+[2020-10-27 12:12:56,092 INFO] 
+SENT 5516: ['"There\'s', 'no', 'reason', 'to', 'get..."']
+PRED 5516: "वहाँ टाइटन करने के लिए कोई कारण नहीं है."
+PRED SCORE: -1.9400
+
+[2020-10-27 12:12:56,092 INFO] 
+SENT 5517: ['"I', 'promise', 'I', "won't", 'hurt', 'you."']
+PRED 5517: "मैं वादा करता हूं मैं तुम्हें चोट नहीं करूंगा."
+PRED SCORE: -1.8618
+
+[2020-10-27 12:12:56,092 INFO] 
+SENT 5518: ['(CHUCKLES)']
+PRED 5518: "(हंसते हुए)"
+PRED SCORE: -0.1679
+
+[2020-10-27 12:12:56,092 INFO] 
+SENT 5519: ['"Hey,', 'come', 'on."']
+PRED 5519: "अरे, चलो."
+PRED SCORE: -0.4729
+
+[2020-10-27 12:12:56,092 INFO] 
+SENT 5520: ['"A', 'strongly', 'sexual', 'affair."']
+PRED 5520: "एक मोहरे पतला,
+PRED SCORE: -3.9715
+
+[2020-10-27 12:12:57,361 INFO] 
+SENT 5521: ['"Bearing', '1-8-0', 'at', '12', 'knots."']
+PRED 5521: "-इतना मुलायम नीली क्लच."
+PRED SCORE: -7.9538
+
+[2020-10-27 12:12:57,361 INFO] 
+SENT 5522: ['Over.']
+PRED 5522: ओवर.
+PRED SCORE: -0.2233
+
+[2020-10-27 12:12:57,362 INFO] 
+SENT 5523: ['"We\'re', 'gonna', 'come', 'around', 'your', 'three', 'o\'clock,"']
+PRED 5523: "हम अपने तीन assbags के आसपास आने वाला हैं."
+PRED SCORE: -4.0607
+
+[2020-10-27 12:12:57,362 INFO] 
+SENT 5524: ['"The', 'Old', 'Man,', 'too."']
+PRED 5524: "बूढ़ी बेवकूफ भी."
+PRED SCORE: -1.5528
+
+[2020-10-27 12:12:57,362 INFO] 
+SENT 5525: ['"So', 'it', "won't", 'be', 'strong', 'enough', 'to', 'kill', 'her."']
+PRED 5525: "तो यह उसे मारने के लिए काफी मजबूत नहीं होगा।"
+PRED SCORE: -1.6098
+
+[2020-10-27 12:12:57,362 INFO] 
+SENT 5526: ['"Hiccup,', 'don\'t!"']
+PRED 5526: "साला मत !"
+PRED SCORE: -1.4670
+
+[2020-10-27 12:12:57,362 INFO] 
+SENT 5527: ['"A', 'fine', 'weapon,', 'Lucas."']
+PRED 5527: "एक बेहतरीन हथियार èopora."
+PRED SCORE: -3.2683
+
+[2020-10-27 12:12:57,362 INFO] 
+SENT 5528: ['Mm-hmm.']
+PRED 5528: हाँ।
+PRED SCORE: -0.1046
+
+[2020-10-27 12:12:57,362 INFO] 
+SENT 5529: ['"Call', 'him"']
+PRED 5529: "उसे बुलाओ।"
+PRED SCORE: -0.0413
+
+[2020-10-27 12:12:57,362 INFO] 
+SENT 5530: ['"(', 'footsteps', ')"']
+PRED 5530: (Hoofbeats)
+PRED SCORE: -1.7173
+
+[2020-10-27 12:12:57,362 INFO] 
+SENT 5531: ['"Almost', 'there."']
+PRED 5531: "लगभग वहाँ."
+PRED SCORE: -0.0001
+
+[2020-10-27 12:12:57,362 INFO] 
+SENT 5532: ['"Raleigh,', 'listen', 'to', 'me!"']
+PRED 5532: "रैले, मेरी बात सुनो!"
+PRED SCORE: -0.0009
+
+[2020-10-27 12:12:57,363 INFO] 
+SENT 5533: ['"Give', 'it', 'a', 'read."']
+PRED 5533: "यह एक nympho है."
+PRED SCORE: -2.1544
+
+[2020-10-27 12:12:57,363 INFO] 
+SENT 5534: ['Me?']
+PRED 5534: मुझे?
+PRED SCORE: -0.4741
+
+[2020-10-27 12:12:57,363 INFO] 
+SENT 5535: ['"Oh,', 'thank', 'god."']
+PRED 5535: "ओह, भगवान का शुक्र है."
+PRED SCORE: -0.0910
+
+[2020-10-27 12:12:57,363 INFO] 
+SENT 5536: ['"This', 'is', 'the', 'car"']
+PRED 5536: "यह कार है?"
+PRED SCORE: -0.4892
+
+[2020-10-27 12:12:57,363 INFO] 
+SENT 5537: ['Eurydice?']
+PRED 5537: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:57,363 INFO] 
+SENT 5538: ['"""this', 'man,', 'he', 'loves', 'me."""']
+PRED 5538: "पाउला आदमी है, वह देशद्रोह प्यार करता है."
+PRED SCORE: -4.2941
+
+[2020-10-27 12:12:57,363 INFO] 
+SENT 5539: ['"Until', 'next', 'time."']
+PRED 5539: "अगली बार जब तक."
+PRED SCORE: -0.0041
+
+[2020-10-27 12:12:57,363 INFO] 
+SENT 5540: ['"You', 'think', 'we', 'can', 'fix', 'it?"']
+PRED 5540: "आप हम इसे ठीक कर सकते हैं लगता है?"
+PRED SCORE: -0.1252
+
+[2020-10-27 12:12:57,363 INFO] 
+SENT 5541: ['"I', 'couldn\'t..."']
+PRED 5541: "मैं should-"
+PRED SCORE: -2.7949
+
+[2020-10-27 12:12:57,364 INFO] 
+SENT 5542: ['"Going', 'hot."']
+PRED 5542: जा रहे हैं।"
+PRED SCORE: -1.0956
+
+[2020-10-27 12:12:57,364 INFO] 
+SENT 5543: ['"There\'s', 'the', 'courthouse."']
+PRED 5543: "पल्स है."
+PRED SCORE: -1.6418
+
+[2020-10-27 12:12:57,364 INFO] 
+SENT 5544: ['"Sal,', 'Alexa."']
+PRED 5544: "Dominique Bredoteau."
+PRED SCORE: -4.2314
+
+[2020-10-27 12:12:57,364 INFO] 
+SENT 5545: ['"I', 'want', 'you', 'see', 'this', 'before', 'some', 'amateur', 'with', 'a', 'telescope', 'creates', 'a', 'blueprint.."']
+PRED 5545: "मैं तुम्हें कुछ priors देखा चाहते हैं एक सीवर के साथ कुछ गुरूओं के एक झनझन साथ."
+PRED SCORE: -8.7485
+
+[2020-10-27 12:12:57,364 INFO] 
+SENT 5546: ['"Alan,', 'come', 'here,', 'buddy./', 'Get', 'in', 'here,', 'crazy."']
+PRED 5546: "एलन, यहां आओ यहाँ आओ."
+PRED SCORE: -2.2171
+
+[2020-10-27 12:12:57,364 INFO] 
+SENT 5547: ['"No,', 'but', "she's", 'not', 'leaving', 'until', 'she', 'sees', 'you."']
+PRED 5547: "नहीं, लेकिन वह नहीं जा रहा है जब तक वह तुम्हें देखता है।"
+PRED SCORE: -0.9598
+
+[2020-10-27 12:12:57,364 INFO] 
+SENT 5548: ['"Yes,', 'Mama,', 'I', 'know."']
+PRED 5548: "हाँ, माँ, मुझे पता है."
+PRED SCORE: -0.9471
+
+[2020-10-27 12:12:57,364 INFO] 
+SENT 5549: ['"They\'d', 'never', 'leave', 'us', 'alone."']
+PRED 5549: "वे हमें अकेले कभी नहीं आया."
+PRED SCORE: -1.5979
+
+[2020-10-27 12:12:57,364 INFO] 
+SENT 5550: ['"You', 'can', 'do', 'it!"']
+PRED 5550: "आप यह कर सकते हैं!"
+PRED SCORE: -0.4087
+
+[2020-10-27 12:12:58,773 INFO] 
+SENT 5551: ['(Sighs)']
+PRED 5551: (विलाप)
+PRED SCORE: -0.0004
+
+[2020-10-27 12:12:58,773 INFO] 
+SENT 5552: ['"I\'d', 'be', 'very', 'honoured', 'if', 'you', 'accepted', 'my', 'son', 'as', 'your', 'son-in-law"']
+PRED 5552: "शायद मैं बहुत जल्दी, किया जाएगा अगर आप मेरी उंगलियों के रूप में अपने सपनों."
+PRED SCORE: -9.9781
+
+[2020-10-27 12:12:58,773 INFO] 
+SENT 5553: ['"-', 'Adam:"']
+PRED 5553: "- जेसी."
+PRED SCORE: -1.9868
+
+[2020-10-27 12:12:58,773 INFO] 
+SENT 5554: ['Hello?']
+PRED 5554: हैलो?
+PRED SCORE: -0.3513
+
+[2020-10-27 12:12:58,773 INFO] 
+SENT 5555: ['"Let\'s', 'try', 'to', 'keep', 'some', 'order', 'here."']
+PRED 5555: "हमें यहाँ कुछ आदेश रखने की कोशिश करो."
+PRED SCORE: -2.1496
+
+[2020-10-27 12:12:58,773 INFO] 
+SENT 5556: ['"Save', 'your', 'compliments."']
+PRED 5556: "अपने आँसू सहेजें।"
+PRED SCORE: -0.9303
+
+[2020-10-27 12:12:58,773 INFO] 
+SENT 5557: ['"-', "'CAUSE", "I'VE", 'GOT', 'A', 'GUN."']
+PRED 5557: "- नीला मैं एक बंदूक मिल गया है."
+PRED SCORE: -1.5046
+
+[2020-10-27 12:12:58,774 INFO] 
+SENT 5558: ['"Figure', 'it', 'out', 'yourself,', 'okay?"']
+PRED 5558: "लोड खुद को ठीक है, ठीक है?"
+PRED SCORE: -4.8495
+
+[2020-10-27 12:12:58,774 INFO] 
+SENT 5559: ['"We\'re', 'in', 'winery."']
+PRED 5559: "हम बोल्डर में हैं."
+PRED SCORE: -1.8043
+
+[2020-10-27 12:12:58,774 INFO] 
+SENT 5560: ['"Thank', 'you."']
+PRED 5560: धन्यवाद.
+PRED SCORE: -0.3491
+
+[2020-10-27 12:12:58,774 INFO] 
+SENT 5561: ['"What', 'was', 'your', 'mission?"']
+PRED 5561: "अपने मिशन क्या था?"
+PRED SCORE: -0.0012
+
+[2020-10-27 12:12:58,774 INFO] 
+SENT 5562: ['"Morning.', 'Hey,', 'Roy."']
+PRED 5562: "-इतना हे, हे,।"
+PRED SCORE: -2.5345
+
+[2020-10-27 12:12:58,774 INFO] 
+SENT 5563: ['"Well,', 'thank', 'you', 'very', 'much."']
+PRED 5563: "खैर, बहुत बहुत धन्यवाद."
+PRED SCORE: -0.0122
+
+[2020-10-27 12:12:58,774 INFO] 
+SENT 5564: ['Smart!']
+PRED 5564: राघव।
+PRED SCORE: -1.3363
+
+[2020-10-27 12:12:58,774 INFO] 
+SENT 5565: ['"You', 'mind', 'if', 'I', 'call', 'you', 'chico?"']
+PRED 5565: "मेरा मन है अगर मैं आपको मैटेरियल कॉल करता हूँ."
+PRED SCORE: -6.5591
+
+[2020-10-27 12:12:58,774 INFO] 
+SENT 5566: ['"As', 'much', 'as', 'I', 'could', 'find', 'out,', 'I', 'did."']
+PRED 5566: "मैं बाहर मिल सकता है के रूप में ज्यादा के रूप में, मुझे पता है."
+PRED SCORE: -2.0359
+
+[2020-10-27 12:12:58,774 INFO] 
+SENT 5567: ['"I', 'said', 'stand', 'down!"']
+PRED 5567: "मैंने कहा, नीचे खड़े हो जाओ!"
+PRED SCORE: -0.4591
+
+[2020-10-27 12:12:58,775 INFO] 
+SENT 5568: ['"Your', 'application', 'to', 'leave', 'Berlin', 'is', 'completely', 'unacceptable."']
+PRED 5568: "अपनेसाथियोंछायाहोजाएगा महायाजक, बर्लिन छोड़ने के लिए"
+PRED SCORE: -4.1783
+
+[2020-10-27 12:12:58,775 INFO] 
+SENT 5569: ['"Then', "I'm", 'glad', 'I', 'helped."']
+PRED 5569: "तो मैं मैं खुश हूँ खुश हूँ."
+PRED SCORE: -2.8153
+
+[2020-10-27 12:12:58,775 INFO] 
+SENT 5570: ['"My', 'baby."']
+PRED 5570: "मेरे बच्चे."
+PRED SCORE: -0.8459
+
+[2020-10-27 12:12:58,775 INFO] 
+SENT 5571: ['"Who', 'have', 'we', 'here?"']
+PRED 5571: "कौन हम यहाँ है?"
+PRED SCORE: -1.0943
+
+[2020-10-27 12:12:58,775 INFO] 
+SENT 5572: ['"The', 'party', 'is', 'today."']
+PRED 5572: "आज पार्टी आज है."
+PRED SCORE: -0.2037
+
+[2020-10-27 12:12:58,775 INFO] 
+SENT 5573: ['"Any', 'chance', 'of', 'them', 'being', 'repaired', 'soon?"']
+PRED 5573: "उनकी मौजूदगी की कोई मौका नहीं होने वाले।"
+PRED SCORE: -5.0973
+
+[2020-10-27 12:12:58,775 INFO] 
+SENT 5574: ['Good.']
+PRED 5574: अच्छा.
+PRED SCORE: -0.9694
+
+[2020-10-27 12:12:58,775 INFO] 
+SENT 5575: ['"Keep', 'your', 'hands', 'back."']
+PRED 5575: "अपने हाथों को पीठ रखें।"
+PRED SCORE: -0.0222
+
+[2020-10-27 12:12:58,775 INFO] 
+SENT 5576: ['"The', "shit's", 'too', 'heavy', 'for', 'it."']
+PRED 5576: "यह बहुत ही भारी है, के लिए बकवास है."
+PRED SCORE: -2.8413
+
+[2020-10-27 12:12:58,775 INFO] 
+SENT 5577: ['"-', 'Yeah."']
+PRED 5577: "- हाँ."
+PRED SCORE: -0.2153
+
+[2020-10-27 12:12:58,776 INFO] 
+SENT 5578: ['"Don\'t', 'look', 'at', 'me!"']
+PRED 5578: "मुझ पर नजर मत करो!"
+PRED SCORE: -1.4741
+
+[2020-10-27 12:12:58,776 INFO] 
+SENT 5579: ['"If', 'he', 'had,', 'he', "would've", 'taken', 'this', 'useless', 'boy', 'along."']
+PRED 5579: "अगर वह वह इस बेकार लड़के को साथ ले गया था।"
+PRED SCORE: -1.0957
+
+[2020-10-27 12:12:58,776 INFO] 
+SENT 5580: ['"Apu,', 'the', 'son:"']
+PRED 5580: "एलन शेर."
+PRED SCORE: -3.8920
+
+[2020-10-27 12:12:59,117 INFO] 
+SENT 5581: ['"One', 'thing', 'for', 'sure,', 'you', "don't", 'have', 'to', 'worry', 'about', 'food."']
+PRED 5581: "आप के लिए चिंता की जरूरत नहीं है कि वास्तव में आप खाना की जरूरत नहीं है."
+PRED SCORE: -2.7589
+
+[2020-10-27 12:12:59,118 INFO] PRED AVG SCORE: -0.4087, PRED PPL: 1.5049
