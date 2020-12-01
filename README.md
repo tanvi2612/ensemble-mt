@@ -26,22 +26,24 @@ The project aims to explore and incorporate the benefits of multiple MT systems 
 │   ├── tgt-val.txt
 │   ├── train.en
 │   ├── train.hi
-│   └── truecase-model.en
+│   └── truecase-model.en                           # truecaser model trained on 
 ├── dataset                                         # directory containing the OpenSubtitles en-hi corpus
 │   ├── OpenSubtitles.en-hi.en
 │   ├── OpenSubtitles.en-hi.hi
 │   ├── OpenSubtitles.en-hi.ids
-│   └── README
+│   └── 
+├── dl4mt-multi-src.zip                             # multi source NMT source code
 ├── docs
 ├── lm                                              # directory containing language models
 │   ├── arpa.hi                                     # trigram KEN LM
-│   ├── bigram-lm                                   # bigram LM
-│   └── blm.hi
+│   ├── bigram-lm                                   # pickled nltk bigram LM
+│   └── blm.hi                                      # binarized KEN LM
 ├── logs                                            # directory containing cmd logs
 │   └── pbmt-moses-test.out
 ├── moses.zip                                       # moses source code
 ├── openNMT.zip                                     # openNMT source code
 ├── outputs                                         # directory containing predicted sentences
+│   ├── ensemble-predictions.txt
 │   ├── openNMT-predicted_test.txt
 │   ├── openNMT-predictions.txt
 │   └── pbmt-moses.translated.hi
