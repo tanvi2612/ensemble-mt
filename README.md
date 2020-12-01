@@ -3,7 +3,7 @@
 ## Introduction
 The project aims to explore and incorporate the benefits of multiple MT systems into one ensemble model, to improve upon the performances of the individual baselines. Find the project assets [here](https://drive.google.com/drive/folders/1C9PympPPGheRWxRlwtMHiwPBoq8yZ783?usp=sharing).
 
-## In this Repository
+## Contents
 ```bash
 .
 ├── README.md
@@ -54,6 +54,13 @@ The project aims to explore and incorporate the benefits of multiple MT systems 
 
 8 directories, 35 files
 ```
+## System
+The system includes sources for building MT models. They are as follows:
+- Moses PBMT
+- openNMT
+- Multi Source NMT
+
+To run the pipelines, check the READMEs within the source for each of the above projects.
 
 ## Authors
 Chaitanya Agarwal, Tanvi Kamble
